@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<h2> Tag: {{ page.tag }} </h2>
+<ul>
+{% for post in site.tags[page.tag] %}
+  <li> 
+    <span class="fancy">{{post.date | date: "%B %d, %Y"}}</span> <a href="{{site.baseurl}}/{{post.url}}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+
+{% if page.related %}
+<hr />
+<span id="related">
+<h2 > Related Tags: </h2>
+<ul>
+{% for tag in page.related %}
+	<li>
+		<a href="{{site.baseurl}}/tag/{{ tag }}/">{{ tag }}</a>
+	</li>
+{% endfor %}
+</ul>
+</span>
+{% endif %}
+

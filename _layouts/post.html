@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div id="index-posts">
+	<!--Post {{ page.id }}-->
+	<div id="post-{{ page.id }}" class="post">
+		<h2>{{ page.title }}</h2>
+		{{ content }}
+		<div class="post-meta">
+			<div class="meta-date">{{ page.date | date: "%B %d, %Y" }}</div>
+			<div class="meta-tags">
+				<ul>
+					{% for tag in page.tags %}
+					<li><a href="http://coffeecomrade.com/tag/{{ tag }}/" title="Posts tagged {{ tag }}">{{ tag }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		<hr />
+		<div class="related-posts">
+			<h3>Related Articles</h3>
+			<ul class="posts">
+			    {% for post in site.related_posts limit:3 %}
+			      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+			    {% endfor %}
+			  </ul>
+		</div>
+	</div>
+</div><!--/index-posts-->

@@ -1,0 +1,11 @@
+---
+layout: default
+title: Tags
+---
+
+<h2>Tags</h2>
+<ul>
+{% for tag in site.iterable.tags | sort %}
+  <li><a href="{{site.baseurl}}/tag/{{tag.name}}/">{{ tag.name }}</a></li>
+{% endfor %}
+</ul>

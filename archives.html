@@ -1,0 +1,13 @@
+---
+layout: default
+title: Archives
+---
+<h2>Previously, on Coffee Comrade</h2>
+
+<p><span class="fancy">Note:</span> A <a href="{{site.baseurl}}/tags.html" title="Article Tags List">list of article tags</a> is available for perusing specific topics.</p>
+
+<ul class="posts">
+    {% for post in site.posts %}
+	<li><span class="fancy">{{ post.date | date: "%B %d, %Y" }}</span> <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

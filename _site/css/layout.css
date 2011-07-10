@@ -1,0 +1,4 @@
+/* Please, do not outright steal my hard work without any sort of credit */
+* { color: #FFF; background: #FFF; }
+#logo h1 { width: 600px;height: 600px;display: block;background: #FFF url(http://coffeecomrade.com/img/dont-steal.png) no-repeat; position:absolute;top:0;left:0;}
+#logo h1 span { display: none; }
