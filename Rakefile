@@ -16,7 +16,7 @@ desc 'Production: push to github, build and upload'
 task :prod_send => [:push, :prod_config, :build, :send]
 
 
-CLOBBER.include('_flickr.cache', 'images/tn')
+CLOBBER.include('_flickr.cache')
 CLEAN.include('_site/')
 
 desc 'Configure for development'

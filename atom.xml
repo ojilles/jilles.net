@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Coffee Comrade</title>
+ <title>{{site.site_name}}</title>
  <link href="{{site.baseurl}}/atom.xml" rel="self"/>
  <link href="{{site.baseurl}}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{site.baseurl}}/</id>
  <author>
-   <name>Bryan Matthew Warren</name>
-   <email>bryanwarren@gmail.com</email>
+   <name>{{site.author_name}}</name>
+   <email>{{site.author_email}}</email>
  </author>
 
  {% for post in site.posts %}

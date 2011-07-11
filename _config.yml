@@ -8,4 +8,8 @@ markdown: rdiscount
 exclude: Rakefile, README.md
 
 # Used by my site (e.g. non jekyll specfic stuff)
+author_name: Jilles Oldenbeuving
+author_email: ojilles@gmail.com
+site_name: Jilles.net
+site_tagline: Jilles' small corner on the internet about technology, skiing, online businesses and general interest
 title_append: " | Jilles.net"
