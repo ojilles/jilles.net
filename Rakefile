@@ -2,8 +2,8 @@ require 'rake/clean'
 
 $remote = "jilles.net@ftp.jilles.net:jilles.net/test"
 
-$local_url = "/Users/ojilles/jilles.net/_site"
-$production_url = "http://wwww.jilles.net/jilles_net"
+$local_url = "file:///Users/ojilles/jilles.net/_site"
+$production_url = "http://www.jilles.net/jilles_net"
 
 desc 'Development: Rebuild the site'
 task :dev => [:dev_config, :build]
