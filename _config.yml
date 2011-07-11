@@ -3,4 +3,4 @@ auto: false
 permalink: /articles/:title.html
 tag_dir: tag
 tag_title_prefix: "Tags &raquo; "
-baseurl: http://coffeecomrade.com
+baseurl: /Users/joldenbeuving/jilles.net/_site/
