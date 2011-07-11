@@ -40,7 +40,7 @@ end
 desc 'Upload the _site content'
 task :send do
   # Should test if _site/ exists
-  sh "ncftpput -f ~/.ncftp/bookmarks -m -R jilles_net _site/*"
+  sh "ncftpput -f ~/.ncftp/bookmarks -m -S tmp -R jilles_net _site/*"
 end
 
 task :check_git do
