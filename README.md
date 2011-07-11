@@ -4,6 +4,6 @@ Here's the source for my blog. As I base I took Coffecomrade.com's weblog and we
 
 Recuirements
 ------------
-Thanks to the braindead native FTP client on Mac OS X, you'll need to install NcFTP:
+Thanks to the braindead native FTP client on Mac OS X, you'll need to install NcFTP (See: http://www.ncftp.com/ncftp/doc/ncftpput.html) :
 
     sudo port install NcFTP
