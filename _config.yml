@@ -3,6 +3,9 @@ auto: false
 permalink: perma/:year/:month/:day/:title
 tag_dir: tag
 tag_title_prefix: "Tags &raquo; "
-baseurl: /Users/joldenbeuving/jilles.net/_site
+baseurl: file:///Users/ojilles/jilles.net/_site
+markdown: rdiscount
 
+
+# Used by my site (e.g. non jekyll specfic stuff)
 title_append: " | Jilles.net"
