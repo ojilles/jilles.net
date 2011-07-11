@@ -17,3 +17,4 @@
 [Google+]: https://plus.google.com/108301301381508696600/posts
 [Hackernews]: http://news.ycombinator.com/user?id=ojilles
 [Pinboard]: http://pinboard.in/u:ojilles
+[Vimeo]: http://vimeo.com/user1284929/videos

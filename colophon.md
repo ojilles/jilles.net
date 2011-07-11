@@ -23,6 +23,7 @@ My stuff on the internet
     (old, switched to [Pinboard])
  * [Google reader]
  * [Shelfari]
+ * [Vimeo]
  * [Youtube]
 
 Misc. other sites
