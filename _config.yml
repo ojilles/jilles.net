@@ -4,3 +4,5 @@ permalink: /articles/:title.html
 tag_dir: tag
 tag_title_prefix: "Tags &raquo; "
 baseurl: /Users/joldenbeuving/jilles.net/_site/
+
+title_append: " | Jilles.net"
