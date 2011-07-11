@@ -11,7 +11,7 @@ layout: default
 			<div class="meta-tags">
 				<ul>
 					{% for tag in page.tags %}
-					<li><a href="http://coffeecomrade.com/tag/{{ tag }}/" title="Posts tagged {{ tag }}">{{ tag }}</a></li>
+					<li><a href="{{site.baseurl}}/tag/{{ tag }}/" title="Posts tagged {{ tag }}">{{ tag }}</a></li>
 					{% endfor %}
 				</ul>
 			</div>

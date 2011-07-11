@@ -19,7 +19,7 @@ body {color: #4f4d4b;background: #f5f5f5;font-family: 'PT Sans', "Lucida Grande"
 	.footer-toplink {margin-right:0;float:right;width:20%;text-align:right;}
 
 /* = LOGO */
-#logo h1 {width: 300px;height: 200px;display: block;background: #FFF url(http://coffeecomrade.com/img/coffee-comrade.png) no-repeat;margin-bottom: 20px;}
+#logo h1 {width: 300px;height: 200px;display: block;background: #FFF url({{site.baseurl}}/img/coffee-comrade.png) no-repeat;margin-bottom: 20px;}
 	#logo h1 span {display: none;}
 	
 /* = POSTS */

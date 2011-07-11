@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Coffee Comrade</title>
- <link href="http://coffeecomrade.com/atom.xml" rel="self"/>
- <link href="http://coffeecomrade.com/"/>
+ <link href="{{site.baseurl}}/atom.xml" rel="self"/>
+ <link href="{{site.baseurl}}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://coffeecomrade.com/</id>
+ <id>{{site.baseurl}}/</id>
  <author>
    <name>Bryan Matthew Warren</name>
    <email>bryanwarren@gmail.com</email>

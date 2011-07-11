@@ -5,7 +5,7 @@ layout: nil
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Coffee Comrade</title>
-    <link>http://coffeecomrade.com</link>
+    <link>{{site.baseurl}}</link>
     <language>en</language>
     <webMaster>bryanwarren@gmail.com (Bryan Matthew Warren)</webMaster>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
@@ -20,7 +20,7 @@ layout: nil
       <guid>{{site.baseurl}}{{ post.id }}/</guid>
       <description>{{ post.content | xml_escape }}</description>
       {% for tag in post.tags %}
-      <category domain="http://coffeecomrade.com/tag/{{ tag }}">{{ tag }}</category>
+      <category domain="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</category>
       {% endfor %}
     </item>
     {% endfor %}
