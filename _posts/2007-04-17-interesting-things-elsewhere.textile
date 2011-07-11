@@ -1,0 +1,16 @@
+---
+layout: post
+title: Interesting things elsewhere
+permalink: /interesting-things-elsewhere/
+post_id: 52
+categories: 
+- General
+---
+
+I've created a setup with my RSS reader that allows me to repost articles that I read onto this page. Generally, I repost items that I think are pretty interesting and are worthwhile to read, for someone with similar interest. Also, I will shamelessly plug my own posts if I see fit: you have been warned ;-) Anyway, enjoy. If you need to RSS feed that republishes this:  <a href="http://feeds.feedburner.com/Jilles_Shared_Stories">http://feeds.feedburner.com/Jilles_Shared_Stories</a>.
+
+<script src="http://feeds.feedburner.com/Jilles_Shared_Stories?format=sigpro" type="text/javascript" ></script><noscript>
+
+
+
+Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/Jilles_Shared_Stories"></a></noscript>

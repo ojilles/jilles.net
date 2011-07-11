@@ -1,0 +1,384 @@
+---
+layout: post
+title: To which project do I want to contribute?
+permalink: /perma/2003/07/13/to-which-project-do-i-want-to-contribute/
+post_id: 13
+categories: 
+- Open source
+- Software Development
+---
+
+Developingâ€¦ Iâ€™d like to contribute!
+
+Iâ€™ve made small contributions to open source projects. Someone on the <a title="Popfile" href="http://www.jilles.net/wp-admin/http:/popfile.sf.net/">translation front</a>, others by contributing <a title="Anthill" href="http://www.jilles.net/wp-admin/http:/anthill.vmlinuz.ca/">ideaâ€™s and/or actual code</a>. But Iâ€™d like to do more (after all Iâ€™ve been using open source software so much!). One of the things I always dread is to â€˜get into the projectâ€™. You have to read so much: how is the architecture, get all the dependencies, read the policies regarding commit access, testing, etc. So Iâ€™m trying to select a project on which I want to focus for the next few months, trying to come up with some useful patches in my free time. A couple of candidates: <a href="http://www.jilles.net/wp-admin/http:/www.apache.org/">Apache</a>, <a href="http://www.jilles.net/wp-admin/http:/subversion.tigris.org/">Subversion</a>, <a href="http://www.jilles.net/wp-admin/http:/anthill.vmlinuz.ca/">Anthill</a>, <a href="http://www.jilles.net/wp-admin/http:/www.binarycloud.com/phing/">Phing</a>/<a href="http://www.jilles.net/wp-admin/http:/www.binarycloud.com/">Binary Cloud</a>, <a href="http://www.jilles.net/wp-admin/http:/www.php.net/"><span class="caps"><span style="text-decoration: none">PHP5</span></span></a> and <a href="http://www.jilles.net/wp-admin/http:/www.mozilla.org/">Mozilla</a>. All these projects touch my professional work as well, and that is A Good Thing^(tm)^. Iâ€™d like to walk through these projects one by one. (This it actually not to inform you of something Iâ€™m going to do, just my â€˜internalâ€™ decision making process, exposed to the rest of the world. Read it or disregard it as you see fit :-o).
+
+What would I like to find in a project on which Iâ€™m going to work in my (so scarce) free time?
+
+*Multiplatform*: Iâ€™d like to do something that I could use/develop on Linux as well as on windows (the latter having less priority of course).
+
+*Perspective*: It should be a project that has a lifetime in front of it (not something that is going to be replaced in a few years, e.g. <span class="caps">CVS</span>).
+
+*Language*: Preferably a compiled language (C/C++/Java/etc.) instead of an interpreted language (PHP/Perl/etc) because thatâ€™s what I work with professionally. Iâ€™d like to keep my skills sharp over the entire line.
+
+*Documentation*: A project with a good organization has the advantage (e.g. <span class="caps">RFC</span>â€™s/bug reports etc. are input to a starting contributor). <span class="caps">A HACKING</span> file or some other documentation to orientate starting developers is an advantage!
+
+*Easy Compile-Run-Debug cycle*: Iâ€™d like to contribute to the Linux kernel but compiling the kernel, installing it, rebooting itâ€¦ thatâ€™s too long a cycle for yours truly.
+
+*Coolness factor*: this property of a project is undefined but working on some projects is just cooler than working on other projects (e.g. Linux kernel is way cool, writing man pages is definitely not :-?).
+
+*Need for developers*: some projects are developed into their 2.x versions. Clearly they donâ€™t need the developers as much as a 0.1beta project. If you want to contribute something the latter has more need of you.
+<p style="margin-bottom: 12pt">Albright, here is my decision matrix^(tm)^.
+
+
+
+<table width="70%" cellpadding="0" border="0" class="MsoNormalTable">
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Apache
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Subversion
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Anthill
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Phing/BC
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal"><span class="caps">PHP5</span>
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Mozilla
+
+
+
+|
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Multiplatform
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+|
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Perspective
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+|
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Language
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7,5
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6,5
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7,5
+
+
+
+|
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Documentation
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6,5
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6,5
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+|
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Devel-cycle
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6,5
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+|
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Coolness
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7,5
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">9
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+|
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Developers needed
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">6
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">8
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">7
+
+
+
+|
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">Totals
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">*49,5*
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">*_54,5_*
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">*47*
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">*49*
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">*50*
+
+
+
+<td style="padding: 0.75pt">
+<p class="MsoNormal">*50,5*
+
+
+
+|
+
+
+<p class="MsoNormal">
+
+^(Blab bla: my opinion, would like comments, this is _my_ opinion, these values may or may not be based on the truth)^
+
+Well if youâ€™d take this table, Iâ€™d go working on Subversionâ€¦ Iâ€™d like that very much. But, this table itself is not definitive. So if you, the reader, know any topics on which the above projects should be judged, before choosing a project, please tell me and Iâ€™ll include them in the above table. The same goes if you know of any projects that might be cool for me to join. <a href="mailto:ojilles@gmail.com">Mail me!</a> or place a comment here, or backtrack, whatever you like.
+
+First Iâ€™ve got some other stuff to finish, and in the meantime I can read documentation and stuff, to get into this new projectâ€¦

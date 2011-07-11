@@ -1,0 +1,34 @@
+---
+layout: post
+title: On Subversion
+permalink: /perma/2003/07/12/on-subersion/
+post_id: 11
+categories: 
+- Software Development
+---
+
+Iâ€™ve been playing around with <span class="caps">SCM</span> systems (Software Configuration Management) earlier (played around with <a href="http://web.archive.org/web/20041031181619/http:/www.cvshome.org/"><span class="caps"><span style="text-decoration: none">CVS</span></span></a>, <span class="caps">VSS</span> and <a href="http://web.archive.org/web/20041031181619/http:/www.bitkeeper.com/">BitKeeper</a>). Of these three <span class="caps">CVS</span> has in my opinion the best thing going for it (large, very large, adoption easily extendable, etc.). At that time (a few years back now) I already noticed <a href="http://web.archive.org/web/20041031181619/http:/subversion.tigris.org/">Subversion</a>, abbreviated to <span class="caps">SVN</span>. At that moment they had all the plans ready (architecture, etc.) and I think they were in their 0.1xâ€™s (version). Now Iâ€™m running a decently sized project on <span class="caps">CVS</span> Iâ€™m keeping my eyes open for alternatives, and <span class="caps">SVN</span> is one of the best candidates (BitKeeper looses it because of the licenses).
+
+<p style="margin-bottom: 12pt" class="MsoNormal">One of the best features of <span class="caps">SVN </span>(in my opinion) is the branching strategy theyâ€™ve taken. Although I already had experience with <span class="caps">CVS</span>, other team-members didnâ€™t have that when we switched to <span class="caps">CVS</span>. Explaining all the stuff and the command line options is simple enough. But the one thing Iâ€™ve noticed that is the hardest to pick up for new users is branching. Of course, youâ€™ll draw some pretty tree-like pictures and start explaining the stuff; everyone says he/she gets it. But when it is put to practice I see enough things going wrong regarding branches. One of the biggest obstacles, imho, is the fact that branches are on another dimension in <span class="caps">CVS</span>. People forget to switch between branches and trunk because itâ€™s not obvious on which one they are working. This is not the case in <span class="caps">SVN</span>, here a branch is just a full copy of the trunk, originating from a certain revision. You can do stuff like this with <span class="caps">SVN</span>:
+
+\Project1
+\trunk
+\src
+\doc
+\branches
+\feature1
+\src
+\doc
+\jilles-playing-ground
+\src
+\doc
+<p class="MsoNormal">This is a huge improvement over <span class="caps">CVS</span> and it will be so much easier to explain this to people new to <span class="caps">SCM</span>/CVS/SVN. Perfect. Another improvement is very obvious: every change to the repository results in a new revision of the *entire* repository. This way directories and such can also be versioned.
+
+
+Why am I still using <span class="caps">CVS</span>? Well, Iâ€™m still missing some features from <span class="caps">SVN</span>, but those will come in time. There is a nice cvs2svn script that I _will_ check out sometime. But paraphrasing Joel Spolsky: a good tactic to convert people to your product is to make it easy to switch back. Thatâ€™s why Iâ€™d like to see a svn2cvs script. Having such a script enables people to easy switch back to <span class="caps">CVS</span> once they decide that they like that better (unlikely) or they decide that <span class="caps">SVN</span> doesnâ€™t have the features they want yet (more likely that the previous reason).
+
+One other disadvantage of <span class="caps">SVN</span>: the tags. Under <span class="caps">CVS</span> a branch and a tag are two different beasts. Under <span class="caps">SVN </span>(as far as I see it/read it in the docs) they are both the same. Besides the directories â€˜trunkâ€™ and â€˜brachesâ€™ you can create a directory â€˜tagsâ€™ and essentially create branches. So far so good, thanks to <span class="caps">SVN</span>â€™s shallow copying technique this is fast and doesnâ€™t consume much disk space. My take on a tag is â€œa _constant _snapshot of the tree at a certain momentâ€. Note the word *constant*. Once I declare version 1.4 of my product and build, package and ship it I *do not* want the option/feature of changing the 1.4 tag in the repository and thereby creating a difference between the 1.4 version in the tree and the 1.4 version that is installed at the customer. Of course, an administrator should be able to move that tag around in case of an erroneous tag command but this should not be made easy. But in subversion a tag is tag only because of the way the developer looks at it. Iâ€™d like a command in <span class="caps">SVN</span> that would enable me to â€œfreezeâ€ a branch: such that once I create a tag (read: branch) I can freeze it and thereby disallowing all developers from committing to that branch, ensuring that version X in the tree is the same version X that Iâ€™ll ship.
+
+(Of course, I know that if you create a â€˜tagâ€™ and some developer commits changes to it, you can easily back out of those changes, but that would just be mending your wounds instead of preventing the wound ever from taking place.)
+
+All in all though, I like <span class="caps">SVN </span>(much better than <span class="caps">CVS</span>). Iâ€™m just biding my time till they reach a version more close to their 1.0 release
