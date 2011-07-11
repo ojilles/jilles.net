@@ -13,8 +13,10 @@ task :prod => [:prod_config, :build]
 #task :prod_build => [:publish_only, :ping_sitemap, :pingomatic, :push]
 
 desc 'Production: push to github, build and upload'
-task :prod_send => [:push, :prod_config, :build, :send]
-
+task :prod_send => [:push, :prod_config, :build, :send, :dev_config]
+# finished off in dev_config to ensure prod config doesn't get checked into git
+# also, :push needs to be first, otherwise :prod_config changes config files
+# which in turn will make the build fail for not having everything checked in
 
 CLOBBER.include('_flickr.cache')
 CLEAN.include('_site/')
@@ -23,12 +25,14 @@ desc 'Configure for development'
 task :dev_config do
   puts "* Configuring _config.yml for development... "
   edit_config('baseurl', $local_url) 
+  edit_config('lsi', 'false')
 end
 
 desc 'Configure for production'
 task :prod_config do
   puts "* Configuring _config.yml for production... "
   edit_config('baseurl', $production_url) 
+  edit_config('lsi', 'true')
 end
 
 desc 'Run Jekyll to generate the site'

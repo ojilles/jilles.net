@@ -1,4 +1,4 @@
-lsi: true
+lsi: false
 auto: false
 permalink: perma/:year/:month/:day/:title
 tag_dir: tag
