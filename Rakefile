@@ -9,11 +9,11 @@ desc 'Development: Rebuild the site'
 task :dev => [:dev_config, :build]
 
 desc 'Production: build only, don\'t upload'
-task :prod_build => [:prod_config, :build]
+task :prod => [:prod_config, :build]
 #task :prod_build => [:publish_only, :ping_sitemap, :pingomatic, :push]
 
-desc 'Production: build and upload'
-task :prod_send => [:prod_config, :build, :send]
+desc 'Production: push to github, build and upload'
+task :prod_send => [:push, :prod_config, :build, :send]
 
 
 CLOBBER.include('_flickr.cache', 'images/tn')
@@ -43,11 +43,12 @@ task :send do
   sh "ncftpput -f ~/.ncftp/bookmarks -m -R jilles_net _site/*"
 end
 
-task :check_git => :draft do
+task :check_git do
   status = `git status --porcelain --untracked-files=no`
   if status =~ /\S/
     puts " ! Warning: working directory is not clean. Please commit!!"
     puts " ! and don't forget to run 'rake push' after the commit."
+    fail
   end
 end
 
