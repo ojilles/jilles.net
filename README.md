@@ -5,7 +5,15 @@ went from there. For now, this has not been published at all (jilles.net is
 still running the old software). I'm merely using this as a base to experiment
 from.
 
-Recuirements
+Copyright and -lefts
+--------------------
+You are allowed to take anything from this site with two exceptions:
+
+* The articles (written human readable content, including images and movies)
+* Anything else that ties back to me or this site (think Google Analytics tags,
+  Disqus, etc.)
+
+Requirements
 ------------
 Thanks to the braindead native FTP client on Mac OS X, you'll need to install
 NcFTP (See: http://www.ncftp.com/ncftp/doc/ncftpput.html) :
