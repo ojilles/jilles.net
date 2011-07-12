@@ -78,6 +78,19 @@ a:visited{color: #7b4587;}
 a:hover {border: none;}
 hr{margin:24px 0 0 0;color:#DDD;background:#DDD;height:1px;border:none;}
 
+blockquote {
+    margin: 1em 2em;
+    border-left: 1px dashed #999;
+    padding-left: 1em; }
+blockquote p:first-letter {
+    float: left;
+    margin: .2em .3em .1em 0;
+    font-family: "Monotype Corsiva", "Apple Chancery", fantasy;
+    font-size: 220%;
+    font-weight: bold; }
+blockquote p:first-line {
+    font-variant: small-caps; }
+
 /* = DECREASE FONT SIZE FOR SMALLER SCREENS */
 @media only screen and (max-width: 1023px) {
 	body {font-size: 0.8em;line-height: 1.5em;}
@@ -91,4 +104,5 @@ hr{margin:24px 0 0 0;color:#DDD;background:#DDD;height:1px;border:none;}
 	#byline, #navigation {text-align: center;}
 	#navigation li {margin: 0 10px 0 0;padding: 0;list-style: none;display: inline;}
 	.post-meta {padding: 0;}
+
 }

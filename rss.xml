@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Coffee Comrade</title>
+    <title>{{site.site_name}}</title>
     <link>{{site.baseurl}}</link>
     <language>en</language>
-    <webMaster>bryanwarren@gmail.com (Bryan Matthew Warren)</webMaster>
+    <webMaster>{{site.author_email}} ({{site.author_name}})</webMaster>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
     <copyright>Copyright 2011</copyright>
     <ttl>60</ttl>
-    <description>Coffee reviews, tasting notes and commentary</description>
+    <description>{{site.site_tagline}}</description>
     {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title }}</title>
