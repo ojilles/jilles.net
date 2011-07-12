@@ -24,7 +24,7 @@ So the current iteration of the site you are looking at is completely
 statically generated. Here is the software I use:
 
 * Jekyll for rendering the site and templates
-* Git and [Github](https://github.com/ojilles) to maintain all the data
+* Git and [Github](https://github.com/ojilles/jilles.net/) to maintain all the data
 * Hosted by one.com
 * I use VIM to author all the articles
 * Rake to automate various tasks (ensuring everything is checked into Git,
@@ -40,12 +40,20 @@ Credits and Acknoledgments
 Like most people that get started with Jekyll, they look at the Github
 repositories out there and build off of one that comes closest to what they
 want. I did the same thing and want to acknoledge the work [Bryan Matthew
-Warren](http://coffeecomrade.com/) has done. 
+Warren](http://coffeecomrade.com/) has done. You will find 
+[his work on Github](https://github.com/haircut/coffeecomrade.com)
 
 Copyright and -lefts
 --------------------
-You are allowed to take anything from this site with two exceptions:
+My writing, photographs, graphics, and any other original content is covered by
+a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).
+In simple terms, you can reuse whatever you like from this site for
+non-commercial purposes, so long as you give me an attributive credit in the
+form of a link back to this site and do not modify the work. I would also
+appreciate it if you let me know how and where you're using my work.
 
-* The articles (written human readable content, including images and movies)
-* Anything else that ties back to me or this site (think Google Analytics tags,
-  Disqus, etc.)
+Anything else is strictly copyrighted by, unless it is copyrighted by a third party:
+
+* Google Analytics tags
+* Disqus integration
+* Etc
