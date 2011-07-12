@@ -56,3 +56,17 @@ be okay after that:
 * 2006-05-28-moola-weekend-millionaires-for-the-rest-of-us.md
 * Copy over the map of westendorf and link properly at:
   2006-08-27-map-of-westendorf.md
+
+Also, add GA tag:
+
+<script type="text/javascript">var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-329999-1']);
+ _gaq.push(['_trackPageview']);
+ _gaq.push(['_trackPageLoadTime']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
