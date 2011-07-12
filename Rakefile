@@ -2,7 +2,7 @@ require 'rake/clean'
 
 $remote = "jilles.net@ftp.jilles.net:jilles.net/test"
 
-$local_url = "file:///Users/ojilles/jilles.net/_site"
+$local_url = "file:///Users/joldenbeuving/jilles.net/_site"
 $production_url = "http://www.jilles.net/jilles_net"
 
 desc 'Development: Rebuild the site'
@@ -44,7 +44,7 @@ end
 desc 'Upload the _site content'
 task :send do
   # Should test if _site/ exists
-  sh "ncftpput -f ~/.ncftp/bookmarks -m -S tmp -R jilles_net _site/*"
+  sh "ncftpput -f ~/.ncftp/bookmarks -m -S tmp -R jilles_net _site/* && echo 'Blog pushed to production' | growl -H localhost -t 'Jilles.net' || echo 'Blog push FAILED' | growl -H localhost -t 'Jilles.net'"
 end
 
 task :check_git do
