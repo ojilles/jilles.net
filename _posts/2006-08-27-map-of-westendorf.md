@@ -19,7 +19,7 @@ I remembered finding a map/photograph of Westendorf with all the appartments,
 hotels, apres-ski bars  painted on it. I tried to find it again, but couldn't.
 Booted up my really old laptop and found it there. So, in order to make sure
 both I and you will be able to find it again in the future, I'm hosting a copy
-here on the site. <a href="http://www.jilles.net/wp-content/westendorf-map/">Go
+here on the site. <a href="{{site.baseurl}}/wp-content/westendorf-map/">Go
 check out the map of Westendorf</a>.
 
 **Update**: Seems that this year we will be staying a week at <a

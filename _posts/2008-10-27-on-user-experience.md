@@ -21,7 +21,7 @@ Let me give you an example. Look at the picture of this beamer. It's not a
 cheap one (nor a really expensive one either). Look closely... What is wrong
 here?
 
-[caption id="attachment_73" align="aligncenter" width="300" caption="InFocus Beamer"]<a href="http://www.jilles.net/wp-content/picture-004.jpg"><img src="http://www.jilles.net/wp-content/picture-004-300x300.jpg" alt="InFocus Beamer" title="InFocus Beamer" width="300" height="300" class="size-medium wp-image-73" /></a>[/caption]
+<a href="{{site.baseurl}}/wp-content/picture-004.jpg"><img src="{{site.baseurl}}/wp-content/picture-004-300x300.jpg" alt="InFocus Beamer" title="InFocus Beamer" width="300" height="300" /></a>
 
 The standby indicator is a couple of centimeters removed from the actual on/off
 button. Clearly whoever designed this, hasn't used it, didn't prototype or

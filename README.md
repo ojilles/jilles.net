@@ -33,14 +33,18 @@ Todo's
 Mainly a list of blogposts I still need to adapt, that I skipped the first pass
 (usually images involved).
 
-* 2006-05-19-google-tests-new-feature.md
-* 2006-05-28-moola-weekend-millionaires-for-the-rest-of-us.md
-* Copy over the map of westendorf and link properly at:
-  2006-08-27-map-of-westendorf.md
 * Check if iframe is ok at 2006-09-20-quick-post-on-my-ski-plans-this-season.md
 * Check if iframe is ok at 2006-09-23-recent-purchases.md
 * same for 2008-02-24-skiing.md
 * double check presentation embed at 2008-04-28-pfcongrez_marktplaats_architecture.md
+
+Decided to move over my wp-content dir verbatim, so the following ones should
+be okay after that:
+
 * Fix image at 2008-10-27-on-user-experience.md
 * fix image at 2008-11-15-panolab-iphone-application.md
 * Fix image at 2008-11-16-my-social-network-is-changing.md
+* 2006-05-19-google-tests-new-feature.md
+* 2006-05-28-moola-weekend-millionaires-for-the-rest-of-us.md
+* Copy over the map of westendorf and link properly at:
+  2006-08-27-map-of-westendorf.md

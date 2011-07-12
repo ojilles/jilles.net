@@ -9,17 +9,17 @@ categories:
 
 Today I did a few searches on Google, only to find out that Google either rolled out a new feature to their Search Engine Result Page or is testing it. I guess it is the latter because several <a href="http://lunchpauze.blogspot.com/2006/05/google-remembers-what-youve-visited.html">collegue's</a> and friends were not able to replicate the behaviour. See the screenshot below:
 
-<img id="image29" alt="Google testing new feature" src="http://www.jilles.net/wp-content/google-test.JPG" />
+<img id="image29" alt="Google testing new feature" src="{{site.baseurl}}/wp-content/google-test.JPG" />
 
 Basically Google remembers which searches you have done on a person by person basis. However, only now did I also see that the number of times you have already visited the search result is now displayed next to it.
 
 After digging some deeper I found some more features. Here is a page showing what I my popular searches were and which of the results were popular with me:
 
-<a class="imagelink" title="Popular Searches" onclick="doPopup(30);return false;" href="http://www.jilles.net/wp-content/google%20test%202.JPG"><img width="128" height="46" id="image30" alt="Popular Searches" src="http://www.jilles.net/wp-content/google%20test%202.thumbnail.JPG" /></a>
+<a title="Popular Searches" href="{{site.baseurl}}/wp-content/google%20test%202.JPG"><img width="128" height="46" id="image30" alt="Popular Searches" src="{{site.baseurl}}/wp-content/google%20test%202.thumbnail.JPG" /></a>
 
 And Google provides some handy graphs too!
 
-<a class="imagelink" title="Nice stats" onclick="doPopup(31);return false;" href="http://www.jilles.net/wp-content/google%20test%203.JPG"><img width="128" height="85" id="image31" alt="Nice stats" src="http://www.jilles.net/wp-content/google%20test%203.thumbnail.JPG" /></a>
+<a title="Nice stats" href="{{site.baseurl}}/wp-content/google%20test%203.JPG"><img width="128" height="85" id="image31" alt="Nice stats" src="{{site.baseurl}}/wp-content/google%20test%203.thumbnail.JPG" /></a>
 
 Some of this has implications though:
 bq. <a href="http://www.google.com/support/bin/answer.py?answer=26654&topic=1593">How is my Search History stored?</a>

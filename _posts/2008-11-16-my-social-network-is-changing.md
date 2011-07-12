@@ -7,7 +7,7 @@ categories:
 - Elsewhere on the web
 ---
 
-<img src="http://www.jilles.net/wp-content/img_0001-200x300.png" alt="Hyves social network screenshot on iPhone" title="img_0001" width="200" height="300" class="size-medium wp-image-146 alignleft" /></a>
+<img src="{{site.baseurl}}/wp-content/img_0001-200x300.png" alt="Hyves social network screenshot on iPhone" title="img_0001" width="200" height="300" /></a>
 
 Looking at this picture, I realized I was seeing a visualization of something
 I've been telling people around me: that it seems _everyone_ in my social

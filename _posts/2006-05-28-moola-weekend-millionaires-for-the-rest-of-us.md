@@ -14,7 +14,7 @@ It works by showing a small video before you start playing one of the games. Thi
 
 Currently, Moola sports two games. One is a Rock-Siccors-Paper game with a twist, over 6 rounds. The other game I did not play yet. The games are cool in and of themselves, but the added incentive really works.Up till here Moola already had some exposure in the blog world, for example on <a href="http://www.techcrunch.com/2006/05/14/moolas-interesting-business-model/">TechCrunch,</a> and other blogs. However, I did not see any other blogs yet that wrote about the bonuses that Moola is giving away. After me loosing my money twice Moola decided that I needed a bit more cash to get me off and decided to sponsor my account with 10 cents, see the screen shot below.
 
-<img width="538" height="406" style="margin: 5px" title="Moola Booster" src="http://www.jilles.net/wp-content/moola-booster.JPG" />
+<img width="538" height="406" style="margin: 5px" title="Moola Booster" src="{{site.baseurl}}/wp-content/moola-booster.JPG" />
 
 Anyway, this is a really interesting business model in my mind. The only problem with it is that the objectives of the players (you and me) are not nicely aligned with the advertisers that provide the cash. This will ultimately hurt the ROI for the advertisers and their willingness to participate. How it ends up we will see.
 

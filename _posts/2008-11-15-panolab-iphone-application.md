@@ -14,7 +14,7 @@ examples below.
 This is the Den Bla Avis building (the company that created http://www.dba.dk)
 from their parking lot in the marina of Aarhus, Denmark:
 
-<a href="http://www.jilles.net/wp-content/img_0128.jpg"><img src="http://www.jilles.net/wp-content/img_0128.jpg" alt="" title="img_0128" width="500" height="128" class="alignnone size-full wp-image-137" /></a>
+<a href="{{site.baseurl}}/wp-content/img_0128.jpg"><img src="{{site.baseurl}}/wp-content/img_0128.jpg" alt="" title="img_0128" width="500" height="128" /></a>
 
 These are three pictures stitched together on the iPhone itself (and cropped in
 iPhoto on the MacBook Air).

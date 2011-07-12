@@ -17,7 +17,7 @@ Here is a breakdown of which keywords people use to end up on my site:
 * **php website architecture**  (and variations thereof like "**website
   architecture with php**"):  I've posted a few articles on this topic, ranging
   from a <a
-  href="www.jilles.net/perma/2008/04/28/pfcongrez_marktplaats_architecture/
+  href="{{site.baseurl}}/perma/2008/04/28/pfcongrez_marktplaats_architecture/
   ">presentation of the high level architecture at Martkplaats.nl</a>, an
   article <a
   href="{{site.baseurl}}/perma/2007/05/29/memcached-discussions-bloglines-facebook/">about
