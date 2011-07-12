@@ -44,7 +44,7 @@ end
 desc 'Upload the _site content'
 task :send do
   # Should test if _site/ exists
-  sh "ncftpput -f ~/.ncftp/bookmarks -m -S tmp -R jilles_net _site/* && echo 'Blog pushed to production' | growl -H localhost -t 'Jilles.net' || echo 'Blog push FAILED' | growl -H localhost -t 'Jilles.net'"
+  sh "ncftpput -f ~/.ncftp/bookmarks -m -S tmp -R jilles_net _site/* && echo 'Blog pushed to production' | growl -H localhost -t 'Jilles.net' || echo 'Blog push FAILED' | growl -H localhost -s -t 'Jilles.net'"
 end
 
 task :check_git do
