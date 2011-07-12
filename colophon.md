@@ -40,7 +40,7 @@ Credits and Acknoledgments
 Like most people that get started with Jekyll, they look at the Github
 repositories out there and build off of one that comes closest to what they
 want. I did the same thing and want to acknoledge the work [Bryan Matthew
-Warren](http://coffeecomrade.com/about.html) has done. 
+Warren](http://coffeecomrade.com/) has done. 
 
 Copyright and -lefts
 --------------------
