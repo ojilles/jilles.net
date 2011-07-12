@@ -42,3 +42,5 @@ Mainly a list of blogposts I still need to adapt, that I skipped the first pass
 * same for 2008-02-24-skiing.md
 * double check presentation embed at 2008-04-28-pfcongrez_marktplaats_architecture.md
 * Fix image at 2008-10-27-on-user-experience.md
+* fix image at 2008-11-15-panolab-iphone-application.md
+* Fix image at 2008-11-16-my-social-network-is-changing.md

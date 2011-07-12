@@ -9,6 +9,14 @@ run on my own computer (I didn't have hosting back then). Now, I've
 redone the block in Jekyll so that it is completely statically
 generated (and pushed into GIT for convenience). 
 
+I've only deleted two articles that basically were going absolutely nowhere.
+Other than that, I believe most of the content came across in tact. Let me know
+if you see problems anywhere.
+
+As for the comments, I have moved those over to Disqus. I may even remove them
+completely as there are only a few of them. (If I do, I will leave a static
+dump somewhere on this site for posterity.)
+
 With that, I intent to write more again as well. It's been a long
 time since I have written anything sensible on any topic. The last
 real articles were written on the difference between Dutch and

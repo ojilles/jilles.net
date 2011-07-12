@@ -7,7 +7,13 @@ categories:
 - General
 ---
 
-For me personally, Skype is kicking it for real. Recently they released <a href="http://share.skype.com/sites/en/2007/03/skype_prime_beta_introducing_t.html">Skype Prime</a> which is basically a payed service number (0900 in the Netherlands) but then for everyone and their mother: it is really easy to setup -no 3rd parties involved- and as such I think Skype will see a lot of Consumer to Consumer calls which is a space where a lot of people might want to participate. 
+For me personally, Skype is kicking it for real. Recently they released <a
+href="http://share.skype.com/sites/en/2007/03/skype_prime_beta_introducing_t.html">Skype
+Prime</a> which is basically a payed service number (0900 in the Netherlands)
+but then for everyone and their mother: it is really easy to setup -no 3rd
+parties involved- and as such I think Skype will see a lot of Consumer to
+Consumer calls which is a space where a lot of people might want to
+participate. 
 
 Check out my Skype Prime badge:
 
