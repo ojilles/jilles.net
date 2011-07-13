@@ -3,12 +3,12 @@ auto: false
 permalink: perma/:year/:month/:day/:title
 tag_dir: tag
 tag_title_prefix: "Tags &raquo; "
-baseurl:  file:///Users/ojilles/jilles.net/_site
+baseurl:  file:///Users/joldenbeuving/jilles.net/_site
 markdown: rdiscount
 exclude: Rakefile, README.md
 
 # Used by my site (e.g. non jekyll specfic stuff)
-dev_build: false
+prod_build: false
 author_name: Jilles Oldenbeuving
 author_email: ojilles@gmail.com
 site_name: Jilles.net
