@@ -27,12 +27,15 @@ layout: default
 		</div>
 	</div>
     <div class="prev_next post_nav">
+        <p>
+        <br/>
         {% if page.previous.url %}
             Previously:&nbsp;<a href="{{site.baseurl}}/{{ page.previous.url }}/" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title | truncatewords: 15 }}</a><br/>
         {% endif %}
         {% if page.next.url %}
             Next:&nbsp;<a href="{{site.baseurl}}/{{ page.next.url }}/" rel="next" title="{{ page.next.title }}">{{ page.next.title | truncatewords: 15 }}</a>
         {% endif %}
+        </p>
     </div>
     <div id="disqus_thread"></div>
 </div><!--/index-posts-->
