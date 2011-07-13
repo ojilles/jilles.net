@@ -13,8 +13,7 @@ Most of these idea's are probably not going to be succesful, I will admit.
 Which is why I am very happy I am not a millionaire who could try to find out.
 
 
-(Non-) baby flights
---------------------
+### (Non-) baby flights
 
 Ever flown long haul flights? Say, Europe to New Zealand? Did you notice the
 cute couple with the 2 month old baby? When they board it is like watching a
@@ -32,8 +31,7 @@ changed into a small playroom. It might even include one of those nannies that
 keeps kids busy! Again, wouldn't suprise me if parents were willing to pay more
 for this on a 12 hour long flight!
 
-No security for convenience
----------------------------
+### No security for convenience
 
 If you look at people and see how they deal with risk, it is very peculiar.
 Take for example texting on your mobile phone while driving. Lot's of people do
@@ -72,9 +70,7 @@ we would backtrack on some of the "security measures" we have been implementing
 in the last decade?
 
 
-Quiet flights
--------------
+### Quiet flights
 
 
-Stunt flights
--------------
+### Stunt flights
