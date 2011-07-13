@@ -34,9 +34,7 @@ rainy. Some obvious differences I knew about as well. The Danish didn’t ratify
 the Euro as their currency, keeping their Danish Kroner.  
 
 
-Taxes
------
-
+### Taxes
 The first, and most obvious thing for Dutch (and perhaps other) expats moving
 to Denmark will be the taxes. The VAT in Denmark is 25% versus 19% in the
 Netherlands. Both DK and NL have what I call a bracketed income tax scheme: on
@@ -75,9 +73,7 @@ free,  I do not just mean movies do not get interrupted for commercials but in
 between movies there are no commercials. An absolute unexpected and pleasurable
 experience!
 
-Family live, Work/Life balance
-------------------------------
-
+### Family live, Work/Life balance
 It becomes apparent quite quickly that what the Danish find important is
 different from what the Dutch find important. The amount of time the Danish
 spend indoors with their family and friends is much more. The Danes invite
@@ -99,9 +95,7 @@ not open the full day either. I’m quite sure that it is an objective statement
 that the Danes make less hours per week than the Dutch. Please don’t mistake
 this for “the Dutch work harder than the Danes”, etc.
 
-Traffic
--------
-
+### Traffic
 <a href="{{site.baseurl}}/wp-content/traffic-jamjp.jpg"><img
 src="{{site.baseurl}}/wp-content/traffic-jamjp-244x300.jpg" alt=""
 title="traffic-jamjp" width="244" height="300" class="alignright size-medium

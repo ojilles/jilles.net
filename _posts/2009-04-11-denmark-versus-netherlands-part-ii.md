@@ -15,9 +15,7 @@ countries. Completely random stuff, I promise. <a
 href="{{site.baseurl}}/perma/2008/12/20/denmark-compared-to-the-netherlands/">Look
 here for part I</a>.
 
-English
--------
-
+### English
 I keep telling people back home that the level of English spoken here is even
 better than in Holland where to my (unbiased!) opinion it's already fairly
 good. I thought to look up some numbers (<a
@@ -39,12 +37,10 @@ the Netherlands? Seems I was wrong... Or was I?
 See? It's just my -_ahem_- unbiased cultural filter showing through ;-).
 
 
-Alcohol consumption
--------------------
+### Alcohol consumption
 The other thing I keep telling my colleagues in Denmark is that they drink much more wine than the average person in Holland. Obviously that was completely unsubstantiated and on top that a handful of people I work with closest are complete wine-affectionado's so I might be quite biased. So I thought I'd look it up (<a href="http://www.who.int/entity/substance_abuse/publications/globalstatusrep ortalcohol2004_alcconsumpt.pdf">PDF</a>). Wine consumption is roughly the same across both countries (percentage-wise of total consumption). However, where as the average cheese-head (Dutchie)  consumes 9.74L of pure alcohol per year a Dane washes down 11.93L. That's quite a few schnapps more. To be exact, 22.4% more schnapps!
 
-General stats
--------------
+### General stats
 Interested in more statistics? I got you covered (<a
 href="http://www.populstat.info/Europe/netherlg.htm">here</a> and <a
 href="http://www.populstat.info/Europe/denmarkg.htm">here</a>). While a Dane
@@ -58,8 +54,7 @@ than in the Netherlands. Up till a point where distilled water is sold in shops
 to fill your iron for example. (Sorry, could not find an online reference for
 this.)
 
-Food
-----
+### Food
 One thing that tricked me up in eateries and supermarkets in Denmark is the
 usage of _Frikadeller_. Here is a picture of a few by "<a
 href="http://www.flickr.com/photos/thomaschristensen/">Thomas Rockstar</a>".
@@ -85,8 +80,7 @@ only introduced in the Netherlands <a
 href="http://www.telegraaf.nl/etenengenieten/3171647/__Frikandel_is_50_jaar__.html?p=16,1">50
 years ago</a>.)
 
-Easter (Påske)
---------------
+### Easter (Påske)
 As we're just going through Easter right now I start to notice a couple of
 differences. Easter in Denmark is a "bigger thing" than in the Netherlands. For
 example the Danes are getting two additional public holidays versus the
@@ -109,8 +103,7 @@ it'll cost him/her a chocolate easter egg. The tradition seems to have grown
 from Valentine's and it is not entirely clear to me if it is only done during
 Easter or with Valentine's as well.
 
-Cultural Assessment
--------------------
+### Cultural Assessment
 While I was reading the book <a
 href="http://www.shelfari.com/books/4057927/Outliers-The-Story-of-Success">Outliers
 by Malcom Gladwell</a> I stumbled across a chapter that went into <a
