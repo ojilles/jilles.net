@@ -14,6 +14,7 @@ This is my weblog and my little corner on the internet. I've build many big site
  * [LinkedIN]
  * [Hyves]
 
+
 ### My stuff on the internet
  * [Flickr]
  * [Pinboard]
@@ -24,6 +25,7 @@ This is my weblog and my little corner on the internet. I've build many big site
  * [Vimeo]
  * [Youtube]
 
+
 ### Misc. other sites
  * [Jilles.net]
  * [Hackernews]
@@ -31,9 +33,11 @@ This is my weblog and my little corner on the internet. I've build many big site
  * [Stackoverflow]
  * [Github](https://github.com/ojilles)
 
+
 ### Travel
  * [Tripit]
  * [Travbuddy]
+
 
 ![Profile picture Jilles Oldenbeuving][profile1]
 

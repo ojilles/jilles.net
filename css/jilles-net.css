@@ -1,0 +1,63 @@
+
+/* = RESETS */
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,q,small,strong,sub,sup,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;margin:0;padding:0}article,aside,figure,figure img,figcaption,hgroup,footer,header,nav,section,video,object{display:block}a img{border:0}figure{position:relative}figure img{width:100%}
+img, object, embed {max-width: 100%;margin-bottom: 20px;}
+p, ul, ol, blockquote {margin-bottom: 24px;}
+img {-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;margin-bottom: 20px;}
+a img {display: block;}
+
+/* Jilles.net specifics: start **************** */
+
+/* = ALL */
+ul {margin: 0 0 0 20px;padding: 0;}
+blockquote { margin: 1em 2em; border-left: 1px dashed #999; font-family: 'Courier New','Courier'; font-size: 0.8em;}
+hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
+.content{ font-size 2em;}
+
+/* = COLOURS */
+/* http://www.colourlovers.com/palette/1660026/faery_whisper
+
+    purple:         7A72A8
+    darkest blue:   7D9EB8
+    blue:           90CAD1
+    teal:           B5F5E9
+    cream:          F5F4ED
+*/
+body{background: #F5F4ED;}
+a {color: #000;}
+h2 { margin-bottom: 15px; }
+h3 { margin-top: 15px; }
+
+/* = HEADER*/
+.header1 {background: #7A72A8; height: 50px;}
+.header2 {background: #7D9EB8; height: 25px;}
+.header3 {background: #90CAD1; height: 12px;}
+.header4 {background: #B5F5E9; height: 5px;}
+
+/* = BOXES */
+.grid {}
+.content{}
+.sidebar{background: #}
+.footer {margin: 5px 0 0 0;color:#8c8c8c;font-size:13px;}
+
+/* = LOGO */
+.banner h1 {display: block;background: url({{site.baseurl}}/img/coffee-comrade.png) no-repeat;margin-bottom: 20px;}
+
+/* = SIDEBAR */
+.sidebar li {margin: 0 10px 0 0;padding: 0;list-style: none;}
+
+/* = TYPOGRAPHY */
+.content, .grid {font-family: 'Helvetica', 'Ariel';}
+.logo, .banner h1 {font-size: 2em}
+
+
+/* Jilles.net specifics: stop  **************** */
+
+/* SimpleGrid neccesaties */
+.grid {
+	padding: 0 20px;
+}
+
+.row {
+	margin-bottom: 1em;
+}
