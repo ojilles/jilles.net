@@ -8,6 +8,7 @@ markdown: rdiscount
 exclude: Rakefile, README.md
 
 # Used by my site (e.g. non jekyll specfic stuff)
+dev_build: true
 author_name: Jilles Oldenbeuving
 author_email: ojilles@gmail.com
 site_name: Jilles.net
