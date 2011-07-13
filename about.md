@@ -4,19 +4,17 @@ title: About me, Jilles Oldenbeuving
 ---
 
 About me
-========
+--------
 This is my weblog and my little corner on the internet. I've build many big sites in my professional career, so I figured a small weblog should be possible. To be honest this is probably already incarnation number 4 ([see old version]({{site.baseurl}}/perma/2006/03/05/welcome-to-v3-blog/index.html)) of the site. Hope you enjoy.
 
-Social networks
----------------
+### Social networks
  * [Facebook]
  * [Google+]
  * [Twitter]
  * [LinkedIN]
  * [Hyves]
 
-My stuff on the internet
-------------------------
+### My stuff on the internet
  * [Flickr]
  * [Pinboard]
  * [Delicious]
@@ -26,16 +24,14 @@ My stuff on the internet
  * [Vimeo]
  * [Youtube]
 
-Misc. other sites
------------------
+### Misc. other sites
  * [Jilles.net]
  * [Hackernews]
  * [Getsatisfaction]
  * [Stackoverflow]
  * [Github](https://github.com/ojilles)
 
-Travel
-------
+### Travel
  * [Tripit]
  * [Travbuddy]
 

@@ -4,7 +4,7 @@ title: Colophon
 ---
 
 Colophon
-========
+--------
 This is my weblog and my little corner on the internet. [See here for more
 information about me]({{site.baseurl}}/about.html). I've build many big sites
 in my professional career, so I figured a small weblog should be possible. To
@@ -12,8 +12,7 @@ be honest this is probably already incarnation number 4 ([see old
 version]({{site.baseurl}}/perma/2006/03/05/welcome-to-v3-blog/index.html)) of
 the site. Hope you enjoy.
 
-General Setup
--------------
+### General Setup
 The first few years I ran my personally crafted blogging system, which was
 great because I could experiment with it as a software developer. After my
 spare time became too scarce I moved it all over to a Wordpress blog.
@@ -34,17 +33,17 @@ statically generated. Here is the software I use:
   NcFTP to deploy to production
 
 [TODO]
+http://www.colourlovers.com/palette/1660026/faery_whisper
 
-Credits and Acknoledgments
---------------------------
+
+### Credits and Acknoledgments
 Like most people that get started with Jekyll, I looked at the Github
 repositories out there and build off of one that comes closest to what I 
 want. I did the same thing and want to acknoledge the work [Bryan Matthew
 Warren](http://coffeecomrade.com/) has done. You will find 
 [his work on Github](https://github.com/haircut/coffeecomrade.com).
 
-Copyright and -lefts
---------------------
+### Copyright and -lefts
 My writing, photographs, graphics, and any other original content is covered by
 a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).
 In simple terms, you can reuse whatever you like from this site for
