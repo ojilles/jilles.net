@@ -7,11 +7,22 @@ from.
 
 Copyright and -lefts
 --------------------
-You are allowed to take anything from this site with two exceptions:
+My writing, photographs, graphics, and any other original content is covered by
+a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).
+In simple terms, you can reuse whatever you like from this site for
+non-commercial purposes, so long as you give me an attributive credit in the
+form of a link back to this site and do not modify the work. I would also
+appreciate it if you let me know how and where you're using my work.
 
-* The articles (written human readable content, including images and movies)
-* Anything else that ties back to me or this site (think Google Analytics tags,
-  Disqus, etc.)
+Anything else is strictly copyrighted by me, unless it is copyrighted by a
+third party:
+
+* Google Analytics tags
+* Disqus integration
+* Similar things like the above
+
+So if you decide to make a derrivative work based on my stuff, do not reuse
+these.
 
 Requirements
 ------------
