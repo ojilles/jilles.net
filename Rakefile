@@ -24,7 +24,7 @@ CLEAN.include('_site/')
 desc 'Configure for development'
 task :dev_config do
   puts "* Configuring _config.yml for development... "
-  edit_config('dev_build', 'true');
+  edit_config('prod_build', 'true');
   edit_config('baseurl', $local_url) 
   edit_config('lsi', 'false')
 end
@@ -32,7 +32,7 @@ end
 desc 'Configure for production'
 task :prod_config do
   puts "* Configuring _config.yml for production... "
-  edit_config('dev_build', 'false');
+  edit_config('prod_build', 'false');
   edit_config('baseurl', $production_url) 
   edit_config('lsi', 'true')
 end
