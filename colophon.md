@@ -37,11 +37,11 @@ statically generated. Here is the software I use:
 
 Credits and Acknoledgments
 --------------------------
-Like most people that get started with Jekyll, they look at the Github
-repositories out there and build off of one that comes closest to what they
+Like most people that get started with Jekyll, I looked at the Github
+repositories out there and build off of one that comes closest to what I 
 want. I did the same thing and want to acknoledge the work [Bryan Matthew
 Warren](http://coffeecomrade.com/) has done. You will find 
-[his work on Github](https://github.com/haircut/coffeecomrade.com)
+[his work on Github](https://github.com/haircut/coffeecomrade.com).
 
 Copyright and -lefts
 --------------------
@@ -52,8 +52,12 @@ non-commercial purposes, so long as you give me an attributive credit in the
 form of a link back to this site and do not modify the work. I would also
 appreciate it if you let me know how and where you're using my work.
 
-Anything else is strictly copyrighted by, unless it is copyrighted by a third party:
+Anything else is strictly copyrighted by me, unless it is copyrighted by a
+third party:
 
 * Google Analytics tags
 * Disqus integration
-* Etc
+* Similar things like the above
+
+So if you decide to make a derrivative work based on my stuff, do not reuse
+these.
