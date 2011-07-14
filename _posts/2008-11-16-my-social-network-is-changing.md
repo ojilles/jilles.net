@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My social network is changing
-permalink: /perma/2008/11/16/my-social-network-is-changing/
+permalink: perma/2008/11/16/my-social-network-is-changing/
 post_id: 148
 categories: 
 - Elsewhere on the web

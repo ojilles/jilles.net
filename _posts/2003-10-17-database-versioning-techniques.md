@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Database versioning techniques
-permalink: /perma/2003/10/17/database-versioning-techniques/
+permalink: perma/2003/10/17/database-versioning-techniques/
 post_id: 7
 categories: 
 - Software Development

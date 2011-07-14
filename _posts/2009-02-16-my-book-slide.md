@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Book Slide
-permalink: /perma/2009/02/16/my-book-slide/
+permalink: perma/2009/02/16/my-book-slide/
 post_id: 170
 categories: 
 - Reading

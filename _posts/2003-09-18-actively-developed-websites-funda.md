@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Actively developed websites
-permalink: /perma/2003/09/18/actively-developed-websites-funda/
+permalink: perma/2003/09/18/actively-developed-websites-funda/
 post_id: 19
 categories: 
 - Online Business

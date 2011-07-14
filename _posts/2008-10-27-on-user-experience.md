@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On User Experience
-permalink: /perma/2008/10/27/on-user-experience/
+permalink: perma/2008/10/27/on-user-experience/
 post_id: 69
 categories: 
 - Online Business

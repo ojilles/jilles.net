@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " A storm of swords"
-permalink: /perma/2003/04/05/a-storm-of-swords-martin/
+permalink: perma/2003/04/05/a-storm-of-swords-martin/
 post_id: 5
 categories: 
 - Reading

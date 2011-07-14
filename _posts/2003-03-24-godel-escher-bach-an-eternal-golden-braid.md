@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Godel, Escher, Bach: an Eternal Golden Braid "
-permalink: /perma/2003/03/24/godel-escher-bach-an-eternal-golden-braid/
+permalink: perma/2003/03/24/godel-escher-bach-an-eternal-golden-braid/
 post_id: 12
 categories: 
 - Reading

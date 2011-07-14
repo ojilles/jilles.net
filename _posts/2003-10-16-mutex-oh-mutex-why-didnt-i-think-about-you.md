@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mutex, oh mutex, why didn't I think about you?"
-permalink: /perma/2003/10/16/mutex-oh-mutex-why-didnt-i-think-about-you/
+permalink: perma/2003/10/16/mutex-oh-mutex-why-didnt-i-think-about-you/
 post_id: 17
 categories: 
 - Software Development

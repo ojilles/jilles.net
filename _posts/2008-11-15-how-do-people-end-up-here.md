@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How do people end up here?
-permalink: /perma/2008/11/15/how-do-people-end-up-here/
+permalink: perma/2008/11/15/how-do-people-end-up-here/
 post_id: 134
 categories: 
 - General

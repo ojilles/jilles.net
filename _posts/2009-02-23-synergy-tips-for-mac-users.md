@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Synergy tips for Mac users
-permalink: /perma/2009/02/23/synergy-tips-for-mac-users/
+permalink: perma/2009/02/23/synergy-tips-for-mac-users/
 post_id: 182
 categories: 
 - Technology

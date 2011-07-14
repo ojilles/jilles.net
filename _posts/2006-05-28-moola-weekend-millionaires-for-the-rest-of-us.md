@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moola: \"Weekend millionaires for the rest of us\""
-permalink: /perma/2006/05/28/moola-weekend-millionaires-for-the-rest-of-us/
+permalink: perma/2006/05/28/moola-weekend-millionaires-for-the-rest-of-us/
 post_id: 35
 categories: 
 - General

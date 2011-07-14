@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iPhone and iPod Touch, why the negative responses + feature requests
-permalink: /perma/2007/10/05/iphone-and-ipod-touch-why-the-negative-responses-feature-requests/
+permalink: perma/2007/10/05/iphone-and-ipod-touch-why-the-negative-responses-feature-requests/
 post_id: 58
 categories: 
 - Open source

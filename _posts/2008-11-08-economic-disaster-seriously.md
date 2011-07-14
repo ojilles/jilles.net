@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Economic disaster? Seriously?
-permalink: /perma/2008/11/08/economic-disaster-seriously/
+permalink: perma/2008/11/08/economic-disaster-seriously/
 post_id: 89
 categories: 
 - Elsewhere on the web
