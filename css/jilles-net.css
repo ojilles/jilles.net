@@ -44,7 +44,7 @@ h3 { margin-top: 15px; }
 
 
 /* = LOGO */
-.banner h1 {display: block;background: url({{site.baseurl}}/img/coffee-comrade.png) no-repeat;margin-bottom: 20px;}
+.banner h1 {display: block; /* background: url({{site.baseurl}}/img/logo.png) no-repeat */;margin-bottom: 20px;}
 
 /* = SIDEBAR */
 .sidebar li {margin: 0 10px 0 0;padding: 0;list-style: none;}
