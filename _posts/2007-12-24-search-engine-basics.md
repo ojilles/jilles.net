@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Search engine basics
-permalink: perma/2007/12/24/search-engine-basics/
+permalink: perma/2007/12/24/search-engine-basics
 post_id: 61
 categories: 
 - General

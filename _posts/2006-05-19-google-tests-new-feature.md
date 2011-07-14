@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google testing out new SERP feature
-permalink: perma/2006/05/19/google-tests-new-feature/
+permalink: perma/2006/05/19/google-tests-new-feature
 post_id: 32
 categories: 
 - General

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software development project management
-permalink: perma/2006/08/13/software-development-project-management/
+permalink: perma/2006/08/13/software-development-project-management
 post_id: 39
 categories: 
 - General

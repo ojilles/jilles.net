@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jillles' books online
-permalink: perma/2006/06/07/jillles-books-online/
+permalink: perma/2006/06/07/jillles-books-online
 post_id: 36
 categories: 
 - Reading

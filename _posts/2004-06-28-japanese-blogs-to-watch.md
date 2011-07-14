@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Japanese blogs to watch
-permalink: perma/2004/06/28/japanese-blogs-to-watch/
+permalink: perma/2004/06/28/japanese-blogs-to-watch
 post_id: 15
 categories: 
 - General

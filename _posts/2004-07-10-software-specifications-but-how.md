@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Specifications? How?
-permalink: perma/2004/07/10/software-specifications-but-how/
+permalink: perma/2004/07/10/software-specifications-but-how
 post_id: 6
 categories: 
 - Software Development

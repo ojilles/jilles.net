@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP vs Ruby on Rails
-permalink: perma/2007/05/29/php-vs-ruby-on-rails/
+permalink: perma/2007/05/29/php-vs-ruby-on-rails
 post_id: 56
 categories: 
 - General

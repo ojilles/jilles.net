@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map of Westendorf, Austria
-permalink: perma/2006/08/27/map-of-westendorf/
+permalink: perma/2006/08/27/map-of-westendorf
 post_id: 37
 categories: 
 - Wintersports

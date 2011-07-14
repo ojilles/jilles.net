@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All those little software secrets!
-permalink: perma/2006/09/28/all-those-little-software-secrets/
+permalink: perma/2006/09/28/all-those-little-software-secrets
 post_id: 45
 categories: 
 - General

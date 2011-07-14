@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memcached usage across large web properties
-permalink: perma/2007/05/29/memcached-discussions-bloglines-facebook/
+permalink: perma/2007/05/29/memcached-discussions-bloglines-facebook
 post_id: 57
 categories: 
 - Open source

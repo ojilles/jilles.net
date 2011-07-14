@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software development is hard
-permalink: perma/2007/10/06/software-development-is-hard/
+permalink: perma/2007/10/06/software-development-is-hard
 post_id: 59
 categories: 
 - Elsewhere on the web

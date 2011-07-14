@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Denmark compared to the Netherlands
-permalink: perma/2008/12/20/denmark-compared-to-the-netherlands/
+permalink: perma/2008/12/20/denmark-compared-to-the-netherlands
 post_id: 157
 categories: 
 - Denmark

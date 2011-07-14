@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vendors vs Application providers
-permalink: perma/2007/10/06/vendors-vs-application-providers/
+permalink: perma/2007/10/06/vendors-vs-application-providers
 post_id: 60
 categories: 
 - Software Development

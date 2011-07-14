@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Godel, Escher, Bach
-permalink: perma/2008/04/27/godel-escher-bach/
+permalink: perma/2008/04/27/godel-escher-bach
 post_id: 64
 categories: 
 - Godel_Escher_Bach

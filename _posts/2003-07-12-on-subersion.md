@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Subversion
-permalink: perma/2003/07/12/on-subersion/
+permalink: perma/2003/07/12/on-subersion
 post_id: 11
 categories: 
 - Software Development

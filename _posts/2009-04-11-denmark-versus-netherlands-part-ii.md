@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Denmark versus Netherlands, part II
-permalink: perma/2009/04/11/denmark-versus-netherlands-part-ii/
+permalink: perma/2009/04/11/denmark-versus-netherlands-part-ii
 post_id: 183
 categories: 
 - Denmark
