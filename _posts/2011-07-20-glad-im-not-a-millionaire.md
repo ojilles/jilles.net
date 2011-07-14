@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Glad I'm not a millionaire (or, innovation in the airline industry)
+categories:
+- Crazy Ideas
 ---
 
 Every time I am flying on a plane, which happens quite a bit, I get these crazy
