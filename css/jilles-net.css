@@ -10,7 +10,7 @@ a img {display: block;}
 
 /* = ALL */
 ul {margin: 0 0 0 20px;padding: 0;}
-blockquote { margin: 1em 2em; border-left: 1px dashed #999; font-family: 'Courier New','Courier'; font-size: 0.8em;}
+blockquote { margin: 1em 2em; padding-left: 20px; border-left: 10px dashed #999; font-family: 'Courier New','Courier'; font-size: 0.8em;}
 hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
 .content{ font-size 2em;}
 
@@ -29,7 +29,7 @@ h2 { margin-bottom: 15px; }
 h3 { margin-top: 15px; }
 
 /* = HEADER*/
-.header1 {background: #7A72A8; height: 50px;}
+.header1 {background: #7A72A8; height: 40px;}
 .header2 {background: #7D9EB8; height: 25px;}
 .header3 {background: #90CAD1; height: 12px;}
 .header4 {background: #B5F5E9; height: 5px;}
