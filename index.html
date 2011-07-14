@@ -5,7 +5,7 @@ layout: default
 	{% for post in site.posts limit:10 %}
 	<!--Post {{ post.id }}-->
 	<div id="post-{{ post.id }}" class="post">
-		<h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
+		<h2><a href="{{site.baseurl}}/{{post.url}}/">{{ post.title }}</a></h2>
 		{{ post.content }}
 		<div class="post-meta">
 			<div class="meta-date">{{ post.date | date: "%B %d, %Y" }}</div>
