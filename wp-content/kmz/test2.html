@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Jilles' Ski travels winter season 2006-2007</title>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAfTRvEisGH9ZWaLEBUxt2pRSwko1Eegiv43-qNaZnRZPM8eG-2hT7efxfn56ASH_lNzVOJ95mW0ZCfQ"
+            type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+
+    function load() {
+	    if (GBrowserIsCompatible()) {
+		    var map = new GMap2(document.getElementById("map"));
+		    map.addControl(new GSmallMapControl());
+		    map.addControl(new GMapTypeControl());
+		    map.setCenter(new GLatLng("47.303768307322209", "9.21774989446051"), 6);
+
+		    // Creates a marker at the given point with the given number label
+		    function createMarker(point, number) {
+			    var marker = new GMarker(point);
+			    var marker_html = '';
+
+			    switch(number) 
+			    {
+				    case 1:
+					    marker_html = "<b>Westendorf, Austria</b><br>January 27 - February 3, 2007<br><a href='#'>Wikipedia</a> | more to come<br>";
+					    break;
+				    case 2:
+					    marker_html = "<b>Kaprun, Austria</b><br>December 17 - December 24, 2006<br><a href='http://en.wikipedia.org/wiki/Kaprun'>Wikipedia</a> | more to come<br>";
+					    break;
+				    case 3:
+					    marker_html = "<b>Val Thorens, France</b><br>January 11 - February 14, 2007<br><a href='http://en.wikipedia.org/wiki/Val_Thorens'>Wikipedia</a> | more to come<br>";
+					    break;
+				    case 4:
+					    marker_html = "<b>Zermatt, Swiss</b><br>October 14 - October 16, 2006<br><a href='http://en.wikipedia.org/wiki/Zermatt'>Wikipedia</a> | more to come<br>";
+					    break;
+				    default:
+						    marker_html = "<b>Unknown marker</b>";
+						    break;
+
+			    }
+			    GEvent.addListener(marker, "click", function() {
+					    marker.openInfoWindowHtml(marker_html);
+					    });
+			    return marker;
+		    }
+
+		    // Add 10 markers to the map at random locations
+		    var point = new GLatLng("47.43768307322209", "12.21774989446051");
+		    map.addOverlay(createMarker(point, 1));
+		    var point = new GLatLng("47.2680531376001", "12.76072935237746");
+		    map.addOverlay(createMarker(point, 2));
+		    var point = new GLatLng("45.39674126765569", "6.599424076975715");
+		    map.addOverlay(createMarker(point, 3));
+		    var point = new GLatLng("46.02257123753621", "7.759515905636931");
+		    map.addOverlay(createMarker(point, 4));
+
+
+	    }
+    }
+
+    //]]>
+    </script>
+  </head>
+  <body onload="load()" onunload="GUnload()">
+    <div id="map" style="width: 500px; height: 300px"></div>
+  </body>
+</html>
+
