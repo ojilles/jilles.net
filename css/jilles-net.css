@@ -23,7 +23,7 @@ hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
     teal:           B5F5E9
     cream:          F5F4ED
 */
-body{background: #F5F4ED;}
+/* body{background: #F5F4ED;} */
 a {color: #000;}
 h2 { margin-bottom: 15px; }
 h3 { margin-top: 15px; }
@@ -38,7 +38,11 @@ h3 { margin-top: 15px; }
 /* = BOXES */
 .grid {}
 .content{}
-.sidebar{background: #}
+img, .navibar {background: #
+/* http://www.sohtanaka.com/web-design/css-border-tricks-tutorial/ */
+ padding: 20px; border: 1px solid #f0f0f0; border-bottom: 2px solid #ccc; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;}
+.banner{margin:10px 10px 10px 20px}
+
 .footer {margin: 5px 0 0 0;color:#8c8c8c;font-size:13px;}
 
 
