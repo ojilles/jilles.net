@@ -33,6 +33,7 @@ statically generated. Here is the software I use:
   NcFTP to deploy to production
 * Colorscheme (probably need to change again from [Colourlovers](http://www.colourlovers.com/palette/1660026/faery_whisper)
 * Hyperlink animation from [Herjen.nl](http://www.herjen.nl)
+* CSS: [960gs Grid system](http://960.gs/)
 
 
 ### Credits and Acknoledgments
