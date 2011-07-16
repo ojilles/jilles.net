@@ -5,7 +5,7 @@ title: Welcome to Jilles' weblog
 <div id="index-posts">
 	{% for post in site.posts limit:10 %}
 	<!--Post {{ post.id }}-->
-	<div id="post-{{ post.id }}" class="post">
+	<div id="post-{{ post.id | replace:'/','-' }}" class="post">
 		<h2><a href="{{site.baseurl}}/{{post.url}}/">{{ post.title }}</a></h2>
 		{{ post.content }}
 		<div class="post-meta">

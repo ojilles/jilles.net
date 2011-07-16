@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="index-posts">
 	<!--Post {{ page.id }}-->
-	<div id="post-{{ page.id }}" class="post">
+	<div id="post-{{ page.id | replace:'/','-' }}" class="post">
 		<h2>{{ page.title }}</h2>
 		{{ content }}
 		<div class="post-meta">
