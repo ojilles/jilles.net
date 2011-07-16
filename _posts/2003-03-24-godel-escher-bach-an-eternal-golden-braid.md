@@ -8,7 +8,7 @@ categories:
 ---
 
 I've got an edition of <a
-href="http://www.amazon.com/gp/product/0465026567/104-8640111-8926352?v=glance&n=283155">_Godel,
+href="http://www.amazon.com/gp/product/0465026567/104-8640111-8926352?v=glance&amp;n=283155">_Godel,
 Escher, Bach: an Eternal Golden Braid_</a> (GEB) by Douglas Hofstadter, a gift
 from my parents. Two words about this book: **oh my!**. I'm currently also reading
 _A storm of swords_ by Martin but I don't think I'll be able to read in that

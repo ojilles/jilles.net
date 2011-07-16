@@ -99,7 +99,7 @@ src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/G%C3%A6kkebrev_2.J
 class="alignright" width="200" height="150" /></a>Another tradition is to write
 a poem on an intricately cut piece of paper and send it to someone else without
 giving your identity away (the so called "<a
-href="http://da.wikipedia.org/wiki/G%C3%A6kkebrev">gækkebrev</a>"). The
+href="http://da.wikipedia.org/wiki/G%C3%A6kkebrev">g&Atilde;&brvbar;kkebrev</a>"). The
 recipient get's three tries to guess the sender. If he or she fails to do so,
 it'll cost him/her a chocolate easter egg. The tradition seems to have grown
 from Valentine's and it is not entirely clear to me if it is only done during
@@ -113,7 +113,7 @@ href="http://en.wikipedia.org/wiki/Geert_Hofstede">Geert Hofstede</a>'s
 framework for assessing cultural differences. I advice you to at least <a
 href="http://en.wikipedia.org/wiki/Geert_Hofstede">read the Wikipedia articel
 on Geert's definitions</a> but to go short there are only <a
-href="http://www.geert-hofstede.com/hofstede_dimensions.php?culture1=62&culture2=23#compare">2
+href="http://www.geert-hofstede.com/hofstede_dimensions.php?culture1=62&amp;culture2=23#compare">2
 big differences between Denmark and the Netherlands</a>:
 
 <a href="{{site.baseurl}}/wp-content/culturaldiff.png"><img src="{{site.baseurl}}/wp-content/culturaldiff.png" alt="" title="culturaldiff" width="300" height="340" class="aligncenter size-full wp-image-189" /></a>

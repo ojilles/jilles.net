@@ -9,7 +9,7 @@ categories:
 
 Inspired by Jurgen from Noop.nl, here is my bookslide. I'll limit myself to the
 books that I just got though. You can find <a
-href="http://www.shelfari.com/ojilles/lists/IsRead#firstBook=0&list=5&sort=dateadded">my
+href="http://www.shelfari.com/ojilles/lists/IsRead#firstBook=0&amp;list=5&amp;sort=dateadded">my
 virtual bookshelf over at Shelfari</a>. This round of books are a bit sciency
 more so that others but that is predominantly the case due to George R R Martin
 still not having <a
