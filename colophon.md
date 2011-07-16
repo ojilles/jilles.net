@@ -31,9 +31,8 @@ statically generated. Here is the software I use:
 * Disqus for the commenting system, where enabled
 * Thanks to the completely backwards native ftp client on Mac OS X, I'm using
   NcFTP to deploy to production
-
-[TODO]
-http://www.colourlovers.com/palette/1660026/faery_whisper
+* Colorscheme (probably need to change again from [Colourlovers](http://www.colourlovers.com/palette/1660026/faery_whisper)
+* Hyperlink animation from [Herjen.nl](http://www.herjen.nl)
 
 
 ### Credits and Acknoledgments
