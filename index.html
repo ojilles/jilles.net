@@ -3,22 +3,10 @@ layout: default
 title: Welcome to Jilles' weblog
 ---
 <div id="index-posts">
-	{% for post in site.posts limit:10 %}
-	<!--Post {{ post.id }}-->
-	<div id="post-{{ post.id | replace:'/','-' }}" class="post">
-		<h2><a href="{{site.baseurl}}/{{post.url}}/">{{ post.title }}</a></h2>
-		{{ post.content }}
-		<div class="post-meta">
-			<div class="meta-date">{{ post.date | date: "%B %d, %Y" }}</div>
-			<div class="meta-tags">
-				<ul>
-					{% for tag in post.tags %}
-					<li><a href="{{site.baseurl}}/tag/{{ tag }}/" title="Posts tagged {{ tag }}">{{ tag }}</a></li>
-					{% endfor %}
-				</ul>
-			</div>
-		</div>
-	</div>
-	<hr />
-	{% endfor %}
+<p>Thank you for visiting my corner of the internet. Feel free to peruse the articles below:</p>
+<ul class="posts">
+    {% for post in site.posts %}
+	<li><span class="fancy">{{ post.date | date: "%B %d, %Y" }}</span> <a href="{{site.baseurl}}/{{ post.url }}/">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
 </div><!--/index-posts-->
