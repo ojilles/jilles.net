@@ -69,9 +69,28 @@ module Jekyll
       meta_description_prefix  = site.config['category_meta_description_prefix'] || 'Category: '
       self.data['description'] = "#{meta_description_prefix}#{category}"
     end
-    
   end
   
+  # The CategoryIndex class creates a single category page for the specified category.
+  class CategoryOverview < Page
+    
+    # Initializes a new CategoryOverview.
+    #
+    #  +base+         is the String path to the <source>.
+    #  +category_dir+ is the String path between <source> and the category folder.
+    #  +categories+   is the list of categories
+    def initialize(site, base, category_dir, categories)
+      @site = site
+      @base = base
+      @dir  = category_dir
+      @name = 'index.html'
+      self.process(@name)
+      # Read the YAML data from the layout page.
+      self.read_yaml(File.join(base, '_layouts'), 'category_overview.html')
+      self.data['category_list']  = categories.keys
+      # Set the title for this page.
+    end
+  end
   
   # The Site class is a built-in Jekyll class with access to global site config information.
   class Site
@@ -89,6 +108,20 @@ module Jekyll
       self.pages << index
     end
     
+    # Creates an instance of CategoryIndex for each category page, renders it, and 
+    # writes the output to a file.
+    # Creates one page with an overview of all Category tags and
+    # writes the output to a file
+    #
+    # +categories+ is a list of categories available in the site
+    def write_category_overview(cat_file, categories)
+      index = CategoryOverview.new(self, self.source, cat_file, categories)
+      index.render(self.layouts, site_payload)
+      index.write(self.dest)
+      # Record the fact that this page has been added, otherwise Site::cleanup will remove it.
+      self.pages << index
+    end
+
     # Loops through the list of category pages and processes each one.
     def write_category_indexes
       if self.layouts.key? 'category_index'
@@ -96,10 +129,17 @@ module Jekyll
         self.categories.keys.each do |category|
           self.write_category_index(File.join(dir, category), category)
         end
-        
       # Throw an exception if the layout couldn't be found.
       else
         throw "No 'category_index' layout found."
+      end
+
+      if self.layouts.key? 'category_overview'
+        dir = self.config['category_dir'] || 'categories'
+        self.write_category_overview(File.join(dir, "index.html"), self.categories)
+      # Throw an exception if the layout couldn't be found.
+      else
+        throw "No 'category_overview' layout found."
       end
     end
     

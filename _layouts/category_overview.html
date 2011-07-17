@@ -1,0 +1,10 @@
+---
+layout: default
+title: Overview of all categories
+---
+<h2 class="category">{{ page.title }}</h2>
+
+{% for abc in site.category_list %}
+    {{ abc }}
+{% endfor %}
+
