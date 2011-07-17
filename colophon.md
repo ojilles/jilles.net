@@ -32,8 +32,7 @@ statically generated. Here is the software I use:
 * Disqus for the commenting system, where enabled
 * Thanks to the completely backwards native ftp client on Mac OS X, I'm using
   NcFTP to deploy to production
-* Colorscheme (probably need to change again from [Colourlovers](http://www.colourlovers.com/palette/1660026/faery_whisper)
-    http://kuler.adobe.com/#themeID/1344020
+* Color scheme from [kuler](http://kuler.adobe.com/#themeID/1344020)
 * Hyperlink animation from [Herjen.nl](http://www.herjen.nl)
 * CSS: [960gs Grid system](http://960.gs/)
 
