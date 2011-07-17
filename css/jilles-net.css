@@ -1,4 +1,10 @@
-
+---
+---
+{% assign color1 = '#30547F' %}
+{% assign color2 = '#5D7FA6' %}
+{% assign color3 = '#AAC2D9' %}
+{% assign background = '#D6D6DE' %}
+{% assign highlight = '#D9A444' %}
 /* = RESETS */
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,q,small,strong,sub,sup,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;margin:0;padding:0}article,aside,figure,figure img,figcaption,hgroup,footer,header,nav,section,video,object{display:block}a img{border:0}figure{position:relative}figure img{width:100%}
 img, object, embed {max-width: 100%;margin-bottom: 20px;}
@@ -15,50 +21,36 @@ hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
 .content{ font-size 2em;}
 
 /* = COLOURS */
-/* http://www.colourlovers.com/palette/1660026/faery_whisper
-
-    purple:         7A72A8
-    darkest blue:   7D9EB8
-    blue:           90CAD1
-    teal:           B5F5E9
-    cream:          F5F4ED
+/* http://kuler.adobe.com/#themeID/1344020
 */
-/* body{background: #F5F4ED;} */
+body{background: {{background}};} 
 a {color: #000;}
-h2 { margin-bottom: 15px; }
-h3 { margin-top: 15px; }
+h2 { margin-bottom: 15px; font-size: 2em;}
+h3 { margin-top: 15px; font-size: 1.2em;}
 
-
-
-/* = HEADER*/
-.header1 {background: #7A72A8; height: 40px;}
-.header2 {background: #7D9EB8; height: 25px;}
-.header3 {background: #90CAD1; height: 12px;}
-.header4 {background: #B5F5E9; height: 5px;}
 
 
 /* = BOXES */
 .grid {}
 .content{}
-img, .navibar {background: #
-/* http://www.sohtanaka.com/web-design/css-border-tricks-tutorial/ */
- padding: 20px; border: 1px solid #f0f0f0; border-bottom: 2px solid #ccc; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;}
-.banner{margin:10px 10px 10px 20px}
-
 .footer {margin: 5px 0 0 0;color:#8c8c8c;font-size:13px;}
 
-
-
 /* = LOGO */
-.banner h1 {display: block; /* background: url({{site.baseurl}}/img/logo.png) no-repeat */;margin-bottom: 20px;}
-
-/* = SIDEBAR */
-.sidebar li {margin: 0 10px 0 0;padding: 0;list-style: none;}
+.banner ul {margin: 0;padding: 0;list-style: none;}
+.banner li {margin: 0 10px 0 0;padding: 0;display: inline;list-style: none;}
+.banner {font-size: 1em;}
+.banner h1 {font-size: 4em;}
+.logo a { color: #fff; text-decoration: none;}
+.logo { 
+    /* gecko based browsers */  background: -moz-linear-gradient(top, {{color1}}, {{color2}});
+    /* webkit based browsers */ background: -webkit-gradient(linear, left top, left bottom, from({{color1}}), to({{color2}}));
+    color: {{background}};
+    padding: 0 0 10px 0;
+ }
 
 /* = TYPOGRAPHY */
-.content, .grid {font-family: 'Quattrocento', serif}
-.logo, .banner h1 {font-size: 2em}
-
+.banner h1, h1, h2, h3, h4 {font-family: 'Amaranth', 'Ariel'}
+.content, .grid {font-family: 'Quattrocento', 'Georgia',  serif}
 
 /* = CONTENT */
 .post-meta {margin: 10px 0;padding: 0 0 0 20px;}
@@ -69,35 +61,14 @@ img, .navibar {background: #
 .meta-tags li:last-child:after {content:  '';}
 .meta-tags li a, .meta-tags li a:link, .meta-tags li a:visited, .meta-tags li a:active {font-weight: normal;color: #874554;padding: 2px 4px;background: #d1d1d1;border: none;}
 .meta-tags li a:hover{color:#d94567;}
-.fancy {font-style: italic;}
+.fancy {font-style: italic; font-size: 0.8em;}
 /* Jilles.net specifics: stop  **************** */
 
 a{
-    text-decoration: none;
-    color: #51bbfe;
-    -webkit-transition: -webkit-transform 0.15s;
-    -moz-transition: all 0.15s;
-    transition: all 0.15s;
-    display: inline-block;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-left: -10px;
-    margin-right: -10px;
-    padding-bottom: 2px;
-    margin-bottom: -2px;
+    color: {{ color1  }};
 }
 a:hover{
-    color: #fff;
-    -webkit-transform: scale(1.1);
-    -moz-transform: scale(1.1);
-    transform: scale(1.1);
-    background-color: #2c7fb2;
-    -webkit-box-shadow: 0px 0px 20px black;
-    -moz-box-shadow: 0px 0px 20px black;
-    box-shadow: 0px 0px 20px black;
+    color: {{ highlight }};
 }
 
 
@@ -107,5 +78,4 @@ a:hover{
 }
 
 .row {
-	margin-bottom: 1em;
 }

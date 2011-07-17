@@ -13,24 +13,31 @@
 	<link rel="stylesheet" href="{{site.baseurl}}/css/720_grid.css" type="text/css" media="screen and (min-width: 720px)">
 	<link rel="stylesheet" href="{{site.baseurl}}/css/986_grid.css" type="text/css" media="screen and (min-width: 986px)">
 	<link rel="stylesheet" href="{{site.baseurl}}/css/1236_grid.css" type="text/css" media="screen and (min-width: 1236px)" >
-
-
-<link href='http://fonts.googleapis.com/css?family=Quattrocento&v2' rel='stylesheet' type='text/css'>
-
+    <link href='http://fonts.googleapis.com/css?family=Amaranth:700|Quattrocento+Sans&v2' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{site.baseurl}}/rss.xml" />
     <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="{{site.baseurl}}/atom.xml" />
 </head>
 
 
 <body>
-
-<div class="banner-wrap row">
-    <div class="header1">&nbsp;</div>
-    <div class="header2">&nbsp;</div>
-    <div class="header3">&nbsp;</div>
-    <div class="header4">&nbsp;</div>
-</div><!--/banner-wrap-->
-
+<div class="logo">
+    <div class="grid">
+    <div class="row banner">
+        <div class="slot-0-1-2-3">
+            <h1>
+                <a href="{{site.baseurl}}" title="{{site.site_name}} (back to frontpage)">{{site.site_name}}</a>
+            </h1>
+            <ul>
+                <li><a href="{{site.baseurl}}/about.html" title="About">About</a></li>
+                <li><a href="{{site.baseurl}}/archives.html" title="Archives">Archives</a></li>
+                <li><a href="{{site.baseurl}}/colophon.html" title="Colophon">Colophon</a></li>
+                <li><a href="{{site.baseurl}}/contact.html" title="Contact">Contact</a></li>
+                <li><a href="{{site.baseurl}}/feeds.html" title="Feeds">Feeds</a></li>
+            </ul>
+        </div>
+    </div><!--/row banner-->
+    </div><!--/grid-->
+</div><!--/logo-->
 <div class="grid">
 	<div class="row">
 		<div class="left-margin">
@@ -40,35 +47,28 @@
             {{content}}
 		</div><!--/content-->
 		<div< class="sidebar slot-4-5">
-            <div class="navibar">
-                <div class="banner">
-                    <h1 id="logo">
-                        <a href="{{site.baseurl}}" title="{{site.site_name}} (back to frontpage)">{{site.site_name}}</a>
-                    </h1>
-                </div><!--/banner-->
-                <p>
-                    &nbsp;
-                    <ul>
-                        <li><a href="{{site.baseurl}}/about.html" title="About">About</a></li>
-                        <li><a href="{{site.baseurl}}/archives.html" title="Archives">Archives</a></li>
-                        <li><a href="{{site.baseurl}}/colophon.html" title="Colophon">Colophon</a></li>
-                        <li><a href="{{site.baseurl}}/contact.html" title="Contact">Contact</a></li>
-                        <li><a href="{{site.baseurl}}/feeds.html" title="Feeds">Feeds</a></li>
-                    </ul>
-                </p>
-            </div><!--/navibar-->
+            &nbsp;
 		</div><!--/sidebar-->
 	</div>
-	
-	<hr />
-		
-	<div class="row footer">
-		<p>
-            &copy; 2003-2011 
-            <a href="{{site.baseurl}}/colophon.html">{{site.author_name}}</a>. 
-            Please see <a href="{{site.baseurl}}/colophon.html">the colophon</a> 
-            for more information about the copyright.
-        </p>
+</div><!-- / .grid -->
+
+<div class="grid">
+	<div class="row">
+		<div class="left-margin">
+            &nbsp;
+		</div> <!--/left-margin-->
+		<div class="content slot-0-1-2-3 footer">
+        <hr />
+            <p>
+                &copy; 2003-2011 
+                <a href="{{site.baseurl}}/colophon.html">{{site.author_name}}</a>. 
+                Please see <a href="{{site.baseurl}}/colophon.html">the colophon</a> 
+                for more information about the copyright.
+            </p>
+		</div><!--/content-->
+		<div< class="sidebar slot-4-5">
+            &nbsp;
+		</div><!--/sidebar-->
 	</div>
 </div><!-- / .grid -->
 

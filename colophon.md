@@ -33,6 +33,7 @@ statically generated. Here is the software I use:
 * Thanks to the completely backwards native ftp client on Mac OS X, I'm using
   NcFTP to deploy to production
 * Colorscheme (probably need to change again from [Colourlovers](http://www.colourlovers.com/palette/1660026/faery_whisper)
+    http://kuler.adobe.com/#themeID/1344020
 * Hyperlink animation from [Herjen.nl](http://www.herjen.nl)
 * CSS: [960gs Grid system](http://960.gs/)
 
@@ -42,6 +43,9 @@ repositories out there and build off of one that comes closest to what I
 want. I did the same thing and want to acknoledge the work [Bryan Matthew
 Warren](http://coffeecomrade.com/) has done. You will find 
 [his work on Github](https://github.com/haircut/coffeecomrade.com).
+
+[Herjen Oldenbeuving](http://www.herjen.nl) did an initial review and gave me
+some valueable feedback.
 
 ### Copyright and -lefts
 My writing, photographs, graphics, and any other original content is covered by
