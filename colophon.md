@@ -24,6 +24,7 @@ statically generated. Here is the software I use:
 
 * Jekyll for rendering the site and templates
 * Git and [Github](https://github.com/ojilles/jilles.net/) to maintain all the data
+* [Backing up Github](http://paltman.com/2008/11/02/backup-script-for-github/)
 * Hosted by one.com
 * I use VIM to author all the articles
 * Rake to automate various tasks (ensuring everything is checked into Git,
@@ -34,7 +35,6 @@ statically generated. Here is the software I use:
 * Colorscheme (probably need to change again from [Colourlovers](http://www.colourlovers.com/palette/1660026/faery_whisper)
 * Hyperlink animation from [Herjen.nl](http://www.herjen.nl)
 * CSS: [960gs Grid system](http://960.gs/)
-
 
 ### Credits and Acknoledgments
 Like most people that get started with Jekyll, I looked at the Github
