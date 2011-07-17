@@ -2,11 +2,10 @@
 layout: default
 title: Welcome to Jilles' weblog
 ---
-<div id="index-posts">
-<p>Thank you for visiting my corner of the internet. Feel free to peruse the articles below:</p>
-<ul class="posts">
-    {% for post in site.posts %}
-	<li><span class="fancy">{{ post.date | date: "%B %d, %Y" }}</span> <a href="{{site.baseurl}}/{{ post.url }}/">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
-</div><!--/index-posts-->
+    <div id="index-posts">
+                <p>Thank you for visiting my corner of the internet. Feel free to peruse the articles below:</p>
+                <ul>{% for post in site.posts %}{% unless post.next %}
+                  <h3>{{ post.date | date: '%Y' }}</h3>{% else %}{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}{% if year != nyear %}  
+                  <h3>{{ post.date | date: '%Y' }}</h3>{% endif %}
+                    {% endunless %}<li><span class="fancy">{{ post.date | date:"%B" }}</span> <a href="{{ site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+                </ul>
