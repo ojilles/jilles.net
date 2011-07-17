@@ -23,7 +23,7 @@ hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
 /* = COLOURS */
 /* http://kuler.adobe.com/#themeID/1344020
 */
-body{background: {{background}};} 
+body{ background-image: url('{{site.baseurl}}/photos/styling/bright_squares.png'); background-repeat: repeat; } 
 a {color: #000;}
 h2 { margin-bottom: 15px; font-size: 2em;}
 h3 { margin-top: 15px; font-size: 1.2em;}
