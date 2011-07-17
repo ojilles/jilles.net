@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A new version of my blog
+categories:
+- General
 ---
 
 In various different forms my blog has survived from way back in

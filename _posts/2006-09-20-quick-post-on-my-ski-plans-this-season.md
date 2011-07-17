@@ -4,7 +4,7 @@ title: Quick post on my ski plans this season
 permalink: perma/2006/09/20/quick-post-on-my-ski-plans-this-season
 post_id: 43
 categories: 
-- Wintersports
+- Skiing
 ---
 
 Herewith a small post, that I will probably revisit later, about my Ski plans

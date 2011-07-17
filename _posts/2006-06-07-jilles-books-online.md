@@ -5,7 +5,6 @@ permalink: perma/2006/06/07/jilles-books-online
 post_id: 36
 categories: 
 - Reading
-- Books
 ---
 
 I had this really old laptop which holds my "books database" and thought to

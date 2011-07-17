@@ -3,9 +3,6 @@ layout: post
 title: OMG! What a Lost season 3 finale!
 permalink: perma/2007/05/25/omg-lost-season-3-finale
 post_id: 54
-categories: 
-- Lost
-- television show
 ---
 
 Just watched the Lost season finale and I must say I absolutely loved it. So
