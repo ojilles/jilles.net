@@ -34,6 +34,7 @@ statically generated. Here is the software I use:
   NcFTP to deploy to production
 * Color scheme from [kuler](http://kuler.adobe.com/#themeID/1344020)
 * Hyperlink animation from [Herjen.nl](http://www.herjen.nl)
+* Background image from [Subtlepatterns.com](http://subtlepatterns.com/)
 * CSS: [960gs Grid system](http://960.gs/)
 
 ### Credits and Acknoledgments
