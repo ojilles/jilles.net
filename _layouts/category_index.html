@@ -1,0 +1,8 @@
+---
+layout: default
+---
+        <h2 class="category">{{ page.title }}</h2>
+                        <p>This page shows all articles on this blog written for {{ page.category }}.</p>
+                        <ul class="posts">{% for post in site.categories[page.category] %}
+                                <li><span class="fancy">{{ post.date | date:"%B %d, %Y" }}</span> <a href="{{ site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+                        </ul>
