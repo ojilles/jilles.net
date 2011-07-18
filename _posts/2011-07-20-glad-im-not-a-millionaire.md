@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Glad I'm not a millionaire (or, innovation in the airline industry)
+permalink: perma/2011/07/20/innovation-in-the-airline-industry
 categories:
 - Crazy Ideas
+- Business
 ---
 
 Every time I am flying on a plane, which happens quite a bit, I get these crazy
@@ -71,8 +73,29 @@ at every step of their lives, what would be possible in the airline industry if
 we would backtrack on some of the "security measures" we have been implementing
 in the last decade?
 
-
-### Quiet flights
-
-
 ### Stunt flights
+
+Ever sat in a plane when it needed to bank heavily, like the approach pictured
+below to London?
+
+![Flight approach to London, you'd think the pilot turned 50 yrs that day][flight]
+
+At that point in time I was thinking how awesome it would be if the plane would
+call off a 30 minute time span where drinks are not available after which he
+would proceed making a roll, figure eight or an
+[Immelmann](http://en.wikipedia.org/wiki/Immelmann_turn)? I mean a full on 30
+minute acrobatics session: that would be totally awesome for the pilot to do,
+and if known in advance could attract a whole slew of customers at higher
+prices. I would, once in a while, take such a flight with collegues: it would
+break the monotonicity of business travel, in a segment that is rather price
+insensitive.
+
+### Conclusion
+
+There are still a lot of unexplored idea's in the airline industry. I am not
+claiming that any of the above would be succesful, but I sure would love to see
+more experimentation. Let me know in the comments or via email if there are
+other idea's you would love to see implemented.
+
+
+[flight]: {{site.baseurl}}/photos/flight-approach.jpg
