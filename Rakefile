@@ -1,10 +1,9 @@
 require 'rake/clean'
 require 'Date'
 
-$remote = "jilles.net@ftp.jilles.net:jilles.net/test"
-
+# no trailing slashes here!
 $local_url = "file:///Users/ojilles/jilles.net/_site"
-$production_url = "http://www.jilles.net/jilles_net"
+$production_url = "http://www.jilles.net"
 
 desc 'Development: Rebuild the site'
 task :dev => [:dev_config, :build, :tidy_html]
@@ -81,7 +80,7 @@ task :send do
   # find . -type f \( -name "*.xml" -o -name "*.html" -o -name "*.css" -o -name "*.js" \) -exec sh -c "gzip < {} > {}.gz" \;
 
   # Should test if _site/ exists
-  sh "ncftpput -f ~/.ncftp/bookmarks -m -S tmp -R jilles_net _site/* && echo 'Blog pushed to production' | growl -H localhost -t 'Jilles.net' || echo 'Blog push FAILED' | growl -H localhost -s -t 'Jilles.net'"
+  sh "ncftpput -f ~/.ncftp/bookmarks -m -S tmp -R / _site/* && echo 'Blog pushed to production' | growl -H localhost -t 'Jilles.net' || echo 'Blog push FAILED' | growl -H localhost -s -t 'Jilles.net'"
 end
 
 task :check_git do
