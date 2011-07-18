@@ -1,4 +1,5 @@
 require 'rake/clean'
+require 'Date'
 
 $remote = "jilles.net@ftp.jilles.net:jilles.net/test"
 
@@ -20,6 +21,37 @@ task :prod => [:push, :prod_config, :build, :tidy_html, :send, :dev_config]
 
 CLOBBER.include('_flickr.cache')
 CLEAN.include('_site/')
+
+
+desc 'Create a new draft post. Usage: rake post title=\'hello, world\''
+task :post do
+  title = ENV['title']
+  slug = "#{Date.today}-#{title.downcase.gsub(/[^\w]+/, '-')}"
+
+  file = File.join(
+    File.dirname(__FILE__),
+    '_posts',
+    slug + '.md'
+  )
+
+  categories = `_bin/_list_categories.sh`
+
+  File.open(file, "w") do |f|
+    f << <<-EOS.gsub(/^    /, '')
+    ---
+    layout: post
+    title: #{title}
+    published: false
+    categories:
+    #{categories}
+    ---
+
+    EOS
+  end
+
+  system ("vim #{file}")
+end
+
 
 desc 'Configure for development'
 task :dev_config do

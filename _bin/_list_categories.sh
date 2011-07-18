@@ -1,3 +1,2 @@
 #! /bin/bash
-echo Listing all categories
-head -n 10 * | grep "^\- " | sort | uniq
+head -n 10 ./_posts/* | grep "^\- " | sort | uniq
