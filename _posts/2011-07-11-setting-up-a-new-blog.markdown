@@ -5,19 +5,18 @@ categories:
 - General
 ---
 
-In various different forms my blog has survived from way back in
-2003 till now. In the first couple of months, the blog would only
-run on my own computer (I didn't have hosting back then). Now, I've
-redone the block in Jekyll so that it is completely statically
-generated (and pushed into GIT for convenience). 
+In various different forms my blog has survived from way back in 2003 till now.
+In the first couple of months, the blog would only run on my own computer (I
+didn't have hosting back then). Now, I've redone the block in Jekyll so that it
+is completely statically generated (and pushed into GIT for convenience). 
 
 I've only deleted two articles that basically were going absolutely nowhere.
 Besides that I believe most of the content came across in tact. Let me know
 if you see problems anywhere.
 
-As for the comments, I have moved those over to Disqus. I may even remove them
-completely as there are only a few of them. (If I do, I will leave a static
-dump somewhere on this site for posterity.)
+As for the comments, I have backed them up and uploaded them to Disqus.
+However, I have not finished the integration back into the blog yet. So check
+back later.
 
 With that, I intent to write more again as well. It's been a long time since I
 have written anything sensible on any topic. The last real articles were
@@ -28,5 +27,8 @@ II]({{site.baseurl}}/perma/2009/04/11/denmark-versus-netherlands-part-ii/)).
 Currently living in Italy for over a year now so that is a logical start. In
 any case, we will see. For now, enjoy the new site and let me know if there is
 anything wrong.
+
+If you would like to know more about how this blog is setup now, please [see
+the colophon]({{ site.baseurl }}/colophon.html).
 
 ~Jilles
