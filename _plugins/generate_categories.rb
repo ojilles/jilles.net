@@ -136,7 +136,7 @@ module Jekyll
 
       if self.layouts.key? 'category_overview'
         dir = self.config['category_dir'] || 'categories'
-        self.write_category_overview(File.join(dir, "index.html"), self.categories)
+        self.write_category_overview(dir, self.categories)
       # Throw an exception if the layout couldn't be found.
       else
         throw "No 'category_overview' layout found."
