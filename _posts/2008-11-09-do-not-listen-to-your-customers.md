@@ -5,7 +5,7 @@ permalink: perma/2008/11/09/do-not-listen-to-your-customers
 post_id: 106
 categories: 
 - Management
-- Online Business
+- Business
 ---
 
 

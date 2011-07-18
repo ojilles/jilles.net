@@ -4,7 +4,7 @@ title: On innovation
 permalink: perma/2006/09/16/on-innovation
 post_id: 41
 categories: 
-- Online Business
+- Business
 ---
 
 <a

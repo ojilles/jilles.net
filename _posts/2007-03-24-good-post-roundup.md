@@ -4,7 +4,7 @@ title: Good posts on the 'net
 permalink: perma/2007/03/24/good-post-roundup
 post_id: 50
 categories: 
-- Online Business
+- Business
 - Software Development
 ---
 

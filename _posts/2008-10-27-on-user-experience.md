@@ -4,7 +4,7 @@ title: On User Experience
 permalink: perma/2008/10/27/on-user-experience
 post_id: 69
 categories: 
-- Online Business
+- Business
 ---
 
 User Experience. It took a while for me to understand the importance of User

@@ -4,8 +4,7 @@ title: "Moola: \"Weekend millionaires for the rest of us\""
 permalink: perma/2006/05/28/moola-weekend-millionaires-for-the-rest-of-us
 post_id: 35
 categories: 
-- General
-- Online Business
+- Business
 ---
 
 An interesting new product became available on the Internet a few months back, called <a href="https://www.moola.com/">"Moola".</a> <a href="https://www.moola.com/">Moola</a> is basically a free "Weekend Millionaires" for the normal people.
