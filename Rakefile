@@ -6,7 +6,7 @@ $local_url = "http://localhost/jilles.net"
 $production_url = "http://www.jilles.net"
 
 desc 'Development: Rebuild the site'
-task :dev => [:dev_config, :build, :tidy_html]
+task :dev => [:dev_config, :build, :tidy_html, :test_broken_links]
 
 desc 'Production: build only, don\'t upload'
 task :prod_build => [:prod_config, :build]
@@ -20,6 +20,12 @@ task :prod => [:push, :prod_config, :build, :tidy_html, :send, :dev_config]
 
 CLOBBER.include('_flickr.cache')
 CLEAN.include('_site/')
+
+desc 'Checks, for dev builds, if there are any internal 404\'s'
+task :test_broken_links do
+    sh "_bin/wget-test.sh"
+end
+
 
 
 desc 'Create a new draft post. Usage: rake post title=\'hello, world\''
