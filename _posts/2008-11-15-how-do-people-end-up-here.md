@@ -12,8 +12,8 @@ I make no presumptions on my blog: I hardly dedicate time and effort to it and j
 Here is a breakdown of which keywords people use to end up on my site:
 
 * **kaprun austria**: When I got back from my ski trip, I <a
-  href="{{site.baseurl}}/perma/2006/12/27/got-back-from-kaprun-austria/">posted
-  a video and some pictures</a>.
+  href="javascript:;">posted
+  a video and some pictures</a>. **EDIT 2011: this article has been removed**
 * **php website architecture**  (and variations thereof like "**website
   architecture with php**"):  I've posted a few articles on this topic, ranging
   from a <a
@@ -22,7 +22,7 @@ Here is a breakdown of which keywords people use to end up on my site:
   article <a
   href="{{site.baseurl}}/perma/2007/05/29/memcached-discussions-bloglines-facebook/">about
   the use of Memcache at large deployments</a>. Most people <a
-  href="{{site.baseurl}}/perma/category/website-architecture/">land at the
+  href="{{site.baseurl}}/categories/Website%20architecture/">land at the
   category page</a> actually.
 * **database versioning**: I've written exactly <a
   href="{{site.baseurl}}/perma/2003/10/17/database-versioning-techniques/">one

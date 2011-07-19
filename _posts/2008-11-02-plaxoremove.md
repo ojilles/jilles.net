@@ -17,5 +17,5 @@ are posted on Plaxo), etc.
     permanently signed out of Plaxo Online.
 
 If you like to connect me, look <a
-href={{site.baseurl}}/jilles-on-the-web/">at this page to see
+href="{{site.baseurl}}/contact.html">at this page to see
 where/how</a>.
