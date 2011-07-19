@@ -9,15 +9,15 @@ categories:
 
 Developing: I'd like to contribute!
 
-I have made small contributions to open source projects. Some on the [Popfile](http:/popfile.sf.net/) translation front, others by contributing to [Antill](http:/anthill.vmlinuz.ca/): idea's and/or actual code. But I'd like to do more (after all I've been using open source software so much!). One of the things I always dread is to "get into the project". You have to read so much: how is the architecture, get all the dependencies, read the policies regarding commit access, testing, etc. So I'm trying to select a project on which I want to focus for the next few months, trying to come up with some useful patches in my free time. A couple of candidates: 
+I have made small contributions to open source projects. Some on the [Popfile](http://popfile.sf.net/) translation front, others by contributing to [Antill](http://anthill.vmlinuz.ca/): idea's and/or actual code. But I'd like to do more (after all I've been using open source software so much!). One of the things I always dread is to "get into the project". You have to read so much: how is the architecture, get all the dependencies, read the policies regarding commit access, testing, etc. So I'm trying to select a project on which I want to focus for the next few months, trying to come up with some useful patches in my free time. A couple of candidates: 
 
- * [Apache](http:/www.apache.org/)
- * [Subversion](http:/subversion.tigris.org/)
- * [Anthill](http:/anthill.vmlinuz.ca/)
- * [Phing](http:/www.binarycloud.com/phing/)
- * [BinaryCloud](http:/www.binarycloud.com/)
- * [PHP](http:/www.php.net/)
- * [Mozilla](http:/www.mozilla.org/) 
+ * [Apache](http://www.apache.org/)
+ * [Subversion](http://subversion.tigris.org/)
+ * [Anthill](http://anthill.vmlinuz.ca/)
+ * [Phing](http://www.binarycloud.com/phing/)
+ * [BinaryCloud](http://www.binarycloud.com/)
+ * [PHP](http://www.php.net/)
+ * [Mozilla](http://www.mozilla.org/) 
 
 All these projects touch my professional work as well, and that is A Good Thing^(tm)^. I'd like to walk through these projects one by one. (This it actually not to inform you of something I'm going to do, just my "internal" decision making process, exposed to the rest of the world. Read it or disregard it as you see fit :-o).
 
