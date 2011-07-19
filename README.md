@@ -45,7 +45,17 @@ code changes are not necessary anymore.
     ruby setup.rb setup
     sudo ruby setup.rb install
     sudo gem install classifier
-    
+
+For development purposes, one could add something similar to the apache config:
+
+    # Alias for jilles.net
+    Alias /jilles.net "/Users/ojilles/jilles.net/_site"
+    <Directory "/Users/ojilles/jilles.net/_site">
+           Options Indexes FollowSymLinks MultiViews 
+           AllowOverride All
+           Order allow,deny
+           Allow from all
+    </Directory>    
 
 Todo's
 ------
