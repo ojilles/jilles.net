@@ -18,6 +18,8 @@ task :prod => [:push, :prod_config, :build, :tidy_html, :send, :dev_config]
 # also, :push needs to be first, otherwise :prod_config changes config files
 # which in turn will make the build fail for not having everything checked in
 
+task :default => 'dev'
+
 CLOBBER.include('_flickr.cache')
 CLEAN.include('_site/')
 
