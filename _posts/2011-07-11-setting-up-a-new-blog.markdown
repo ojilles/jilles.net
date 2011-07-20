@@ -18,6 +18,8 @@ As for the comments, I have backed them up and uploaded them to Disqus.
 However, I have not finished the integration back into the blog yet. So check
 back later.
 
+**Update**: As of June 21st, the comments are back. Fire away!
+
 With that, I intent to write more again as well. It's been a long time since I
 have written anything sensible on any topic. The last real articles were
 written on the difference between Dutch and Danish culture ([Part
