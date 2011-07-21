@@ -7,7 +7,7 @@ categories:
 - Software Development
 ---
 
-Today something reminded me of something I picked up from Jeffrey Richter, who talked about Mutexes in his book ([Programming Windows Applications](http:/www.booksamillion.com/ncom/books?isbn=1572319968&AID=42121&PID=237566)). I just failed to apply the principle to something that lives in a different context. The mutexes which I learned about were Windows API programming. The problem I faced was in shell scripting under Linux.
+Today something reminded me of something I picked up from Jeffrey Richter, who talked about Mutexes in his book ([Programming Windows Applications](http://www.booksamillion.com/ncom/books?isbn=1572319968&AID=42121&PID=237566)). I just failed to apply the principle to something that lives in a different context. The mutexes which I learned about were Windows API programming. The problem I faced was in shell scripting under Linux.
 
 One thing with updating a live environment (read: a production server) is that you need to be in control of that environment to install a new version. We actually have this part pretty well covered, so that is positive. But as always, there are things to improve upon.
 

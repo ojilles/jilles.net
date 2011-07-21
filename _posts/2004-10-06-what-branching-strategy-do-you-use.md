@@ -28,7 +28,7 @@ another GoF pattern.) Of course, there is a lot of difference between the
 strategies involved for an internal product, a shrink-wrapped product or a
 website.
 
-Obviously, [Marktplaats.nl](http:/www.marktplaats.nl/) is in the website
+Obviously, [Marktplaats.nl](http://www.marktplaats.nl/) is in the website
 department here. But even then, there are a lot of differences. It has already
 been in some newspapers that we are opening websites in foreign countries
 (foreign to The Netherlands that is). Aha, that opens up entirely another can
@@ -45,7 +45,7 @@ Even armed with a lot of scientific articles about this topic I'm still in
 doubt about what strategy to choose. So I'd like to invite everyone who's in
 the same situation as me to contact me. What branching strategy do _you_ use?
 What do you like about it? What policies do you have in place? And most of all,
-I'd like to get in touch with [Joel Spolsky](http:/www.joelonsoftware.com)
+I'd like to get in touch with [Joel Spolsky](http://www.joelonsoftware.com)
 about this topic. He's advocating the usage of a SCM-tool (just like me!), but
 every tool has is incorrect usages. Joel, how are you using CVS to maintain
 your [product](http://www.gooflr.com)?

@@ -9,13 +9,13 @@ categories:
 
 I've been playing around with SCM systems (Software Configuration Management)
 earlier (played around with
-[CVS](http://web.archive.org/web/20041031181619/http:/www.cvshome.org/), VSS
+[CVS](http://web.archive.org/web/20041031181619/http://www.cvshome.org/), VSS
 and
-[BitKeeper](http://web.archive.org/web/20041031181619/http:/www.bitkeeper.com/).
+[BitKeeper](http://web.archive.org/web/20041031181619/http://www.bitkeeper.com/).
 Of these three CVS has in my opinion the best thing going for it (large, very
 large, adoption easily extendable, etc.). At that time (a few years back now)
 I already noticed
-[Subersion](http://web.archive.org/web/20041031181619/http:/subversion.tigris.org/),
+[Subersion](http://web.archive.org/web/20041031181619/http://subversion.tigris.org/),
 abbreviated to SVN. At that moment they had all the plans ready (architecture,
 etc.) and I think they were in their 0.1's (version). Now I'm running a
 decently sized project on CVS I'm keeping my eyes open for alternatives, and
