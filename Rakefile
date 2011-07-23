@@ -49,6 +49,7 @@ task :post do
     layout: post
     title: #{title}
     published: false
+    image_titles: false
     categories:
     #{categories}
     ---

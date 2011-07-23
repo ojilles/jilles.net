@@ -79,3 +79,11 @@ a:hover{
 
 .row {
 }
+
+/* Titles over images */
+.image              { position: relative; width: 100%; }
+h5                  { position: absolute; bottom: 50px; left: 1; width: 100%; }
+h5 span             { color: white; font: 16px 'Quattrocento Sans', Helvetica, Sans-Serif; 
+                      background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.7); padding: 10px; }
+h5 span.spacer      { padding: 0 2px; background: none; }
+
