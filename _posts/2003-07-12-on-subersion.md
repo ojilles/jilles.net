@@ -4,7 +4,7 @@ title: On Subversion
 permalink: perma/2003/07/12/on-subersion
 post_id: 11
 categories: 
-- Software Development
+- Technology
 ---
 
 I've been playing around with SCM systems (Software Configuration Management)

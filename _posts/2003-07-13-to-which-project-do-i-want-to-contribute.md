@@ -4,7 +4,7 @@ title: To which project do I want to contribute?
 permalink: perma/2003/07/13/to-which-project-do-i-want-to-contribute
 post_id: 13
 categories: 
-- Software Development
+- Technology
 ---
 
 Developing: I'd like to contribute!

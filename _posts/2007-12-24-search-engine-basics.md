@@ -4,7 +4,7 @@ title: Search engine basics
 permalink: perma/2007/12/24/search-engine-basics
 post_id: 61
 categories: 
-- General
+- Technology
 ---
 
 Over at Marktplaats.nl we have developed one of The Netherlands' biggest search

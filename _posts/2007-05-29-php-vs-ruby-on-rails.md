@@ -4,9 +4,7 @@ title: PHP vs Ruby on Rails
 permalink: perma/2007/05/29/php-vs-ruby-on-rails
 post_id: 56
 categories: 
-- General
-- Software Development
-- Website architecture
+- Technology
 ---
 
 Terry Chay over at "<a href="http://terrychay.com/blog/">The Woodwork</a>" has

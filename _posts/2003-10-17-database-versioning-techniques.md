@@ -4,7 +4,7 @@ title: Database versioning techniques
 permalink: perma/2003/10/17/database-versioning-techniques
 post_id: 7
 categories:
-- Software Development
+- Technology
 ---
 
 Today I had an interesting discussion with one of my colleagues. The problem being discussed had already troubled my mind a few months back, but was driven out of my mind by other, more pressing, problems (deadlines, etc.). The problem, as the title of this article suggests, is database versioning techniques. Vie searched the internet for a solution to this problem and what I found was a lot of misconception. So to eliminate that, I start of describing the problem first. Be careful, I smell a long article coming up.

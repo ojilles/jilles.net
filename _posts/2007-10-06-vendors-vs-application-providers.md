@@ -4,8 +4,7 @@ title: Vendors vs Application providers
 permalink: perma/2007/10/06/vendors-vs-application-providers
 post_id: 60
 categories: 
-- Software Development
-- Website architecture
+- Technology
 ---
 
 Vogels (the CTO of Amazon) published a paper in which they describe their high

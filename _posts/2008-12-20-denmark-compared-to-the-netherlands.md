@@ -4,9 +4,7 @@ title: Denmark compared to the Netherlands
 permalink: perma/2008/12/20/denmark-compared-to-the-netherlands
 post_id: 157
 categories: 
-- Denmark
 - Culture
-- The Netherlands
 ---
 
 <a href="{{site.baseurl}}/wp-content/nl-vs-dk.jpg"><img src="{{site.baseurl}}/wp-content/nl-vs-dk.jpg" alt="" title="nl-vs-dk" width="325" height="93" class="aligncenter size-full wp-image-159" /></a>

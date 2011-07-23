@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Software development is hard
+title: Technology is hard
 permalink: perma/2007/10/06/software-development-is-hard
 post_id: 59
 categories: 
-- Elsewhere on the web
-- Software Development
-- Website architecture
+- Technology
 ---
 
 <a href="http://www.gamearchitect.net/Articles/SoftwareIsHard.html">Kyle Wilson

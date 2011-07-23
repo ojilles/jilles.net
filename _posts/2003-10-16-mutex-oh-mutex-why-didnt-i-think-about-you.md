@@ -4,7 +4,7 @@ title: "Mutex, oh mutex, why didn't I think about you?"
 permalink: perma/2003/10/16/mutex-oh-mutex-why-didnt-i-think-about-you
 post_id: 17
 categories: 
-- Software Development
+- Technology
 ---
 
 Today something reminded me of something I picked up from Jeffrey Richter, who talked about Mutexes in his book ([Programming Windows Applications](http://www.booksamillion.com/ncom/books?isbn=1572319968&AID=42121&PID=237566)). I just failed to apply the principle to something that lives in a different context. The mutexes which I learned about were Windows API programming. The problem I faced was in shell scripting under Linux.

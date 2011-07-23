@@ -4,8 +4,8 @@ title: Actively developed websites
 permalink: perma/2003/09/18/actively-developed-websites-funda
 post_id: 19
 categories: 
-- Online Business
-- Elsewhere on the web
+- Business
+- Technology
 ---
 
 I write this sitting on the bench, half watching television with my girlfriend. Thinking of something to write, my thoughts stumbled over how you can notice a good development team _behind_ a product. One sign of is the roll-out of new features. For example, take [Funda](http://www.funda.nl/), a site where most houses end up when they go up for sale (in the Netherlands that is).

@@ -5,7 +5,6 @@ permalink: perma/2004/06/28/japanese-blogs-to-watch
 post_id: 15
 categories: 
 - General
-- Reading
 ---
 
 Lately, I've renewed my interest in Japan and its language and culture. This was sparkled by the announcements from friends that they were going to Mexico (couple 1) and Washington DC (couple 2). I dug up the reader, titled "Japanese I: an introduction", I got as a present from my [brother](http://www.herjen.nl/). I hope I find the time to learn a bit more Japanese and to post a few articles on the subject along the way.

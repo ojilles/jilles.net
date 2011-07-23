@@ -4,8 +4,7 @@ title: Memcached usage across large web properties
 permalink: perma/2007/05/29/memcached-discussions-bloglines-facebook
 post_id: 57
 categories: 
-- Software Development
-- Website architecture
+- Technology
 ---
 
 Lately a discussion on the memcached-mailing list has started where for example

@@ -4,8 +4,8 @@ title: A Sneak Peak at Marktplaats
 permalink: perma/2008/04/28/pfcongrez_marktplaats_architecture
 post_id: 63
 categories: 
-- Software Development
-- Website architecture
+- Technology
+- General
 ---
 
 On April 12th I presented at <a

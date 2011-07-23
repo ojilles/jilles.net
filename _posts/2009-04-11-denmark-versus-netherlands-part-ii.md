@@ -4,9 +4,7 @@ title: Denmark versus Netherlands, part II
 permalink: perma/2009/04/11/denmark-versus-netherlands-part-ii
 post_id: 183
 categories: 
-- Denmark
 - Culture
-- The Netherlands
 ---
 
 <a href="{{site.baseurl}}/wp-content/nl-vs-dk.jpg"><img src="{{site.baseurl}}/wp-content/nl-vs-dk.jpg" alt="" title="nl-vs-dk" width="325" height="93" class="aligncenter size-full wp-image-159" /></a>

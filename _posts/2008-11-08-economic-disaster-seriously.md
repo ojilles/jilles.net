@@ -4,7 +4,7 @@ title: Economic disaster? Seriously?
 permalink: perma/2008/11/08/economic-disaster-seriously
 post_id: 89
 categories: 
-- Elsewhere on the web
+- General
 ---
 
 Recently found a weblog ("<a href="http://blog.tomevslin.com/">Fractals of

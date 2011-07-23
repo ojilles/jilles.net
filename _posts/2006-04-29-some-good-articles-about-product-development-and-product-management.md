@@ -4,8 +4,7 @@ title: Some good articles about product development and product management
 permalink: perma/2006/04/29/some-good-articles-about-product-development-and-product-management
 post_id: 28
 categories: 
-- Management
-- Software Development
+- Technology
 ---
 
 A long while ago, Joel Spolsky added a <a

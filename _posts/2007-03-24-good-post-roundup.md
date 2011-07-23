@@ -5,7 +5,7 @@ permalink: perma/2007/03/24/good-post-roundup
 post_id: 50
 categories: 
 - Business
-- Software Development
+- Technology
 ---
 
 Normally, I just follow my own Bloglines account, checking those blogs that I'm

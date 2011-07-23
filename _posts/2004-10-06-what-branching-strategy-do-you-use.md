@@ -4,7 +4,7 @@ title: What branching strategy do you use?
 permalink: perma/2004/10/06/what-branching-strategy-do-you-use
 post_id: 18
 categories: 
-- Software Development
+- Technology
 ---
 
 Yesterday I found myself writing a branching strategy. We've been using a

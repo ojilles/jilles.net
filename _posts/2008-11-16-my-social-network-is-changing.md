@@ -4,7 +4,7 @@ title: My social network is changing
 permalink: perma/2008/11/16/my-social-network-is-changing
 post_id: 148
 categories: 
-- Elsewhere on the web
+- General
 ---
 
 <img src="{{site.baseurl}}/wp-content/img_0001-200x300.png" alt="Hyves social network screenshot on iPhone" title="img_0001" width="200" height="300" /></a>
