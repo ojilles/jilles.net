@@ -47,8 +47,6 @@ work very well in the broiler.
 
 ![Plate of crunched potatos][ph7]
 
-Close up:
-
 ![Close up of a single crunched potato][ph9]
 
 After all this torture, the potatos still have one last step: the oven. I
