@@ -33,7 +33,7 @@ them with your potato stamper, like so:
 ![Die you potato, die!][ph2]
 
 Stamp them till they're maybe 1 to 2 cm in height, not more. Make sure they're
-jagged on top. Here, another exmaple:
+jagged on top. Here, another example:
 
 ![Me trying to squash a few of the 'taters][ph4]
 
