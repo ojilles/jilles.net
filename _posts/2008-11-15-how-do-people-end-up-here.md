@@ -22,7 +22,7 @@ Here is a breakdown of which keywords people use to end up on my site:
   article <a
   href="{{site.baseurl}}/perma/2007/05/29/memcached-discussions-bloglines-facebook/">about
   the use of Memcache at large deployments</a>. Most people <a
-  href="{{site.baseurl}}/categories/Website%20architecture/">land at the
+  href="{{site.baseurl}}/categories/Technology/">land at the
   category page</a> actually.
 * **database versioning**: I've written exactly <a
   href="{{site.baseurl}}/perma/2003/10/17/database-versioning-techniques/">one
