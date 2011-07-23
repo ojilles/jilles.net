@@ -40,8 +40,7 @@ layout: default
     <div id="disqus_thread"></div>
 </div><!--/index-posts-->
 
-<div id="disqus_thread"></div>
-
+{% if site.prod_build %}<div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'jillesblog'; // required: replace example with your forum shortname
     var disqus_url = '{{site.baseurl}}/{{page.url}}/';
@@ -50,4 +49,4 @@ layout: default
         dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
-</script>
+</script>{% endif %}
