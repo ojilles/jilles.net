@@ -38,7 +38,7 @@ See? It's just my -_ahem_- unbiased cultural filter showing through ;-).
 
 
 ### Alcohol consumption
-The other thing I keep telling my colleagues in Denmark is that they drink much more wine than the average person in Holland. Obviously that was completely unsubstantiated and on top that a handful of people I work with closest are complete wine-aficionados so I might be quite biased. So I thought I'd look it up (<a href="http://www.who.int/entity/substance_abuse/publications/globalstatusrep ortalcohol2004_alcconsumpt.pdf">PDF</a>). Wine consumption is roughly the same across both countries (percentage-wise of total consumption). However, where as the average cheese-head (Dutchie)  consumes 9.74L of pure alcohol per year a Dane washes down 11.93L. That's quite a few schnapps more. To be exact, 22.4% more schnapps!
+The other thing I keep telling my colleagues in Denmark is that they drink much more wine than the average person in Holland. Obviously that was completely unsubstantiated and on top that a handful of people I work with closest are complete wine-aficionados so I might be quite biased. So I thought I'd look it up (<a href="http://www.who.int/entity/substance_abuse/publications/globalstatusrep%20ortalcohol2004_alcconsumpt.pdf">PDF</a>). Wine consumption is roughly the same across both countries (percentage-wise of total consumption). However, where as the average cheese-head (Dutchie)  consumes 9.74L of pure alcohol per year a Dane washes down 11.93L. That's quite a few schnapps more. To be exact, 22.4% more schnapps!
 
 ### General stats
 Interested in more statistics? I got you covered (<a
