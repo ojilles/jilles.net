@@ -22,20 +22,23 @@ patches alone is too much work.
 So the current iteration of the site you are looking at is completely
 statically generated. Here is the software I use:
 
-* Jekyll for rendering the site and templates
-* Git and [Github](https://github.com/ojilles/jilles.net/) to maintain all the data
-* [Backing up Github](http://paltman.com/2008/11/02/backup-script-for-github/)
-* Hosted by one.com
-* I use VIM to author all the articles
-* Rake to automate various tasks (ensuring everything is checked into Git,
-  deploying the blog to production, etc)
-* Disqus for the commenting system, where enabled
-* Thanks to the completely backwards native ftp client on Mac OS X, I'm using
-  NcFTP to deploy to production
-* Color scheme from [kuler](http://kuler.adobe.com/#themeID/1344020)
-* Hyperlink animation from [Herjen.nl](http://www.herjen.nl)
-* Background image from [Subtlepatterns.com](http://subtlepatterns.com/)
-* CSS: [960gs Grid system](http://960.gs/)
+* The Engine
+    * For the engine I use [Jekyll](https://github.com/mojombo/jekyll) 
+    * I have since modified Jekyll quite a bit, particularily the build system, based on [Rake](http://martinfowler.com/articles/rake.html)
+    * Javascript, using [jQuery](http://jquery.com/) in combination with [Google Closure](http://code.google.com/closure/) to compile my own javascripts
+    * Thanks to the completely backwards native ftp client on Mac OS X, I'm using
+      NcFTP to deploy to production
+* The production environment
+    * Hosted by one.com
+    * [Disqus](http://disqus.com/) for the commenting system, where enabled
+* The development environment
+    * Git and [Github](https://github.com/ojilles/jilles.net/) to maintain all the data
+    * [Backing up Github](http://paltman.com/2008/11/02/backup-script-for-github/)
+    * I use [VIM](http://www.vim.org) to author all the articles and any coding needed
+* Design inspiration
+    * Color scheme from [kuler](http://kuler.adobe.com/#themeID/1344020)
+    * Background image from [Subtlepatterns.com](http://subtlepatterns.com/)
+    * CSS: [960gs Grid system](http://960.gs/)
 
 ### Credits and Acknoledgments
 Like most people that get started with Jekyll, I looked at the Github
