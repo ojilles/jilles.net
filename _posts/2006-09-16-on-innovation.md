@@ -9,22 +9,22 @@ categories:
 
 <a
 href="http://www.cogmios.nl/2006/09/13/10-tips-to-become-the-innovation-company-bonus-3-free-ideas-for-your-web20-internet-startup/#comments">In
-a recent blogpost</a>, <a href="http://www.linkedin.com/in/internet">Edward de
+a recent blog post</a>, <a href="http://www.linkedin.com/in/internet">Edward de
 Leau</a> talks about his notion of "Leanardo" -- the person that is primarily
 responsible for innovation. I tend to agree in principle that these persons are
 really scarce, and even if you know someone then there is still timing to wreak
 havoc.
 
 Edward goes on by providing 3 innovative ideas which he intents to revisit in a
-few years time to see if some came to frutation. In my blogpost I try to make a
+few years time to see if some came to fruition. In my blogpost I try to make a
 shortcut and safe Edward a few years:
 
 1. A site that will crawl the internet in search of structured data (XML) of
 products that are being sold. After the aggregation, the business model would
 be similar to existing classifieds sites i<a
-href="http://statisch.marktplaats.nl/help/kopenverkopen/beginnendeverkopers.html">ncluding
+href="http://statisch.marktplaats.nl/help/kopenverkopen/beginnendeverkopers.html">including
 features</a>, <a
-href="http://marktplaats.custhelp.com/cgi-bin/marktplaats.cfg/php/enduser/std_adp.php?p_faqid=10">monitizing</a>
+href="http://marktplaats.custhelp.com/cgi-bin/marktplaats.cfg/php/enduser/std_adp.php?p_faqid=10">monetizing</a>
 <a href="http://statisch.marktplaats.nl/help/topadvertenties/admarkt.html">eye
 balls</a> and <a href="https://www.google.com/adsense/">Google AdSense</a>.
 
@@ -44,7 +44,7 @@ todo</a>" feature, but then with price brokering system where the person who
 has the Todo and the person that is willing to execute the Todo can agree a
 price (and potentially setting up an Escrow service).
 
-3. A meshup between Google Earth and anything else with a physical location.
+3. A mesh up between Google Earth and anything else with a physical location.
 
 <a href="http://www.globeassistant.com/">GlobeAssistant </a>is a company
 providing technology to stream locations out of your database into a users

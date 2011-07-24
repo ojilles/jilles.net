@@ -31,7 +31,7 @@ pretty tree-like pictures and start explaining the stuff; everyone says he/she
 gets it. But when it is put to practice I see enough things going wrong
 regarding branches.
 
-One of the biggest obstacles, imho, is the fact that branches are on another dimension in CVS. People forget to switch between branches and trunk because it's not obvious on which one they are working. This is not the case in SVN, here a branch is just a full copy of the trunk, originating from a certain revision. You can do stuff like this with SVN:
+One of the biggest obstacles, IMHO, is the fact that branches are on another dimension in CVS. People forget to switch between branches and trunk because it's not obvious on which one they are working. This is not the case in SVN, here a branch is just a full copy of the trunk, originating from a certain revision. You can do stuff like this with SVN:
 
 	\Project1
 		\trunk

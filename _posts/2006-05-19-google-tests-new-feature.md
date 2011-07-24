@@ -7,7 +7,7 @@ categories:
 - General
 ---
 
-Today I did a few searches on Google, only to find out that Google either rolled out a new feature to their Search Engine Result Page or is testing it. I guess it is the latter because several <a href="http://lunchpauze.blogspot.com/2006/05/google-remembers-what-youve-visited.html">collegue's</a> and friends were not able to replicate the behaviour. See the screenshot below:
+Today I did a few searches on Google, only to find out that Google either rolled out a new feature to their Search Engine Result Page or is testing it. I guess it is the latter because several <a href="http://lunchpauze.blogspot.com/2006/05/google-remembers-what-youve-visited.html">colleagues</a> and friends were not able to replicate the behavior. See the screen shot below:
 
 <img id="image29" alt="Google testing new feature" src="{{site.baseurl}}/wp-content/google-test.JPG" />
 
@@ -22,5 +22,6 @@ And Google provides some handy graphs too!
 <a title="Nice stats" href="{{site.baseurl}}/wp-content/google%20test%203.JPG"><img width="128" height="85" id="image31" alt="Nice stats" src="{{site.baseurl}}/wp-content/google%20test%203.thumbnail.JPG" /></a>
 
 Some of this has implications though:
-bq. <a href="http://www.google.com/support/bin/answer.py?answer=26654&topic=1593">How is my Search History stored?</a>
-Personalized Search stores your search history on Google servers, which means you can view your history and get personalized search results on any computer.
+
+    <a href="http://www.google.com/support/bin/answer.py?answer=26654&topic=1593">How is my Search History stored?</a>
+    Personalized Search stores your search history on Google servers, which means you can view your history and get personalized search results on any computer.

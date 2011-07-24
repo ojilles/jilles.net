@@ -26,5 +26,5 @@ article</a> outlines the positive aspects of the current financial crisis:
     to go up or credit to be extended promiscuously; we don't want a banking
     economy based on the third derivative of valueless debt.
 
-Some of the other blogposts over there are interesting reads as well!
+Some of the other blog posts over there are interesting reads as well!
 

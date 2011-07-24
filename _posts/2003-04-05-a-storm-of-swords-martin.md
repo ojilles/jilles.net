@@ -10,7 +10,7 @@ categories:
 I am currently reading [A storm of
 swords](http://www.amazon.com/Storm-Swords-Song-Fire-Book/dp/055357342X) by
 George R.R. Martin. That book is book #3 in a series called _A song of ice and
-fire_. I was pointed to this series by some people on usenet. After reading
+fire_. I was pointed to this series by some people on Usenet. After reading
 almost all the material written by J.R.R. Tolkien I wanted something else, but
 similar.
 
@@ -39,7 +39,7 @@ PS: Martin is different from Tolkien in at least two aspects:
   something that shocked me, being used to Tolkien as I was. I think I like
   Martin's approach in this respect. But then again Martin started out on
   doing 7 book series, whereas Tolkien wrote 1 book (and the publisher turned
-  it into 3, but thats another story).
+  it into 3, but that's another story).
 
 PS 2: I'm trying not to read too much at once so that I won't rush through the
 story... first time I'm regulating how much I read.

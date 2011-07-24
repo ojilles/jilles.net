@@ -14,10 +14,10 @@ blog post about a PHP vs Ruby on Rails discussion</a>. If you're interested in
 that kind of stuff, read the article: it has some juicy humor sprinkled into it
 as well; it's a bit flame bait too...
 
-Favourite quote (quoting another quote):
+Favorite quote (quoting another quote):
 
     First they ignore you, then they laugh at you, then they fight you, then you win.
-     -Mahatma Ghandi
+     -Mahatma Gandhi
 
     OSCON 2005:
 

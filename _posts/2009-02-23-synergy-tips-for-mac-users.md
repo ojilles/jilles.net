@@ -15,7 +15,7 @@ your cursor off the screen and onto the next computer without lifting your
 hands! Really neat. Also, clipboards are shared so that you can copy text from
 one computer and paste it onto the other one.
 
-My primary computer is a MacBook Air, and as such it has "hot corners": the
+My primary computer is a Mac Book Air, and as such it has "hot corners": the
 upper right corner for example shows my desktop. With synergy they are a bit
 hard to reach since you quickly move to the other PC. If you want to make it
 easy on yourself, just do the following in your configuration file:
@@ -24,5 +24,5 @@ easy on yourself, just do the following in your configuration file:
                 right(10,90) = pc
 
 Which defines the pc as being to the right of my laptop, but only starting from
-10% of the screen untill 90% of the screen, neatly disabling Synergy in the
+10% of the screen until 90% of the screen, neatly disabling Synergy in the
 corners.

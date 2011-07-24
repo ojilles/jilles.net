@@ -4,17 +4,16 @@ layout: post
 title: Glad I'm not a millionaire (or, innovation in the airline industry)
 permalink: perma/2011/07/20/innovation-in-the-airline-industry
 categories:
-- Crazy Ideas
 - Business
 ---
 
 Every time I am flying on a plane, which happens quite a bit, I get these crazy
-idea's for how to innovate in the airspace. Some collegues who have had to
+idea's for how to innovate in the airspace. Some colleagues who have had to
 listen to me during flights will happily agree these are crazy. Even though, we
 might see some of these idea's come into play at some point in the future, so I
 thought I would write them up. 
 
-Most of these idea's are probably not going to be succesful, I will admit.
+Most of these idea's are probably not going to be successful, I will admit.
 Which is why I am very happy I am not a millionaire who could try to find out.
 
 
@@ -33,7 +32,7 @@ around them might be willing to pay a little bit more to get on.
 On the other hand, the airline could designate other flights as "baby
 friendly". These could sport multiple seats turned into cribs, a lavatory
 changed into a small playroom. It might even include one of those nannies that
-keeps kids busy! Again, wouldn't suprise me if parents were willing to pay more
+keeps kids busy! Again, wouldn't surprise me if parents were willing to pay more
 for this on a 12 hour long flight!
 
 ### No security for convenience
@@ -51,14 +50,14 @@ airline:
 * We do away with the security boarding talk (oxygen mask, seat belt, etc).
   No one is listing anyways, most people hear it 10+ times a year. Instead, do
   these inside the airport building. Once a person has completed their
-  "training", stamp their passport or something simlar and check for the stamp
+  "training", stamp their passport or something similar and check for the stamp
   at the gate. Stamps would be valid for 4 years. Now suddenly I don't need to
   listen to the blaring cabin attendants anymore, thank you!
 * Another one for convenience: remove most of the pre-flight processes. For
   example: why require passengers to book their flights in advance? If there
-  was an airline that would litereally let me walk up to their doorstep, swipe
+  was an airline that would literally let me walk up to their doorstep, swipe
   my credit card and get on the plane (all in under an hour) how much more
-  convient would that be?
+  convenient would that be?
 * Offer early morning "quiet sleeper flights". Combining the security talk-idea from
   above, with even more quiet time: no announcements on the PA. If you have
   your eyes closed, no questions from the flight attended (Coffee ser?),
@@ -87,14 +86,14 @@ would proceed making a roll, figure eight or an
 [Immelmann](http://en.wikipedia.org/wiki/Immelmann_turn)? I mean a full on 30
 minute acrobatics session: that would be totally awesome for the pilot to do,
 and if known in advance could attract a whole slew of customers at higher
-prices. I would, once in a while, take such a flight with collegues: it would
+prices. I would, once in a while, take such a flight with colleagues: it would
 break the monotonicity of business travel, in a segment that is rather price
 insensitive.
 
 ### Conclusion
 
 There are still a lot of unexplored idea's in the airline industry. I am not
-claiming that any of the above would be succesful, but I sure would love to see
+claiming that any of the above would be successful, but I sure would love to see
 more experimentation. Let me know in the comments or via email if there are
 other idea's you would love to see implemented.
 

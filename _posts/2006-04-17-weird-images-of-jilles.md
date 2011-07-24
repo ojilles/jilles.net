@@ -9,7 +9,7 @@ categories:
 
 While working on a draft article for this site I needed to collect some weird
 images of myself which could then be used in a collage because one of my
-collegues is going to leave. I myself don't want to pick that image, and was
+colleagues is going to leave. I myself don't want to pick that image, and was
 going to offer the creators of the collage the options. While not wanting to
 send them megabytes of images, I thought I might do it the Web 2.0 way and put
 them up on Flickr. Since someone is going to find them anyway, [I might as well

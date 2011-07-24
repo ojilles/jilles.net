@@ -36,9 +36,9 @@ unique selling point?
 
 **Update**: See this thread I started on <a
 href="http://stackoverflow.com/questions/249935/what-are-great-specific-usability-guidelines">StackOverflow
-for recommendations on UEX for Webapps</a>.
+for recommendations on UEX for Web apps</a>.
 
-**Update 2**: Thanks to LukeW for referencing both this blogpost, as well as
+**Update 2**: Thanks to LukeW for referencing both this blog post, as well as
 telling how it is (he was the person for me opening up the importance of user
 experience). Go <a href="http://dev.uxmatters.com/MT/archives/000344.php">read
 that post</a>, it contains more insights than my ramblings!

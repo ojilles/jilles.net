@@ -42,7 +42,7 @@ docbook (together with a tool, Norman Walsh (diffmk), to generate a proper HTML
 document containing differences between two versions of the docbook's XML
 document). But this proves a little bit tiresome, especially when large volumes
 of pictures and diagrams are involved. A positive side of the usage of CVS is
-that multiple people can work on the specifications. Thats why, in my opinion,
+that multiple people can work on the specifications. That's why, in my opinion,
 dismisses solutions like Word and/or Excel. It is good to know that [other
 people](http://purpleslurple.net/ps.php?theurl=http://www.mojofat.com/tutorial/step6.html#purp106)
 are struggling with [the same

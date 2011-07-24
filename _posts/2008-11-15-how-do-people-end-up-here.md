@@ -15,7 +15,7 @@ Here is a breakdown of which keywords people use to end up on my site:
   href="javascript:;">posted
   a video and some pictures</a>. **EDIT 2011: this article has been removed**
 * **php website architecture**  (and variations thereof like "**website
-  architecture with php**"):  I've posted a few articles on this topic, ranging
+  architecture with PHP**"):  I've posted a few articles on this topic, ranging
   from a <a
   href="{{site.baseurl}}/perma/2008/04/28/pfcongrez_marktplaats_architecture/
   ">presentation of the high level architecture at Martkplaats.nl</a>, an
@@ -32,12 +32,12 @@ Here is a breakdown of which keywords people use to end up on my site:
 * **Westendorf map**: Each year I'm going down to Westendorf, Austria, for a
   ski holiday with a really nice group of people. Years ago I found this <a
   href="{{site.baseurl}}/wp-content/westendorf-map/">"interactive" map of
-  Westendorf</a> that was based on an arial photo that was usefully annotated.
+  Westendorf</a> that was based on an aerial photo that was usefully annotated.
   I copied the zip-file that was offered. Years later the original was gone, so
   I decided to <a href="{{site.baseurl}}/wp-content/westendorf-map/">upload it
   on my website</a> for others to use. The funny thing is, that another popular
   search for that page is the actual URL of the page.
-* **cvs branching strategy**: As stated above, version control systems are a
+* **CVS branching strategy**: As stated above, version control systems are a
   pet peeve of mine. I wrote an article asking the question "<a
   href="{{site.baseurl}}/perma/2004/10/06/what-branching-strategy-do-you-use/">What
   branching strategy do you use?</a>". 

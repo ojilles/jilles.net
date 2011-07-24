@@ -34,9 +34,9 @@ Short list of conclusions:
 * In theory the complexity of a well-structured program should be O(n), where n
   is the number of lines of code (each line only tightly coupled with the line
   preceding and after it). A poorly structured program would be O(n2), with
-  dependencies on one particular line throughout the codebase.
+  dependencies on one particular line throughout the code base.
 
-Favorite quote, from the **1968** NATO Software Engingeering Conference: "_We
+Favorite quote, from the **1968** NATO Software Engineering Conference: "_We
 undoubtedly produce software by backward techniques. [...] We build systems
 like the Wright brothers build airplanes -- build the whole thing, push it off
 the cliff, let it crash, and start over again_".

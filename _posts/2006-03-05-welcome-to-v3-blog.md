@@ -11,7 +11,7 @@ categories:
 
 Welcome, dear reader to, to the best of my knowledge, the third incarnation of
 my weblog/personal site. The last year and a half I had all these idea's in my
-head with nowhere to put them. Everytime I had that thought "_I wish I had a
+head with nowhere to put them. Every time I had that thought "_I wish I had a
 weblog to post it to as it might be interesting to other people_". So, here it
 is!
 
@@ -19,7 +19,7 @@ The source of my idea's is mostly twofold:
 
 * It's triggered by things that I read. Weblogs, other sites, that inspire new
   thought and those thoughts should end up here.
-* At work. My work is in the product development group of a large webbased
+* At work. My work is in the product development group of a large web-based
   company located in the Netherlands. There are various reasons why I love
   working there, one of them is that it always inspires ideas on the topics of
   software development, online communities, management and business
@@ -27,7 +27,7 @@ The source of my idea's is mostly twofold:
 
 From past experience I know that it is really hard to really add value on the
 web which is why I chose the default Kubrick's theme and a base install of
-WordPress: lets see if I can get content into the site first, before spending
+Wordpress: lets see if I can get content into the site first, before spending
 hours tweaking the site.
 
 I hope you will enjoy the site!

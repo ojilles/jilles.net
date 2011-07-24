@@ -9,13 +9,13 @@ categories:
 
 For the past 6 or 7 years I have gone to <a
 href="http://homes.tiscover.com/prjt/westendorf/index2.html?_hm=1&_lang=en">Westendorf</a>,
-Austria with friends and family for a week long wintersports holiday.
+Austria with friends and family for a week long wintersport holiday.
 Westendorf not being the biggest city ever we quite know the place and always
 book well in advance. This year however we couldn't book the 9 rooms we needed
 in one of our usual places. Which brought up the question of "which other
-appartments are there for rent and how close are they to the slopes?".
+apartments are there for rent and how close are they to the slopes?".
 
-I remembered finding a map/photograph of Westendorf with all the appartments,
+I remembered finding a map/photograph of Westendorf with all the apartments,
 hotels, apres-ski bars  painted on it. I tried to find it again, but couldn't.
 Booted up my really old laptop and found it there. So, in order to make sure
 both I and you will be able to find it again in the future, I'm hosting a copy
@@ -28,7 +28,7 @@ video's: <a href="http://www.mesnerwirt.at/aussenansicht56k.htm">outside</a>,
 <a href="http://www.mesnerwirt.at/zimmemesnerwirt56k.htm">room</a>, <a
 href="http://www.mesnerwirt.at/wellnessmesnerwirt56k.htm">wellness</a>, <a
 href="http://www.mesnerwirt.at/restaurantmesnerwirt56k.htm">restaurant</a> - we
-have aten here a lot over the last couple of years, great atmosphere!, and the
+have eaten here a lot over the last couple of years, great atmosphere!, and the
 (in-)famous <a
 href="http://www.mesnerwirt.at/kellermesnerwirt56k.htm">Kellerbar</a>!)
 

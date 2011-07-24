@@ -37,7 +37,7 @@ href="http://ojilles.listal.com/owned/books">http://ojilles.listal.com/owned/boo
 (<a href="http://ojilles.listal.com/rss/owned/books/">RSS feeds</a> are
 available there as well).
 
-*(Authors note, 2011: Don't bother with The Book of Atrix Wolfe, so obstruse, I could not get through the first 20 pages)*
+*(Authors note, 2011: Don't bother with The Book of Atrix Wolfe, so abstruse, I could not get through the first 20 pages)*
 
 All this should keep me quiet for a little while...
 

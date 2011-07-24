@@ -38,7 +38,7 @@ technology needed to back that feature up and develop the feature using the
 technology bought.
 
 Now, why is it then that no 3rd party vendor stepped into this space and
-provided similar technology? Why is it that noone from these companies started
+provided similar technology? Why is it that no one from these companies started
 off on their own and started a company providing a technology like Dynamo? Why
 doesn't a big database or storage vendor step into this space? Clearly there
 are some big companies out there that need this technology (Amazon, eBay,

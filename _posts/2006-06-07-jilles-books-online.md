@@ -8,7 +8,7 @@ categories:
 ---
 
 I had this really old laptop which holds my "books database" and thought to
-back it up. I was using some propertiery windows application to hold them all.
+back it up. I was using some proprietary windows application to hold them all.
 And instead of backing them up I brought them online using <a title="Listall's
 website" href="http://www.listal.com">Listall.com</a>. The setup was a breeze
 (even didn't require me to confirm my email address). The only problem I had

@@ -14,13 +14,13 @@ some of their experiences.  I'm don't think this is rocket science, but I'd
 like to quote some of the things that are being said and provide some links to
 the relevant discussions.
 
-About the general "would you want to bet your uptime on memcached as an
+About the general "would you want to bet your up time on memcached as an
 infrastructure component?"-question: 
 
     We consider memcached a critical part of our infrastructure. The benefit of
     memcached in a typical setup is to reduce the amount of database hardware you
     need to support an application; if you have enough database horsepower to run
-    unimpaired with most of your memcached servers out of service, then thereÂ¹s
+    unimpaired with most of your memcached servers out of service, then there's�¹s
     probably no point using memcached at all, since it without a doubt adds extra
     complexity to your application code. 
 [<a href="http://lists.danga.com/pipermail/memcached/2007-May/004105.html">link</a>]
@@ -41,8 +41,8 @@ If you shard all you data, etc. etc., is memcached still worth it?
 [<a href="http://lists.danga.com/pipermail/memcached/2007-May/004112.html">link</a>]
 
 Also, there is a lot of talk about a FUSE (File system in user space)
-filesystem based on top of memcached. Not only would that make caching
-available for those applications you do not control (blackbox) but it would
+file system based on top of memcached. Not only would that make caching
+available for those applications you do not control (black box) but it would
 have some really great advantages for your generic PHP app:
 
     Over the last two weeks i spent a lot of time discussing a memcachefs

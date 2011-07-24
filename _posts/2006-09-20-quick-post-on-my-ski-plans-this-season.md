@@ -19,4 +19,4 @@ describing the exact plans and updating the map with images and the like.
 *Update:* (2007-06-16). The one in Val Thorens didn't pull through, as it was
 really close to the one in Zermatt and proved to be logistically improbable.
 Anyway, 3 ski trips in one season is really helping your condition on the
-slopes. Definately recommended!
+slopes. Definitely recommended!

@@ -14,7 +14,7 @@ href="http://www.tbray.org/ongoing/When/200x/2003/07/30/OnSearchTOC">post by
 Tim Bray</a> actually summarizes nicely the basics of a search engine. 
 
 The post is already 4 years old (posted in late 2003) but is still quite
-relevant. It focusses primarily on __filtering__ to a relevant resultset,
+relevant. It focuses primarily on __filtering__ to a relevant result set,
 although it doesn't ignore __sorting__ there is so much more one can do in that
 area nowadays.
 
@@ -23,7 +23,7 @@ For those that are absolutely new to this area, or find them selves playing with
 * <a href="http://www.tbray.org/ongoing/When/200x/2003/06/15/OnSearch">Backgrounder</a>
 * <a href="http://www.tbray.org/ongoing/When/200x/2003/06/17/SearchUsers">The Users</a>
 * <a href="http://www.tbray.org/ongoing/When/200x/2003/06/18/HowSearchWorks">Basic Basics</a>
-* <a href="http://www.tbray.org/ongoing/When/200x/2003/07/11/Stopwords">Stopwords</a>
+* <a href="http://www.tbray.org/ongoing/When/200x/2003/07/11/Stopwords">Stop words</a>
 * <a href="http://www.tbray.org/ongoing/When/200x/2003/06/24/IntelligentSearch">Result Ranking</a> (__sorting__)
 
 And, before you think about breaking the market and build an intelligent search
@@ -31,14 +31,14 @@ engine, please <a
 href="http://www.tbray.org/ongoing/When/200x/2003/06/24/IntelligentSearch">read
 this</a>. 
 
-Excellent writeup, even 4 years later. Thanks Tim!
+Excellent write up, even 4 years later. Thanks Tim!
 
 <a
 href="http://glinden.blogspot.com/2007/12/papers-from-wsdm-2008-on-click-position.html">Another
 post</a>, more related to <strike>relevance and the order your results will
-appear</strike> the relevance you can attach to users click behaviour. In
+appear</strike> the relevance you can attach to users click behavior. In
 short, users are generally inclined to click on items at the top more
-frequenctly, so basing your relevance metrics on this you need to "un bias"
+frequently, so basing your relevance metrics on this you need to "un bias"
 your data. 
 
 Secondly, as users get further down the result set -in the aggregate- they are
