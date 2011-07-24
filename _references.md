@@ -9,7 +9,7 @@
 [Google reader]: http://www.google.com/reader/shared/09104278892899310131
 [Youtube]: http://www.youtube.com/user/ojilles
 [Stackoverflow]: http://stackoverflow.com/users/13864/jilles
-[Shelfari]: http://www.shelfari.com/ojilles/lists/IsRead#firstBook=0&#038;list=5&#038;sort=dateadded
+[Shelfari]: http://www.shelfari.com/ojilles/lists/IsRead#firstBook=0&amp;list=5&amp;sort=dateadded
 [Getsatisfaction]: http://getsatisfaction.com/people/ojilles
 [Twitter]: http://twitter.com/ojilles
 [Travbuddy]: http://www.travbuddy.com/widget_map_display.php?id=1550277
