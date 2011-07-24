@@ -35,7 +35,7 @@ statically generated. Here is the software I use:
     * Git and [Github](https://github.com/ojilles/jilles.net/) to maintain all the data
     * [Backing up Github](http://paltman.com/2008/11/02/backup-script-for-github/)
     * I use [VIM](http://www.vim.org) to author all the articles and any coding needed
-    * I use [Aspell]() with an [English dictionary](ftp://ftp.gnu.org/gnu/aspell/dict/en/)
+    * I use [Aspell](http://aspell.net/man-html/) with an [English dictionary](ftp://ftp.gnu.org/gnu/aspell/dict/en/)
 * Design inspiration
     * Color scheme from [kuler](http://kuler.adobe.com/#themeID/1344020)
     * Background image from [Subtlepatterns.com](http://subtlepatterns.com/)
