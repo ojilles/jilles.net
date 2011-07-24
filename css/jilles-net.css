@@ -7,26 +7,26 @@
 {% assign highlight = '#D9A444' %}
 /* = RESETS */
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,q,small,strong,sub,sup,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;margin:0;padding:0}article,aside,figure,figure img,figcaption,hgroup,footer,header,nav,section,video,object{display:block}a img{border:0}figure{position:relative}figure img{width:100%}
-img, object, embed {max-width: 100%;margin-bottom: 20px;}
-p, ul, ol, blockquote {margin-bottom: 24px;}
-img {-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;margin-bottom: 20px;}
+img, object, embed {max-width: 100%;}
+img {-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
 a img {display: block;}
 
 /* Jilles.net specifics: start **************** */
 
 /* = ALL */
-ul {margin: 0 0 0 20px;padding: 0;}
-blockquote { margin: 1em 2em; padding-left: 20px; border-left: 10px dashed #999; font-family: 'Courier New','Courier'; font-size: 0.8em;}
+ul, ol, p, blockquote {margin: 0 0 0 0;padding: 0;}
+h1 { }
+h2 { margin-bottom: 15px; font-size: 2em;}
+h3 { margin-bottom: 5px; font-size: 1.2em;}
+.content p { margin: 0 0 15px 0;  }
+.content ul, .content ol { margin: 0 0 0 20px; }
+.content > ul, .post > ul { margin: 0 0 15px 20px; }
+
+blockquote { margin: 1em 2em; padding-left: 20px; border-left: 2px dashed #999; font-family: 'Courier New','Courier'; font-size: 0.8em;}
 hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
 .content{ font-size 2em;}
-
-/* = COLOURS */
-/* http://kuler.adobe.com/#themeID/1344020
-*/
 body{ background-image: url('{{site.baseurl}}/photos/styling/bright_squares.png'); background-repeat: repeat; } 
 a {color: #000;}
-h2 { margin-bottom: 15px; font-size: 2em;}
-h3 { margin-top: 15px; font-size: 1.2em;}
 
 
 
