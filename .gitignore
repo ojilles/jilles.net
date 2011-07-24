@@ -2,3 +2,4 @@ _site
 _site/*
 .tidy_log
 jilles_net.js
+*.bak
