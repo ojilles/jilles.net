@@ -1,19 +1,15 @@
 ---
 ---
-{% assign color1 = '#30547F' %}
-{% assign color2 = '#5D7FA6' %}
-{% assign color3 = '#AAC2D9' %}
-{% assign background = '#D6D6DE' %}
-{% assign highlight = '#D9A444' %}
-/* = RESETS */
+{% assign color1 = '#30547F' %}{% assign color2 = '#5D7FA6' %}{% assign color3 = '#AAC2D9' %}{% assign background = '#D6D6DE' %}{% assign highlight = '#D9A444' %}
+{% comment %} RESETS {% endcomment %}
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,q,small,strong,sub,sup,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;margin:0;padding:0}article,aside,figure,figure img,figcaption,hgroup,footer,header,nav,section,video,object{display:block}a img{border:0}figure{position:relative}figure img{width:100%}
 img, object, embed {max-width: 100%;}
 img {-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
 a img {display: block;}
 
-/* Jilles.net specifics: start **************** */
+{% comment %} Jilles.net specifics: start **************** {% endcomment %}
 
-/* = ALL */
+{% comment %} ALL {% endcomment %}
 ul, ol, p, blockquote {margin: 0 0 0 0;padding: 0;}
 h1 { }
 h2 { margin-bottom: 15px; font-size: 2em;}
@@ -26,35 +22,34 @@ ul > h3 { margin: 15px 0 0 0; }
 
 blockquote { margin: 1em 2em; padding-left: 20px; border-left: 2px dashed #999; font-family: 'Courier New','Courier'; font-size: 0.8em;}
 hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
-.content{ font-size 2em;}
 body{ background-image: url('{{site.baseurl}}/photos/styling/bright_squares.png'); background-repeat: repeat; } 
 a {color: #000;}
 
 
 
-/* = BOXES */
+{% comment %} BOXES {% endcomment %}
 .grid {}
 .content{}
 .footer {margin: 5px 0 0 0;color:#8c8c8c;font-size:13px;}
 .social {float:right; width:100px; margin-top: 15px;}
-/* = LOGO */
+{% comment %} LOGO {% endcomment %}
 .banner ul {margin: 0;padding: 0;list-style: none;}
 .banner li {margin: 0 10px 0 0;padding: 0;display: inline;list-style: none;}
 .banner {font-size: 1em;}
 .banner h1 {font-size: 4em;}
 .logo a { color: #fff; text-decoration: none;}
 .logo { 
-    /* gecko based browsers */  background: -moz-linear-gradient(top, {{color1}}, {{color2}});
-    /* webkit based browsers */ background: -webkit-gradient(linear, left top, left bottom, from({{color1}}), to({{color2}}));
+    {% comment %} gecko based browsers {% endcomment %}  background: -moz-linear-gradient(top, {{color1}}, {{color2}});
+    {% comment %} webkit based browsers {% endcomment %} background: -webkit-gradient(linear, left top, left bottom, from({{color1}}), to({{color2}}));
     color: {{background}};
     padding: 0 0 10px 0;
  }
 
-/* = TYPOGRAPHY */
+{% comment %} TYPOGRAPHY {% endcomment %}
 .banner h1, h1, h2, h3, h4 {font-family: 'Amaranth', 'Ariel'}
 .content, .grid {font-family: 'Quattrocento', 'Georgia',  serif}
 
-/* = CONTENT */
+{% comment %} CONTENT {% endcomment %}
 .post-meta {margin: 10px 0;padding: 0 0 0 20px;}
 .meta-date, .meta-tags, .post-meta a {margin: 0;font-size: 12px;font-weight: normal;color: #8c8c8c;}
 .meta-tags ul {margin: 0;padding: 3px 0 0 0;list-style: none;}
@@ -64,7 +59,7 @@ a {color: #000;}
 .meta-tags li a, .meta-tags li a:link, .meta-tags li a:visited, .meta-tags li a:active {font-weight: normal;color: #874554;padding: 2px 4px;background: #d1d1d1;border: none;}
 .meta-tags li a:hover{color:#d94567;}
 .fancy {font-style: italic; font-size: 0.8em;}
-/* Jilles.net specifics: stop  **************** */
+{% comment %} Jilles.net specifics: stop  **************** {% endcomment %}
 
 a{
     color: {{ color1  }};
@@ -74,7 +69,7 @@ a:hover{
 }
 
 
-/* SimpleGrid neccesaties */
+{% comment %} SimpleGrid neccesaties {% endcomment %}
 .grid {
 	padding: 0 20px;
 }
@@ -82,9 +77,9 @@ a:hover{
 .row {
 }
 
-/* Titles over images */
+{% comment %} Titles over images {% endcomment %}
 .image              { position: relative; width: 100%; }
-h5                  { position: absolute; bottom: 50px; left: 1; width: 100%; }
+h5                  { position: absolute; bottom: 50px; left: 0px; width: 100%; }
 h5 span             { color: white; font: 16px 'Quattrocento Sans', Helvetica, Sans-Serif; 
                       background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.7); padding: 10px; }
 h5 span.spacer      { padding: 0 2px; background: none; }
