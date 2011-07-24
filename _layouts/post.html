@@ -4,6 +4,7 @@ layout: default
 <div id="index-posts">
 	<!--Post {{ page.id }}-->
 	<div id="post-{{ page.id | replace:'/','-' }}" class="post">
+        <div class="social"><g:plusone size="medium"></g:plusone></div>
 		<h2>{{ page.title }}</h2>
 		{{ content }}
 		<div class="post-meta">
