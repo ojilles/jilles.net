@@ -85,7 +85,8 @@ task :send do
   # find . -type f \( -name "*.xml" -o -name "*.html" -o -name "*.css" -o -name "*.js" \) -exec sh -c "gzip < {} > {}.gz" \;
 
   # Should test if _site/ exists
-  sh "ncftpput -f ~/.ncftp/bookmarks -m -E -S tmp -R / _site/* && echo 'Blog pushed to production' | growl -H localhost -t 'Jilles.net' || echo 'Blog push FAILED' | growl -H localhost -s -t 'Jilles.net'"
+  sh "ncftpput -f ~/.ncftp/bookmarks -m -E -S tmp -R / _site/* && echo 'Blog pushed to production'"
+  # | growl -H localhost -t 'Jilles.net' || echo 'Blog push FAILED' | growl -H localhost -s -t 'Jilles.net'"
 end
 
 task :check_git do
