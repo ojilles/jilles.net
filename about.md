@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About me, Jilles Oldenbeuving
+image_titles: true
 ---
 
 About me
@@ -49,6 +50,6 @@ This is my weblog and my little corner on the internet. I have build many big si
  * [Travbuddy]
 
 
-![Profile picture Jilles Oldenbeuving][profile1]
+![Jilles Oldenbeuving, December 2010][profile1]
 
 [profile1]: {{site.baseurl}}/photos/misc/profile_picture_jilles_oldenbeuving.jpg
