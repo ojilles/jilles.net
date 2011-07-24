@@ -13,7 +13,7 @@ href="http://www.pfcongrez.nl/2008/index.html">PFCongrez</a>, a yearly
 gathering of PHPFreakz. During the day three other presentations were given.
 The first one was by Peter-Paul Koch (ppk for short) who presented about <a
 href="http://www.quirksmode.org/blog/archives/2008/04/slides_pfcongre.html">unobtrusive
-javascript</a>. The presentation was given with a lot of energy, enjoyable!
+JavaScript</a>. The presentation was given with a lot of energy, enjoyable!
 
 After that, I presented a sneak peak at <a
 href="http://www.marktplaats.nl">Marktplaats</a> during which I gave some
@@ -30,8 +30,8 @@ The slides are embedded below, or up for download here. Or join the after party 
 The other presentations during the day that can be found online:
 
 * Peter Paul Koch, <a
-  href="http://www.quirksmode.org/blog/archives/2008/04/slides_pfcongre.html">Unobstrusive
-  Javascript</a>
+  href="http://www.quirksmode.org/blog/archives/2008/04/slides_pfcongre.html">Unobtrusive
+  JavaScript</a>
 * Stefan Koopmanschap, <a
   href="http://www.symfony-framework.nl/nieuws/43">Symfony</a>
 

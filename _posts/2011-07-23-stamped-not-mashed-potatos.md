@@ -9,25 +9,25 @@ categories:
 The other day I made a delicious potato dish, and having my camera ready, I
 thought I'd share it with you! To go short, rather than baking potato disks, or
 mashing them up completely, this dish nicely holds the middle. This produces a
-really nice cruchy dish!
+really nice crunchy dish!
 
 ![The end result, the crunched potato!][ph12]
 
 Ingredients:
 
-* Potatos (have them decently sized)
+* Potatoes (have them decently sized)
 * Salt, pepper
 * Herbs (Rosemary, or ...)
 * Oil
 
-![My italian, british and danish combination of herbs][ph1]
+![My Italian, British and danish combination of herbs][ph1]
 
-For starters, boil the potatos _in their skins_. That's important: in their
+For starters, boil the potatoes _in their skins_. That's important: in their
 skins. This is what is going to make them so crunchy and good. You should add
 some salt to taste. The best way to do that is to wait for the water to boil,
 then add the salt. This works better as the water immediately dissolves it.
 Start the oven or broiler. I put mine on 200-220 degrees C. Oil up a baking
-plate. Once done, take out the boiled potatos, put them on the plate and crunch
+plate. Once done, take out the boiled potatoes, put them on the plate and crunch
 them with your potato stamper, like so:
 
 ![Die you potato, die!][ph2]
@@ -39,24 +39,24 @@ jagged on top. Here, another example:
 
 After you have done the lot, sprinkle some oil on top:
 
-![Making it up with my potatos by giving them oil][ph5]
+![Making it up with my potatoes by giving them oil][ph5]
 
-And add more salt on top of the potatos, and your herbs. In the pictures you'll
+And add more salt on top of the potatoes, and your herbs. In the pictures you'll
 see me experimenting with red onions: you are advised to skip that as it doesn't
 work very well in the broiler. 
 
-![Plate of crunched potatos][ph7]
+![Plate of crunched potatoes][ph7]
 
 ![Close up of a single crunched potato][ph9]
 
-After all this torture, the potatos still have one last step: the oven. I
-usually put my oven on "broil" at around 200-220 degrees. Since the potatos are
+After all this torture, the potatoes still have one last step: the oven. I
+usually put my oven on "broil" at around 200-220 degrees. Since the potatoes are
 already "done" (through the boiling) it all really doesn't matter too much.
 What you are looking for is to harden up the outsides, the jagged tops, the
-skins of the potatos. This will make it really crunchy, while the inside is
+skins of the potatoes. This will make it really crunchy, while the inside is
 still nicely soft like a boiled potato.
 
-![Potatos in the oven, undergoing the last stage][ph10]
+![Potato's in the oven, undergoing the last stage][ph10]
 
 Just check the oven every few minutes till you are happy with the result. Here 
 was mine:
@@ -65,7 +65,7 @@ was mine:
 
 See all those brown bits?! Those are the best! Buon appetito! 
 
-![Crunched potatos served with 'dutch' meatballs][ph13]
+![Crunched potatoes served with 'dutch' meatballs][ph13]
 
 
 

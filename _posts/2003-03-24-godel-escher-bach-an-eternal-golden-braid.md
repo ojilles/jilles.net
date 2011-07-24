@@ -18,7 +18,7 @@ Jones yearn to hear _Musical Offering_ by J.S. Bach. Damn.
 
 Well, I'm only 50 pages into the book and it really gets my interest. I was
 especially surprised that Hofstadter was able to make the same strange loops one
-can find in Eschers drawings, Bachs music and Godels math in the dialogs between
+can find in Escher's drawings, Bach's music and Godel's math in the dialogues between
 Achilles and Tortoise!
 
 I don't get the clue of the last two paragraphs of the dialog between Achilles

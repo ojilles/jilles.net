@@ -29,7 +29,7 @@ English, German and French:
 
 <a href="{{site.baseurl}}/wp-content/graph.png"><img src="{{site.baseurl}}/wp-content/graph.png" alt="" title="graph" width="500" height="385" class="aligncenter size-full wp-image-185" /></a>
 
-Remember that I stated I thought people in Denmark speak better english than in
+Remember that I stated I thought people in Denmark speak better English than in
 the Netherlands? Seems I was wrong... Or was I?
 
 <a href="{{site.baseurl}}/wp-content/graph2.png"><img src="{{site.baseurl}}/wp-content/graph2.png" alt="" title="graph2" width="500" height="385" class="aligncenter size-full wp-image-186" /></a>
@@ -38,7 +38,7 @@ See? It's just my -_ahem_- unbiased cultural filter showing through ;-).
 
 
 ### Alcohol consumption
-The other thing I keep telling my colleagues in Denmark is that they drink much more wine than the average person in Holland. Obviously that was completely unsubstantiated and on top that a handful of people I work with closest are complete wine-affectionado's so I might be quite biased. So I thought I'd look it up (<a href="http://www.who.int/entity/substance_abuse/publications/globalstatusrep ortalcohol2004_alcconsumpt.pdf">PDF</a>). Wine consumption is roughly the same across both countries (percentage-wise of total consumption). However, where as the average cheese-head (Dutchie)  consumes 9.74L of pure alcohol per year a Dane washes down 11.93L. That's quite a few schnapps more. To be exact, 22.4% more schnapps!
+The other thing I keep telling my colleagues in Denmark is that they drink much more wine than the average person in Holland. Obviously that was completely unsubstantiated and on top that a handful of people I work with closest are complete wine-aficionados so I might be quite biased. So I thought I'd look it up (<a href="http://www.who.int/entity/substance_abuse/publications/globalstatusrep ortalcohol2004_alcconsumpt.pdf">PDF</a>). Wine consumption is roughly the same across both countries (percentage-wise of total consumption). However, where as the average cheese-head (Dutchie)  consumes 9.74L of pure alcohol per year a Dane washes down 11.93L. That's quite a few schnapps more. To be exact, 22.4% more schnapps!
 
 ### General stats
 Interested in more statistics? I got you covered (<a
@@ -57,7 +57,7 @@ this.)
 ### Food
 One thing that tricked me up in eateries and supermarkets in Denmark is the
 usage of _Frikadeller_. Here is a picture of a few by "<a
-href="http://www.flickr.com/photos/thomaschristensen/">Thomas Rockstar</a>".
+href="http://www.flickr.com/photos/thomaschristensen/">Thomas Rock star</a>".
 
 <a href="{{site.baseurl}}/wp-content/frikandeller.jpg"><img src="{{site.baseurl}}/wp-content/frikandeller.jpg" alt="" title="frikandeller" width="500" height="375" class="aligncenter size-full wp-image-187" /></a>
 
@@ -99,7 +99,7 @@ a poem on an intricately cut piece of paper and send it to someone else without
 giving your identity away (the so called "<a
 href="http://da.wikipedia.org/wiki/G%C3%A6kkebrev">g&Atilde;&brvbar;kkebrev</a>"). The
 recipient get's three tries to guess the sender. If he or she fails to do so,
-it'll cost him/her a chocolate easter egg. The tradition seems to have grown
+it'll cost him/her a chocolate Easter egg. The tradition seems to have grown
 from Valentine's and it is not entirely clear to me if it is only done during
 Easter or with Valentine's as well.
 
@@ -109,7 +109,7 @@ href="http://www.shelfari.com/books/4057927/Outliers-The-Story-of-Success">Outli
 by Malcom Gladwell</a> I stumbled across a chapter that went into <a
 href="http://en.wikipedia.org/wiki/Geert_Hofstede">Geert Hofstede</a>'s
 framework for assessing cultural differences. I advice you to at least <a
-href="http://en.wikipedia.org/wiki/Geert_Hofstede">read the Wikipedia articel
+href="http://en.wikipedia.org/wiki/Geert_Hofstede">read the Wikipedia article
 on Geert's definitions</a> but to go short there are only <a
 href="http://www.geert-hofstede.com/hofstede_dimensions.php?culture1=62&amp;culture2=23#compare">2
 big differences between Denmark and the Netherlands</a>:
@@ -134,4 +134,4 @@ That is it for now. I hope this series of articles helps creating insight into t
 
 * <a href="http://www.pimsleurdanish.com/">Pimsleur's audio books</a> (via iTunes): trying this out in the car. I must say it really helps with the basics but when it gets a bit more difficult I miss seeing the words written down
 * Small group lessons (yet to start)
-* <a href="http://www.myngle.com">Myngle</a>, founded by two ex-eBay collegue's of mine (<a href="http://www.myngle.com/blog/2007/07/27/introducing-another-teammember-egbert-van-keulen">Egbert</a> and <a href="http://www.myngle.com/blog/2007/07/26/meet-the-team">Marina</a>), is a language learning marketplace that delivers language classes through (eBay-owned) Skype. How can I resist?! :-) (<a href="http://www.myngle.com/users/majka78">Danish teacher</a>)
+* <a href="http://www.myngle.com">Myngle</a>, founded by two ex-eBay colleagues of mine (<a href="http://www.myngle.com/blog/2007/07/27/introducing-another-teammember-egbert-van-keulen">Egbert</a> and <a href="http://www.myngle.com/blog/2007/07/26/meet-the-team">Marina</a>), is a language learning marketplace that delivers language classes through (eBay-owned) Skype. How can I resist?! :-) (<a href="http://www.myngle.com/users/majka78">Danish teacher</a>)

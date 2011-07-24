@@ -11,11 +11,11 @@ I followed the iPhone introduction closely. Partly because I just love Steve
 Jobs to present, due to how he engages you (even if you're watching the
 recordings) as well as the paradox of the casual Steve with overall slickness
 of the presentation and the products. But more importantly, I love Apple
-products. By now I own a black MacBook, 3 iPods and an Airport Extreme. (<span
-style="font-family:serif;">✓</span> Apple Fanboy... sorry)
+products. By now I own a black Mac Book, 3 iPod's and an Airport Extreme. (<span
+style="font-family:serif;">✓</span> Apple Fan boy... sorry)
 
 Both the iPhone as well as the iPod Touch were greeted with a lot of
-enthausiasm and hype. In my mind, rightfully so, since they are great devices
+enthusiasm and hype. In my mind, rightfully so, since they are great devices
 for their intent and above that superbly designed. However, as of late, I have
 seen more and more negative responses on the net primarily due to Apple
 restricting the platform both devices provide: Apple started to lock down the
@@ -23,7 +23,7 @@ iPhone more and more to make sure you don't unlock the phone and don't install
 3rd party software.
 
 Now, I for one, would love an open iPhone/Touch which could be augmented by 3rd
-parties because either someone writes an app that proves to be usefull (more
+parties because either someone writes an app that proves to be useful (more
 bang for the buck) or everyone screws it up and you end up not installing 3rd
 party software (seems unlikely, given enough time). This is not the point of
 this post though: Apple decided the platform is theirs, not yours. Applications
@@ -42,7 +42,7 @@ indicates that the mainstream audience doesn't find the openness a necessity
 and that makes you a niche market. Given the current success (shopping season
 is around the block) you could be waiting a long time.
 
-Bascially, given Apples reputation in terms of designing applications,
+Basically, given Apples reputation in terms of designing applications,
 operating systems and devices, they thought long and hard about the feature
 set, and if you're not okay with that please change your perspective from "_Why
 the ***** is this not an open platform_" to "_Jeez, I am apparently not in the
@@ -60,7 +60,7 @@ otherwise hear some rationale about why they were not included:
 ### Wifi integration
 
 The Touch is able to browse the web, buy songs on iTunes (I love exploring new
-types of music through the store, btw!), etc. But why doesn't it see my MacBook
+types of music through the store, btw!), etc. But why doesn't it see my Mac Book
 on the network as well? It could do all kinds of nice features like:
 
 Synch music/photos over the network without needing a lousy cable.
@@ -82,15 +82,15 @@ you're looking for. For example, I have 6 albums called "Westendorf Wintersport
 200x" and I need to determine by the photos  which album I'm looking at... not
 great.
 
-Synching smart play lists: I've got this "100 songs most played" play list
+Syncing smart play lists: I've got this "100 songs most played" play list
 which I turn on when I don't want to bother with handpicking the song I listen
-to.  The Touch does synch the playlist (I've got one on my Touch with the same
+to.  The Touch does synch the play-list (I've got one on my Touch with the same
 name and filtering) but doesn't load in the same numbers, causing all kinds of
 random numbers to enter into that play list which doesn't seem necessary to me.
 
 ### Browser
 
-Once, I tried to open up a few wikipedia articles in tabs to have some
+Once, I tried to open up a few Wikipedia articles in tabs to have some
 information handy during a recent holiday; only to find out that the Touch
 doesn't keep it in memory and as soon as you try to open up that tab tries to
 reload the page. It would be great if it just kept a cache for those pages that
@@ -99,7 +99,7 @@ even if you don't have wifi. Now that I think about it, it would be great to
 store YouTube video's in the Movies section as well, given that you've already
 downloaded it.
 
-One non-feature request: the safari browser intergration is superb; the best
+One non-feature request: the safari browser integration is superb; the best
 browser experience I've seen on a mobile device!
 
 (Please note, that none of these issues with the possible exception of the

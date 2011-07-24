@@ -13,7 +13,7 @@ What follows is a first (necessarily) relative comparison between the Dutch
 culture and the Danish one on those aspects that stood out to me. Mind you, I
 wrote this after being in Aarhus, Denmark for the relatively short period of  2
 months.  Also, I chose to publish this before finishing all the topics I have
-in mind, I’ll be looking to publish those later.
+in mind, I'll be looking to publish those later.
 
 I hope someone might find this interesting.
 
@@ -24,13 +24,13 @@ class="size-medium wp-image-158 alignleft" /></a> I have been very fortunate
 with the chance my employer gave me by offering me a job in a foreign country
 that fitted precisely what I wanted to do next in my career. So there I was,
 finding myself moving to Aarhus, Denmark. I need to add that before this I had
-not been an expat before, having lived my life in the Netherlands. I hadn’t
+not been an expat before, having lived my life in the Netherlands. I hadn't
 even visited Denmark before.
 
 I knew well in advance that that this was happening and unconsciously I was
 starting to build up expectations. I figured there would be a lot of
 similarities: North-western country in Europe, socialist government, small,
-rainy. Some obvious differences I knew about as well. The Danish didn’t ratify
+rainy. Some obvious differences I knew about as well. The Danish did not ratify
 the Euro as their currency, keeping their Danish Kroner.  
 
 
@@ -52,7 +52,7 @@ src="{{site.baseurl}}/wp-content/taxes-300x154.jpg" alt="" title="taxes"
 width="300" height="154" class="alignright size-medium wp-image-160" /></a>
 
 ... you buy a car in Denmark. This is probably the most talked about feature of
-the Danish tax system abroad. New cars get marked up by the goverment tax
+the Danish tax system abroad. New cars get marked up by the government tax
 system for 180%. Yes, that is hundred-and-eighty percent. Again, for
 comparison, in the Netherlands this is 42,3%. After hearing this it occurred
 to me that for some reason the Danish still get by as there are not an
@@ -83,17 +83,17 @@ noticeable. You will find a similar story in bars for that matter. I have not
 spend enough time yet in Denmark to judge how easy it is to make friends
 outside work but the Danes will be the first to tell you that that is not easy:
 they are not really (as) open to this. The bonds that they entertain with their
-friends are presumed to be much stronger/long lasting..
+friends are presumed to be much stronger/long lasting...
 
 In terms of Work/Life balance I find it hard to make absolute statements since
-I don’t think my personal W/L balance is quite typical for the Dutch. Even so,
+I don't think my personal W/L balance is quite typical for the Dutch. Even so,
 the Danes work 36 or 37 hours a week, start working days quite early (there is
 quite  a portion of people with office jobs that start before 8am) but leave
-the office early as well. It’s not an exception for danish offices to be empty
-at 16:00 or for stores to close around that same time. On saturdays stores are
-not open the full day either. I’m quite sure that it is an objective statement
-that the Danes make less hours per week than the Dutch. Please don’t mistake
-this for “the Dutch work harder than the Danes”, etc.
+the office early as well. It is not an exception for danish offices to be empty
+at 16:00 or for stores to close around that same time. On Saturdays stores are
+not open the full day either. I am quite sure that it is an objective statement
+that the Danes make less hours per week than the Dutch. Please don't mistake
+this for "the Dutch work harder than the Danes", etc.
 
 ### Traffic
 <a href="{{site.baseurl}}/wp-content/traffic-jamjp.jpg"><img
@@ -110,7 +110,7 @@ more rude in traffic than the Dutch, if someone would be pressing for my
 opinion.
 
 In terms of how the infrastructure is setup there are some differences though.
-I have definitely been caught a couple of times into the “trap” (as I keep
+I have definitely been caught a couple of times into the "trap" (as I keep
 feeling it is) of roads that go from one lane to two for all of 75 meters. This
 was quite confusing and I still do not understand the rationale behind this. I
 had a much more positive experience with traffic lights: they do signal orange
