@@ -15,45 +15,45 @@ know?". The entire discussion can be found
 
 But let me highlight a few excerpts of handy material:
 
-    Just type =rand() anywhere in your [Microsoft Word document] to auto create a
-    block of text. For more text, pass it a numeric parameter like rand(2). 200
-    appears to be the max value.
+> Just type =rand() anywhere in your [Microsoft Word document] to auto create a
+> block of text. For more text, pass it a numeric parameter like rand(2). 200
+> appears to be the max value.
 
 Or, how about when all the capitalization is wrong in your word document?
 
-    Fix capitalization in Word: 
-    Highlight the text, and press Shift+F3 until desired result. It allows you to
-    select from All Caps, No Caps, Proper Case and Title Case. Much better then
-    erasing the sentence and re-writing it.
+> Fix capitalization in Word: 
+> Highlight the text, and press Shift+F3 until desired result. It allows you to
+> select from All Caps, No Caps, Proper Case and Title Case. Much better then
+> erasing the sentence and re-writing it.
 
 Or for our web developers out there:
 
-    In Firefox, if you are working on a page and just care about the HTML source of
-    that file, simply open the source once, and then refresh the source only
-    (similar to a web page: with CTRL+R), instead of reloading the whole web page and
-    then view source again.
+> In Firefox, if you are working on a page and just care about the HTML source of
+> that file, simply open the source once, and then refresh the source only
+> (similar to a web page: with CTRL+R), instead of reloading the whole web page and
+> then view source again.
 
 And for our Windows developers:
 
-    When you have a message box (a.k.a alert box) hitting CTRL-C will copy the
-    text of the message box to the clipboard.
+> When you have a message box (a.k.a alert box) hitting CTRL-C will copy the
+> text of the message box to the clipboard.
 
 And I was always doing CTRL-ALT-DEL, T to get to the task manager, but this
 tip is even faster:
 
-    Ctrl+Shift+Esc opens up the task manager.
+> Ctrl+Shift+Esc opens up the task manager.
 
 I have something similar like the tip below. For example I can type "ci 12556"
 and it will show check in 12556 in Trac. Or I can type "bug 432" and it will
 show me bug 432 in my bug tracking system. However, I constructed that always
 by hand, here is an easier way to do it:
 
-    In Firefox,
-    -Go to the main page for this group.
-    -In the search box, right click and choose "Add a keyword for this Search..."
-    -Name it "Joel" (or whatever you want)
-    -Keyword = "jos" (or whatever you want)
-    -OK
+> In Firefox,
+> go to the main page for this group.
+> In the search box, right click and choose "Add a keyword for this Search..."
+> Name it "Joel" (or whatever you want).
+> Keyword = "jos" (or whatever you want).
+> Press OK.
 
 Now in the address bar, type "jos hungarian" and it will show you all results
 for Hungarian in these groups.

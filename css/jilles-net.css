@@ -20,16 +20,27 @@ h3 { margin-bottom: 5px; font-size: 1.2em;}
 .content > ul, .post > ul { margin: 0 0 15px 20px; }
 ul > h3 { margin: 15px 0 0 0; }
 
-blockquote { margin: 1em 2em; padding-top: 10px; padding-left: 20px; border-left: 1px #000; font-family: 'Courier New','Courier'; font-size: 0.875em;
-color: #000;
-background-color:rgba(0,0,0,0.15);
-}
-hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
-body{ background-image: url('{{site.baseurl}}/photos/styling/bright_squares.png'); background-repeat: repeat; } 
+blockquote, code {font: 0.875em 'Bitstream Vera Sans Mono','Courier',monospace;
+    border: 1px solid #CECECE;
+    background-color: #F8F8F8;}
+
+blockquote { margin: 1em 2em;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-left: 1px #000;
+    color: #000;
+    background-color:rgba(0,0,0,0.15);}
+
+hr{margin:12px 0 12px 0;
+    color:#DDD;
+    background:#DDD;
+    height:1px;
+    border:none;}
+
+body{ background-image: url('{{site.baseurl}}/photos/styling/bright_squares.png');
+     background-repeat: repeat;} 
+
 a {color: #000;}
-
-
-
 {% comment %} BOXES {% endcomment %}
 .grid {}
 .content{}

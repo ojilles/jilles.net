@@ -13,8 +13,8 @@ network, and I have plenty of those. I keep getting invites from others that do
 use it, people commenting on pictures that I upload on Flickr (comments that
 are posted on Plaxo), etc.
 
-    You no longer have any information on Plaxo's servers and you have been
-    permanently signed out of Plaxo Online.
+> You no longer have any information on Plaxo's servers and you have been
+> permanently signed out of Plaxo Online.
 
 If you like to connect me, look <a
 href="{{site.baseurl}}/contact.html">at this page to see
