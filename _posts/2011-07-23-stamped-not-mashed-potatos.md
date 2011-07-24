@@ -69,17 +69,17 @@ See all those brown bits?! Those are the best! Buon appetit!
 
 
 
-[ph1]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos01.png
-[ph2]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos02.png
-[ph3]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos03.png
-[ph4]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos04.png
-[ph5]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos05.png
-[ph6]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos06.png
-[ph7]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos07.png
-[ph8]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos08.png
-[ph9]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos09.png
-[ph10]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos10.png
-[ph11]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos11.png
-[ph12]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos12.png
-[ph13]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos13.png
+[ph1]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos01.jpg
+[ph2]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos02.jpg
+[ph3]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos03.jpg
+[ph4]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos04.jpg
+[ph5]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos05.jpg
+[ph6]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos06.jpg
+[ph7]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos07.jpg
+[ph8]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos08.jpg
+[ph9]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos09.jpg
+[ph10]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos10.jpg
+[ph11]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos11.jpg
+[ph12]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos12.jpg
+[ph13]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos13.jpg
 
