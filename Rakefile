@@ -6,14 +6,10 @@ $local_url = "http://localhost/jilles.net"
 $production_url = "http://www.jilles.net"
 
 desc 'Development: Rebuild the site'
-task :dev => [:dev_config, :build, :tidy_html, :test_broken_links]
-
-desc 'Production: build only, don\'t upload'
-task :prod_build => [:prod_config, :build]
-#task :prod_build => [:publish_only, :ping_sitemap, :pingomatic, :push]
+task :dev => [:dev_config, :js_compile, :build, :tidy_html, :test_broken_links]
 
 desc 'Production: push to github, build and upload'
-task :prod => [:push, :prod_config, :build, :tidy_html, :send, :dev_config]
+task :prod => [:push, :prod_config, :js_compile, :build, :tidy_html, :send, :dev_config]
 # finished off in dev_config to ensure prod config doesn't get checked into git
 # also, :push needs to be first, otherwise :prod_config changes config files
 # which in turn will make the build fail for not having everything checked in
@@ -117,6 +113,11 @@ task :tidy_html do
     sh "find ./_site/perma -type f \\( -name '*.xml' -o -name '*.html' \\)    -exec sh -c '(echo {}; tidy -quiet --indent yes -modify -tidy-mark no -wrap 80 {}) &>.tidy_log_tmp; cat .tidy_log_tmp >> .tidy_log' \\;"
     sh "find ./_site -depth 1 -type f \\( -name '*.html' \\)                  -exec sh -c '(echo {}; tidy -quiet --indent yes -modify -tidy-mark no -wrap 80 {}) &>.tidy_log_tmp; cat .tidy_log_tmp >> .tidy_log' \\;"
     sh "rm .tidy_log_tmp"
+end
+
+desc 'Closure compile the javascript'
+task :js_compile do
+    sh "java -jar _bin/closure.jar  --js=js/_titleblock.jquery.js  --js_output_file js/jilles_net.js"
 end
 
 ## Helpers
