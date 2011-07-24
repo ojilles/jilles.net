@@ -2,10 +2,15 @@
 layout: default
 title: Welcome to Jilles' weblog
 ---
-    <div id="index-posts">
+    <div id="indexposts">
                 <p>Thank you for visiting <a href="{{site.baseurl}}/about.html">my corner of the internet</a>. Feel free to peruse the articles below:</p>
-                <ul>{% for post in site.posts %}{% unless post.next %}
-                  <h3>{{ post.date | date: '%Y' }}</h3>{% else %}{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}{% if year != nyear %}  
-                  <h3>{{ post.date | date: '%Y' }}</h3>{% endif %}
-                    {% endunless %}<li><span class="fancy">{{ post.date | date:"%B" }}</span> <a href="{{ site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
-                </ul>
+                {% for post in site.posts %}{% unless post.next %}
+                  <h3>{{ post.date | date: '%Y' }}</h3>
+                  <ul>
+                     {% else %}{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}{% if year != nyear %}  
+                  </ul>
+                  <h3>{{ post.date | date: '%Y' }}</h3>
+                  <ul>{% endif %}
+                     {% endunless %}<li><span class="fancy">{{ post.date | date:"%B" }}</span> <a href="{{ site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+                  </ul>
+    </div><!--/indexposts-->

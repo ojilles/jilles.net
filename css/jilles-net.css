@@ -18,11 +18,11 @@ ul, ol, p, blockquote {margin: 0 0 0 0;padding: 0;}
 h1 { }
 h2 { margin-bottom: 15px; font-size: 2em;}
 h3 { margin-bottom: 5px; font-size: 1.2em;}
+#indexposts h3 { margin-bottom: 0px; margin-top: 15px;}
 .content p { margin: 0 0 15px 0;  }
 .content ul, .content ol { margin: 0 0 0 20px; }
 .content > ul, .post > ul { margin: 0 0 15px 20px; }
 ul > h3 { margin: 15px 0 0 0; }
-
 
 blockquote { margin: 1em 2em; padding-left: 20px; border-left: 2px dashed #999; font-family: 'Courier New','Courier'; font-size: 0.8em;}
 hr{margin:12px 0 12px 0;color:#DDD;background:#DDD;height:1px;border:none;}
