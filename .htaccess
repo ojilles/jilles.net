@@ -1,5 +1,3 @@
-# -FrontPage-
-
 IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
 
 <Limit GET POST>
@@ -12,17 +10,7 @@ order deny,allow
 deny from all
 </Limit>
 
-# BEGIN WordPress
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
-
-# END WordPress
-
+ErrorDocument 404 /404.html
 
 
 
