@@ -57,6 +57,13 @@ For development purposes, one could add something similar to the apache config:
            Allow from all
     </Directory>    
 
+In addition, I have a few drafted posts. If you want to build those, you'll need an as of yet unreleased feature of Jekyll.
+
+1 - Check if my changes have been merged in (in which case an up to date version of Jekyll should do it)
+    https://github.com/mojombo/jekyll/pull/374
+2 - Otherwise download and install this gem: http://www.jilles.net/gems/jekyll-0.11.1.gem
+
+
 Todo's
 ------
 Mainly a list of blogposts I still need to adapt, that I skipped the first pass
