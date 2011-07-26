@@ -53,17 +53,19 @@ example, a lot of times I will automate data gathering with bash scripting or
 look up how our users are using our sites by writing a
 [Pig](http://pig.apache.org) script and run it against our
 [Hadoop](http://hadoop.apache.org) cluster(s). This turns into the fun
-combination of me always having a iTerm2 console open, even though I do not
-program for a living anymore.
+combination of me always having a
+[iTerm2](http://www.iterm2.com/#/section/home) console open, even though I do
+not program for a living anymore.
 
 Personally I use Gmail for mail, but mostly try to stay away from the web client
 (not sure why, but I guess it is due to the latency difference with simple
 Mail.app client). As mentioned, I use Skype a lot for international video calls. 
 
-My browser of choice these days is Chrome, as it is fast and syncs nicely across
-all my machines which is great. For a list of places on the web [where you can
-find me, look here]({{site.baseurl}}/about.html). Daily (non-business) sites I
-frequent are Google Reader and HackerNews. Once in a while Google+, Facebook.
+My browser of choice these days is Chrome, as it is fast and syncs nicely
+across all my machines which is great. For a list of places on the web [where
+you can find me, look here]({{site.baseurl}}/about.html). Daily (non-business)
+sites I frequent are Google Reader and
+[HackerNews](http://news.ycombinator.com/). Once in a while Google+, Facebook.
 Interestingly for me Twitter has become iPhone only: I check it daily but find
 the UEX on the iPhone just better than their main site.
 
@@ -83,11 +85,11 @@ programming chops a little bit up to date Github really offers me a nice place
 to put my small projects and at the same time a way to contribute in small
 measures to the various open source projects out there.
 
-For media consumption I use Plex on the Mac mini, which is absolutely great.
-Comes with a whole bunch of plugins to stream content like The Daily Show and
-I have build up a nice library of ripped DVDs. The Mac mini is hooked up to a
-large (European standard) television, but it will also stream the content to the
-iPad or iPhone in a pinch if needed.
+For media consumption I use [Plex](http://www.plexapp.com/) on the Mac mini,
+which is absolutely great.  Comes with a whole bunch of plugins to stream
+content like The Daily Show and I have build up a nice library of ripped DVDs.
+The Mac mini is hooked up to a large (European standard) television, but it
+will also stream the content to the iPad or iPhone in a pinch if needed.
 
 For my weblog (that you are reading now) I had great fun geeking out with
 [Jekyll](https://github.com/mojombo/jekyll), creating a fully automated
@@ -128,11 +130,13 @@ and backup religiously:
 * Local backups go onto the TimeCapsule, easily accessible from my Mac
 * A subset of the data gets stored onto Dropbox, but only those files that don't
   require the highest privacy
-* Then there is Crashplan that is my primary off site backup
-* Lastly, I also backup the same data using Arc onto Amazon S3. I'm sure
+* Then there is [Crashplan](http://www.crashplan.com/) that is my primary off site backup
+* Lastly, I also backup the same data using
+  [Arc](http://www.haystacksoftware.com/arq/) onto Amazon S3. I'm sure
   Crashplan does the same but at these cost levels I don't care and I insulate
   myself also from Crashplan suddenly disappearing. (Arc is just software, and
-  I'm betting Amazon AWS is going to be around for another 10 years).
+  I'm betting Amazon AWS is going to be around for another 10 years). Hats off to
+  Arq for doing [a lof of testing](
 
 Perhaps it is a bit overdone, but I am now reasonably certain I can get to the
 binary/text files in the future. A bigger concern now becomes document
