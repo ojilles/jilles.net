@@ -40,7 +40,7 @@ with the notable exception of 'apt-get' package management.
   Jury is still out.
 * For work: I have been working for [eBay](http://www.ebay.com) for the last 8
   years or so and always been using the standard windows machines provided. But
-  6 months ago I finally switched that to a PowerBook. I have notably more
+  6 months ago I finally switched that to a MacBook Pro. I have notably more
   issues with that transition than any other transition to Apple products
   (Microsoft Outlook on Mac is seriously unproductive for example) but I'm
   managing just fine
