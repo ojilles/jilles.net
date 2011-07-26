@@ -1,7 +1,9 @@
-personal_ws-1.1 en 106 
+personal_ws-1.1 en 127 
 beamer
 SCM
 baseurl
+TimeCapsule
+DSLR
 Travbuddy
 Shelfari
 SERP
@@ -14,14 +16,22 @@ Kellerbar
 Gerlosplatte
 synch
 NcFTP
+iPhoto
 Stackoverflow
+iMac
+SaaS
 facebook
+OCRd
 perma
+Crashplan
+HackerNews
 Hackernews
 SVN's
 blogosphere
+DVDs
 scalable
 Tripit
+AWS
 quo
 permalink
 Vogels
@@ -32,6 +42,7 @@ Wroblewski
 DKK
 Zealand
 Wordpress
+WordPerfect
 Westendorf
 versioning
 spinned
@@ -48,6 +59,7 @@ memcached
 Dutchies
 Isskogel
 Vimeo
+geeking
 CVS
 Flickr
 Jilles
@@ -59,6 +71,7 @@ unstage
 Kaprun
 Getsatisfaction
 Maiskogel
+cronjob
 Esc
 wintersport
 GFS
@@ -66,6 +79,7 @@ memcache
 BitKeeper
 Fugen
 PDF
+wget
 Aarhus
 beamers
 Hyves
@@ -76,19 +90,23 @@ Gampenkogel
 Konigsleitespitze
 AdSense
 MySQL
+PDFs
 capita
 LiveJournal
 GoF
 TomTom
 weblog
+iTerm
 Herjen
 Outliers
 Dutchie
 html
+Plex
 PHP
 Alpes
 Pinboard
 Konigsleiten
+PowerBook
 NonCommercial
 Hoch
 GPS
@@ -96,12 +114,15 @@ netherlands
 PHPFreakz
 wifi
 VSS
+Dropbox
 Github
 PFCongrez
 Verbier
 NoDerivs
 Mesnerwirt
 Disqus
+MacBook
 Reddit
 Mogile
 pre
+Gmail
