@@ -97,10 +97,11 @@ module Jekyll
         end
       }
       
-      # Next, find all the posts.
+      # Next, find all the posts. Posts on jilles.net don't have a trailing /, but
+      # google needs those, otherwise it'll think there's a lot of redirection going on
       posts = site.site_payload['site']['posts']
       for post in posts do
-        result += entry("/"+post.url, post.date, site)
+        result += entry("/"+post.url+"/", post.date, site)
       end
       
         result
