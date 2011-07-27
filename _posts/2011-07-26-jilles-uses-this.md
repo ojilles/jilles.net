@@ -136,7 +136,7 @@ and backup religiously:
   Crashplan does the same but at these cost levels I don't care and I insulate
   myself also from Crashplan suddenly disappearing. (Arc is just software, and
   I'm betting Amazon AWS is going to be around for another 10 years). Hats off to
-  Arq for doing [a lof of testing](
+  Arq for doing [a lof of testing](http://www.n8gray.org/code/backup-bouncer/).
 
 Perhaps it is a bit overdone, but I am now reasonably certain I can get to the
 binary/text files in the future. A bigger concern now becomes document
