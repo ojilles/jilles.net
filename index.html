@@ -3,7 +3,12 @@ layout: default
 title: Welcome to Jilles' weblog
 ---
     <div id="indexposts">
-                <p>Thank you for visiting <a href="{{site.baseurl}}/about.html">my corner of the internet</a>. Feel free to peruse the articles below:</p>
+                <p>Thank you for visiting <a href="{{site.baseurl}}/about.html">my corner of the internet</a>.  Most of the writings on this blog are about 
+                <a href="{{site.baseurl}}/categories/Technology">Technology</a>,
+                <a href="{{site.baseurl}}/categories/Business">Business</a>,
+                <a href="{{site.baseurl}}/categories/Reading">Reading</a> or
+                <a href="{{site.baseurl}}/categories/Cooking">Cooking</a> (<a href="{{site.baseurl}}/categories/">see all</a>). 
+                Feel free to peruse the articles below:Feel free to peruse the articles below:</p>
                 {% for post in site.posts %}{% unless post.next %}
                   <h3>{{ post.date | date: '%Y' }}</h3>
                   <ul>
