@@ -12,4 +12,6 @@ Draft outline:
 * House hunt 
 * Bureaucracy
 * Food
-* 
+* dressing up
+* "pronto"
+
