@@ -70,7 +70,7 @@ See all those brown bits?! Those are the best! Buon appetito!
 
 
 
-[H1]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos01.jpg
+[ph1]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos01.jpg
 [ph2]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos02.jpg
 [ph3]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos03.jpg
 [ph4]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos04.jpg
