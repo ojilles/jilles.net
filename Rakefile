@@ -53,7 +53,7 @@ task :post do
     EOS
   end
 
-  system ("vim #{file}")
+  system("vim #{file}")
 end
 
 
