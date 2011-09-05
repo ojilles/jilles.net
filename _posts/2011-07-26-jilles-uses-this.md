@@ -7,7 +7,7 @@ categories:
 ---
 
 Inspired by the articles over at [Usesthis.com](http://www.usesthis.com) I
-thought I would do my own write up in similar vain. 
+thought I would do my own write up in similar vain.
 
 ### Hardware
 
