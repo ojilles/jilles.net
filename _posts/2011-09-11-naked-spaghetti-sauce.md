@@ -8,25 +8,30 @@ categories:
 ---
 
 ### About the recipe
-September 11, 2011: the day I made this recipe for the first time. I
-remember it distinctly: not always do recipes you try out for the first
-time work well. However, this time it blew me away. People that know me
-know that I don't like tomatoes but for some reason I had gotten it into
-my head to try this recipe. But it came out so delicious!
+[September 11, 2011](http://twitter.com/#!/ojilles/status/112888263747969024): 
+the day I made this recipe for the first time. I remember it distinctly:
+not always do recipes you try out for the first time work well. However,
+this time it blew me away. People that know me know that I don't like
+tomatoes but for some reason I had gotten it into my head to try this
+recipe. And it came out so delicious! And this recipe only has a few
+very basic ingredients most of which you will actually have in your
+kitchen as you read this very webpage!
 
+#### Source / Credits
 I read the recipe first on [Smitten
 Kitchen](http://smittenkitchen.com/2011/08/naked-tomato-sauce/) and was
 intrigued by the simplicity and availability of all ingredients. Deb
 Perelman apparently got it from someone who's working at
 [Scarpetta](http://www.scottconant.com/restaurants/scarpetta/new-york), in
 New York ([another
-write-up](http://newyork.seriouseats.com/2009/10/making-scarpetta-tomato-basil-spaghetti-scott-conant-scarpetta-meatpacking-district-nyce.html)). In any case, believe me when I say, you got to try this!
+write-up](http://newyork.seriouseats.com/2009/10/making-scarpetta-tomato-basil-spaghetti-scott-conant-scarpetta-meatpacking-district-nyce.html)).
+In any case, believe me when I say, you have got to try this!
+
 
 ### Ingredients
-
 These ingredients should serve 4 people.
 
-* 1.3kg plum tomatoes (3 pound)
+* 1.3 kg plum tomatoes (3 pound)
 * 3/4 teaspoon coarse salt
 * 1 clove garlic (slice thinly, or through garlic press)
 * Pinch of red pepper flakes, or some Cayenne powder
@@ -37,7 +42,13 @@ These ingredients should serve 4 people.
 
 ### Procedure
 
+#### 1. Get the tomatoes prepared
 
+#### 2. Infuse the oil
+
+#### 3. Boil the pasta
+
+#### 4. Finish up!
 
 [smk-tomato-sauce]: http://smittenkitchen.com/2011/08/naked-tomato-sauce/ "Smitten Kitchen"
 [scarpetta]: http://www.scottconant.com/restaurants/scarpetta/new-york "Scarpetta New York"
