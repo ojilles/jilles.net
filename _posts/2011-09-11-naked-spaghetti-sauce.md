@@ -27,6 +27,7 @@ New York ([another
 write-up](http://newyork.seriouseats.com/2009/10/making-scarpetta-tomato-basil-spaghetti-scott-conant-scarpetta-meatpacking-district-nyce.html)).
 In any case, believe me when I say, you have got to try this!
 
+Italian: Pelati (naked tomatoes)
 
 ### Ingredients
 These ingredients should serve 4 people.
