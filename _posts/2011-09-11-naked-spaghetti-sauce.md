@@ -17,6 +17,10 @@ recipe. And it came out so delicious! And this recipe only has a few
 very basic ingredients most of which you will actually have in your
 kitchen as you read this very webpage!
 
+[Roberto Tucci](http://www.linkedin.com/in/robertotucci) said this about
+the recipe: _"It looks absolutely perfect! Could have come from a real
+restaurant!"_. If a real Italian says that, you can not go wrong.
+
 #### Source / Credits
 I read the recipe first on [Smitten
 Kitchen](http://smittenkitchen.com/2011/08/naked-tomato-sauce/) and was
