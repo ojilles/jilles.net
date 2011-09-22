@@ -23,6 +23,10 @@ end result). So likewise, I have cooked this dish twice, practically
 just to make the pictures. I've included plenty of them in this page, but
 the full set is available on [Flickr here](http://!!!!!!!!!!).
 
+[Roberto Tucci](http://www.linkedin.com/in/robertotucci) said this about
+the recipe: _"It looks absolutely perfect! Could have come from a real
+restaurant!"_. If a real Italian says that, you can not go wrong.
+
 #### Source / Credits
 I read the recipe first on [Smitten
 Kitchen](http://smittenkitchen.com/2011/08/naked-tomato-sauce/) and was
