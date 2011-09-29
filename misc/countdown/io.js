@@ -770,7 +770,7 @@ var digitColors = ['265897', '265897', '265897', '',
   /**
     * Get the date we're counting down to.
     */
-  var countdownTo = new Date(2011, 9, 5, 15, 45, 0).getTime();
+  var countdownTo = new Date(2011, 9, 5, 15, 0, 0).getTime();
 
   /**
     * Buckets for the Digits.
@@ -803,7 +803,7 @@ var digitColors = ['265897', '265897', '265897', '',
     */
   io.listen('resize', window, function() {
       createGround(world, (window.innerHeight ||
-                            document.documentElement.clientHeight) - 355);
+                            document.documentElement.clientHeight) - 1);
       countdownBounds = getPos(ctx);
   });
 
