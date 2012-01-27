@@ -3,3 +3,4 @@ _site/*
 .tidy_log
 jilles_net.js
 *.bak
+.DS_Store
