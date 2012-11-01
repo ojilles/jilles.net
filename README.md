@@ -31,6 +31,11 @@ NcFTP (See: http://www.ncftp.com/ncftp/doc/ncftpput.html) :
 
     sudo port install NcFTP
 
+Then also create ~/.ncftp/bookmarks with the following content:
+    host ftp.jilles.net
+    user USERNAME
+    pass PASSWORD
+
 In addition ruby-gsl. Installation instructions here:
 http://blog.patrickcrosby.com/2010/03/06/ruby-jekyll-lsi-classifier-fixes.html.
 Actually, with the newer versions something got fixes somewhere, and the manual

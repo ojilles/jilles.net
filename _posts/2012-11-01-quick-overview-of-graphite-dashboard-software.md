@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick overview of Graphite Dashboard software
-published: false
+published: true
 image_titles: false
 categories:
 - Technology
