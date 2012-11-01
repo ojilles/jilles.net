@@ -20,8 +20,7 @@ kitchen as you read this very webpage!
 I love seeing pictures with my recipies, it gives me a nice visual
 confirmation of the recipe (how to prepare, but also if I would like the
 end result). So likewise, I have cooked this dish twice, practically
-just to make the pictures. I've included plenty of them in this page, but
-the full set is available on [Flickr here](http://!!!!!!!!!!).
+just to make the pictures. 
 
 [Roberto Tucci](http://www.linkedin.com/in/robertotucci) said this about
 the recipe: _"It looks absolutely perfect! Could have come from a real
@@ -79,7 +78,14 @@ something you can experiment with.
 
 #### 2. Infuse the oil
 
+Once the previous step is underway you can do some more prep work: take the garlic, some of the basil and the pepper put them in a small
+pan with the oil. Put them on the lowest fire you can possibly manage to
+ensure the oil gets infused with all the different tastes. Once done,
+filter the infused oil for use later.
+
 #### 3. Boil the pasta
+
+
 
 #### 4. Finish up!
 
