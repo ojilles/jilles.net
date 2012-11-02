@@ -40,4 +40,7 @@ them somewhere for others' benefit or my future reference.
 
 There are more tools [listed
 here](http://graphite.readthedocs.org/en/1.0/tools.html) but they were either
-uninteresting or long dead (e.g. no commits in the last 2 years).
+uninteresting or long dead (e.g. no commits in the last 2 years). With
+the exception of
+[Descartes](http://obfuscurity.com/2012/07/Introducing-Descartes) which
+is new and still under development.
