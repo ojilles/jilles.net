@@ -3,7 +3,6 @@
 [Jilles.net]: http://www.jilles.net "Jilles' weblog"
 [Facebook]: http://www.facebook.com/profile.php?id=1496720291&#038;ref=name
 [LinkedIN]: http://www.linkedin.com/in/ojilles
-[Hyves]: http://joldenbeuving.hyves.nl/ "Hyves, the popular social network in The Netherlands"
 [Flickr]: http://flickr.com/photos/jilles/
 [Delicious]: http://del.icio.us/network/ojilles
 [Google reader]: http://www.google.com/reader/shared/09104278892899310131
@@ -18,3 +17,4 @@
 [Hackernews]: http://news.ycombinator.com/user?id=ojilles
 [Pinboard]: http://pinboard.in/u:ojilles
 [Vimeo]: http://vimeo.com/user1284929/videos
+[Newsblur]: http://ojilles.newsblur.com

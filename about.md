@@ -23,7 +23,6 @@ This is my weblog and my little corner on the internet. I have build many big si
  * [Google+]
  * [Twitter]
  * [LinkedIN]
- * [Hyves]
 
 
 ### My stuff on the internet
@@ -31,7 +30,7 @@ This is my weblog and my little corner on the internet. I have build many big si
  * [Pinboard]
  * [Delicious]
     (old, switched to [Pinboard])
- * [Google reader]
+ * [Google reader] (old, switched to [Newsblur], not much shared though)
  * [Shelfari]
  * [Vimeo]
  * [Youtube]
