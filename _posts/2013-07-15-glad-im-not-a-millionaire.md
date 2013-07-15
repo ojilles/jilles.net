@@ -1,11 +1,17 @@
 ---
-published: false
+published: true
 layout: post
 title: Glad I'm not a millionaire (or, innovation in the airline industry)
-permalink: perma/2011/07/20/innovation-in-the-airline-industry
+permalink: perma/2013/07/15/innovation-in-the-airline-industry
 categories:
 - Business
 ---
+
+> 07/15/2013: Please be aware that this is an old draft article I had sitting in my
+> system which is basically a joke dressed up as semi-serious business ideas.
+> Do NOT try this at home.
+>
+> Originally written July 20th, 2011
 
 Every time I am flying on a plane, which happens quite a bit, I get these crazy
 idea's for how to innovate in the airspace. Some colleagues who have had to
@@ -15,7 +21,6 @@ thought I would write them up.
 
 Most of these idea's are probably not going to be successful, I will admit.
 Which is why I am very happy I am not a millionaire who could try to find out.
-
 
 ### (Non-) baby flights
 
