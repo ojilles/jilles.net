@@ -60,8 +60,8 @@ a {color: #000;}
  }
 
 {% comment %} TYPOGRAPHY {% endcomment %}
-.banner h1, h1, h2, h3, h4 {font-family: 'Amaranth', 'Ariel'}
-.content, .grid {font-family: 'Quattrocento', 'Georgia',  serif; color: #444;}
+.banner h1, h1, h2, h3, h4 {font-family: 'Libre Baskerville', 'Ariel'; font-weight: 900;}
+.content, .grid {font-family: 'Lato', 'Georgia',  serif; color: #444;}
 
 {% comment %} CONTENT {% endcomment %}
 .post-meta {margin: 10px 0;padding: 0 0 0 20px;}
