@@ -57,13 +57,13 @@ temperatures (there are a series of reactions, but they only *start* at
 can not get any hotter than 100°C until that water is evaporated.  Not good.
 
 For this reason you need to think about salting your steak. You see (and you
-should try this at home!). If you salt meat, the salt will pull out moisture
+should try this at home!) if you salt meat, the salt will pull out moisture
 out of steak, which is not where you want it to be (hint: you want it *in
 the steak*). This process only takes ~5 minutes. Once this has happened you
 will see water on top of your steak. Or rather, it is a
 [brine](http://en.wikipedia.org/wiki/Brine). If you wait longer,
 approximately 40 minutes, the difference in saline levels pulls the brine
-back into the steak. See this picture (courtesey of [Kenji
+back into the steak. See this picture (courtesy of [Kenji
 Alt](http://www.seriouseats.com/2011/03/the-food-lab-more-tips-for-perfect-steaks.html))
 for a visual (time passes from left to right):
 
@@ -86,9 +86,31 @@ Now that the frying has started, turn the stake every 20-30 seconds. You
 want to apply energy or heat as evenly on both sides as possible. Flipping
 the steak is the easiest way to accomplish this.
 
-Now for 
+Now for million dollar question: for how long do you continue frying the
+steak? In essence, it is not actually about *"how long?"*, but *"till what
+internal temperature?"*. For a rare steak this means the middle of the steak
+should reach 51.6°C, and not much higher or you'll end up with medium-rare
+which is only 3 degrees (!) away at 54.4°C. For other temperatures, please
+see this [overview][temp]. By the way, keep in mind that on a properly handled steak
+bacteria are only on the outside of the meat (not on the inside) which makes
+a rare steak possible as all bacteria get fried during the searing.
 
+There are two ways to accomplish this temperature goal. The first,
+non-recommended way is to resolve this equation (courtesy of Harvard):
 
-http://www.foodnetwork.com/recipes-and-cooking/meat-and-poultry-temperature-guide/index.html
+![Picture of correct but way to complicated equation][Eq]
+
+Too many variables to be sure, but we can take away a few intuitive things
+such as L squared (size of the meat) is a huge factor, as is the difference
+of external and target temperature. (See first part of this
+[video](http://www.youtube.com/watch?v=HNqeSzH6qY8) if you see a challenge,
+rather than a problem.)
+
+The second, recommended way is to actually have a thermometer. You won't be
+able to *predict* ahead of time when your meat is done, but you know once
+you get there&mdash;perfect for most non-labratory uses! I have a [ThermaPen](http://www.thermoworks.com/products/thermapen/) which comes highly recommended.
+
+[temp]: http://www.foodnetwork.com/recipes-and-cooking/meat-and-poultry-temperature-guide/index.html
 [Steak]: {{site.baseurl}}/photos/x_steak.jpg
 [Salt]: {{site.baseurl}}/photos/x_salt.jpg
+[Eq]: {{site.baseurl}}/photos/x_equation.png
