@@ -18,7 +18,7 @@ For example, if we have the following "raw" data in graphite:
 ![Raw data][pic1]
 
 Basically, a bunch of counters across various different machines. Most likely,
-you will want to see this derrived and concequently summed or averaged out
+you will want to see this derived and consequently summed or averaged out
 (depending on what you are looking at of course). Quite often I then see
 graphs like this:
 
@@ -30,12 +30,12 @@ obscures the real data (get's pushed to the x-axis).
 
 Possible causes are:
  * Servers were not able to push data to graphite
- * Internal counters got looped b/c interger space
+ * Internal counters got looped b/c integer space
  * Internal counters got reset b/c service restart (or similar)
 
 What causes these spikes? Due to the fact that we first sum the different data
 sources, the data looks like this right before reaching the
-nonNegativeDerivative() funciton:
+nonNegativeDerivative() function:
 
 ![Summed data][pic3]
 
