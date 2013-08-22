@@ -8,7 +8,7 @@ categories:
 ---
 
 Something that I see going wrong quite often with the use of Graphite is the
-order in which derivatives work in graphite.
+order in which derivatives work in graphite. ([Function reference for nonNegativeDerivative](http://graphite.readthedocs.org/en/0.9.12/functions.html#graphite.render.functions.nonNegativeDerivative))
 
 > TL;DR: If you use `nonNegativeDerivative()` or `derivative()` put it as close
 > as possible around the data source and you will be fine.
