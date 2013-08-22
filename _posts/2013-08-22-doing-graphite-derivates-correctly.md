@@ -52,7 +52,7 @@ The resulting graphs will be much more informative (without obscuring the fact
 that the data collections were interrupted) and the derivations will work
 properly.
 
-![Proper chart][pic3]
+![Proper chart][pic4]
 
 [pic1]: {{site.baseurl}}/photos/graphite/pic1-raw-data.png
 [pic2]: {{site.baseurl}}/photos/graphite/pic2-nnderivative.png
