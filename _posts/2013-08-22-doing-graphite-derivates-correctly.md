@@ -10,7 +10,7 @@ categories:
 Something that I see going wrong quite often with the use of Graphite is the
 order in which derivatives work in graphite.
 
-> TL;DR: If you use nonNegativeDerivative() or derivative() put it as close
+> TL;DR: If you use `nonNegativeDerivative()` or `derivative()` put it as close
 > as possible around the data source and you will be fine.
 
 For example, if we have the following "raw" data in graphite:
@@ -35,12 +35,12 @@ Possible causes are:
 
 What causes these spikes? Due to the fact that we first sum the different data
 sources, the data looks like this right before reaching the
-nonNegativeDerivative() function:
+`nonNegativeDerivative()` function:
 
 ![Summed data][pic3]
 
 And indeed a proper derivation of this data would give you these spikes. The
-solution to this is to put the nonNegativeDerivative closest to the data
+solution to this is to put the `nonNegativeDerivative` closest to the data
 source. (NB: You would not necessarily see these spikes if you are only
 looking at one data source, but then... why are you using Graphite?)
 
