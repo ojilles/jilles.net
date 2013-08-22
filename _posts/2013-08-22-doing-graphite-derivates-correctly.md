@@ -29,9 +29,9 @@ disturbed and you see these spikes (in my example twice) which completely
 obscures the real data (get's pushed to the x-axis).
 
 Possible causes are:
- * Servers were not able to push data to graphite
- * Internal counters got looped b/c integer space
- * Internal counters got reset b/c service restart (or similar)
+* Servers were not able to push data to graphite
+* Internal counters got looped b/c integer space
+* Internal counters got reset b/c service restart (or similar)
 
 What causes these spikes? Due to the fact that we first sum the different data
 sources, the data looks like this right before reaching the
