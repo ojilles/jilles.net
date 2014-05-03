@@ -3,9 +3,10 @@ layout: post
 title: Cooking a steak
 published: false
 image_titles: false
-categories:
-- Cooking
+categories: 
+  - Cooking
 ---
+
 Cooking a steak should be something every man (and women) should be able to
 do. Yet so many people are screwing it up. Badly. Very badly. And it's
 unnecessary. After explaining various different concepts to various
@@ -108,7 +109,7 @@ rather than a problem.)
 
 The second, recommended way is to actually have a thermometer. You won't be
 able to *predict* ahead of time when your meat is done, but you know once
-you get there&mdash;perfect for most non-labratory uses! I have a [ThermaPen](http://www.thermoworks.com/products/thermapen/) which comes highly recommended.
+you get there&mdash;perfect for most non-labratory uses! I have a [ThermaPen](http://www.thermoworks.com/products/thermapen/) which comes highly recommended; it is durable and super fast to read out.
 
 [temp]: http://www.foodnetwork.com/recipes-and-cooking/meat-and-poultry-temperature-guide/index.html
 [Steak]: {{site.baseurl}}/photos/x_steak.jpg
