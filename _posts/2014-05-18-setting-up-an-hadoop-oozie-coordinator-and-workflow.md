@@ -42,3 +42,39 @@ Once the Pig script has gone through it (and provided it found matches), the out
     <unix time stamp> { "url":"http://www.example.com", "ip":"127.0.0.1", etc }
 
 I'm using the following pig script for this:
+
+
+
+
+
+
+
+
+
+## Reference material
+The following articles/links helped me stiching the above together, they may provide you with additional leads as well:
+
+- This [old documentation page](https://github.com/yahoo/oozie/wiki/Oozie-Coord-Use-Cases) from Yahoo (creators of Oozie) was unproportionally informative due to its practical content.
+- [Using Oozie to process daily logs](http://ehukai.com/2011/06/14/using-oozie-to-process-daily-logs/) is roughly an equivalent blog post to this.
+- ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
