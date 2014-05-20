@@ -33,13 +33,24 @@ All source material can be found in the following TODO Github repository.
 ## Pig Action
 The imagined use case is that I would like to have all the incoming data scanned for a particular Regex such as a set of source IP addresses. If found reconstitute a timeline for that IP address then safe off the timestamps.
 
-The input for this process is a JSON accesslog from a relatively large application, and paraphrased, looks like this:
+The input for this process is a JSON accesslog from a relatively large application, and paraphrased, looks like this (two randomized entries):
 
-    TODO: Add input data
+    {"requestIp":"22.249.73.204","url":"http://www.example.com/zlkasdfj/url.extension.html",
+     "date":1366788978906,"userAgent":"Mozilla/5.0","requestTimeMillis":209,
+     "dispatchTime":209,"ssl":false,"responseCode":200,"responseSize":22443,"method":"GET",
+     "sessionId":"1f66d92b-66dd-727675d1bab7","loggedInUserId":"",
+     "uniqueRequestId":"9df01305-ae4b-6dee17b2069b"}
+
+    {"requestIp":"22.209.91.3","url":"http://www.example.com/moreurls.galore.html",
+     "date":1366788979022,"userAgent":"Mozilla/4.0","requestTimeMillis":96,"dispatchTime":96,
+     "ssl":false,"responseCode":200,"responseSize":17180,"referrer":
+     "http://www.example.com/previous.page.galore.html","method":"GET",
+     "sessionId":"b1e11781-3c2b-82b2-c761478e262a","loggedInUserId":"",
+     "uniqueRequestId":"12c7445a-5e-fa8-81d4-19222a421ba6","gaCookie__utmb":"161234094.18.14.1366"}
 
 Once the Pig script has gone through it (and provided it found matches), the output looks like this:
 
-    <unix time stamp> { "url":"http://www.example.com", "ip":"127.0.0.1", etc }
+     1366788979022,{"url":"http://www.example.com", "ip":"127.0.0.1", etc }
 
 I'm using the following pig script for this:
 
@@ -56,7 +67,7 @@ The following articles/links helped me stiching the above together, they may pro
 
 - This [old documentation page](https://github.com/yahoo/oozie/wiki/Oozie-Coord-Use-Cases) from Yahoo (creators of Oozie) was unproportionally informative due to its practical content.
 - [Using Oozie to process daily logs](http://ehukai.com/2011/06/14/using-oozie-to-process-daily-logs/) is roughly an equivalent blog post to this.
-- ...
+- [Using Oozie in a Kerberized Hadoop cluster](http://prodlife.wordpress.com/2013/11/22/using-oozie-in-kerberized-cluster/)
 
 
 
