@@ -2,9 +2,10 @@ lsi: false
 permalink: perma/:year/:month/:day/:title
 tag_dir: tag
 tag_title_prefix: "Tags &raquo; "
-baseurl:  http://localhost/jilles.net
+baseurl:  http://localhost:4000/jilles.net
 markdown: rdiscount
 exclude: [Rakefile, README.md]
+highlighter: rouge
 
 # Used by my site (e.g. non jekyll specfic stuff)
 prod_build: false

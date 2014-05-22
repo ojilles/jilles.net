@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Setting up an Hadoop Oozie Coordinator and Workflow
-published: false
 image_titles: false
 categories: 
   - Technology
@@ -35,18 +34,20 @@ The imagined use case is that I would like to have all the incoming data scanned
 
 The input for this process is a JSON accesslog from a relatively large application, and paraphrased, looks like this (two randomized entries):
 
-    {"requestIp":"22.249.73.204","url":"http://www.example.com/zlkasdfj/url.extension.html",
-     "date":1366788978906,"userAgent":"Mozilla/5.0","requestTimeMillis":209,
-     "dispatchTime":209,"ssl":false,"responseCode":200,"responseSize":22443,"method":"GET",
-     "sessionId":"1f66d92b-66dd-727675d1bab7","loggedInUserId":"",
-     "uniqueRequestId":"9df01305-ae4b-6dee17b2069b"}
+{% highlight json %}
+{"requestIp":"22.249.73.204","url":"http://www.example.com/zlkasdfj/url.extension.html",
+"date":1366788978906,"userAgent":"Mozilla/5.0","requestTimeMillis":209,
+"dispatchTime":209,"ssl":false,"responseCode":200,"responseSize":22443,"method":"GET",
+"sessionId":"1f66d92b-66dd-727675d1bab7","loggedInUserId":"",
+"uniqueRequestId":"9df01305-ae4b-6dee17b2069b"}
 
-    {"requestIp":"22.209.91.3","url":"http://www.example.com/moreurls.galore.html",
-     "date":1366788979022,"userAgent":"Mozilla/4.0","requestTimeMillis":96,"dispatchTime":96,
-     "ssl":false,"responseCode":200,"responseSize":17180,"referrer":
-     "http://www.example.com/previous.page.galore.html","method":"GET",
-     "sessionId":"b1e11781-3c2b-82b2-c761478e262a","loggedInUserId":"",
-     "uniqueRequestId":"12c7445a-5e-fa8-81d4-19222a421ba6","gaCookie__utmb":"161234094.18.14.1366"}
+{"requestIp":"22.209.91.3","url":"http://www.example.com/moreurls.galore.html",
+"date":1366788979022,"userAgent":"Mozilla/4.0","requestTimeMillis":96,"dispatchTime":96,
+"ssl":false,"responseCode":200,"responseSize":17180,"referrer":
+"http://www.example.com/previous.page.galore.html","method":"GET",
+"sessionId":"b1e11781-3c2b-82b2-c761478e262a","loggedInUserId":"",
+"uniqueRequestId":"12c7445a-5e-fa8-81d4-19222a421ba6","gaCookie__utmb":"161234094.18.14.1366"}
+{% endhighlight %}
 
 Once the Pig script has gone through it (and provided it found matches), the output looks like this:
 
