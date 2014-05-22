@@ -51,16 +51,20 @@ code changes are not necessary anymore.
     sudo ruby setup.rb install
     sudo gem install classifier
 
-For development purposes, one could add something similar to the apache config:
+For development purposes, one could add something similar to the apache config (remove default site):
 
-    # Alias for jilles.net
-    Alias /jilles.net "/Users/ojilles/jilles.net/_site"
-    <Directory "/Users/ojilles/jilles.net/_site">
-           Options Indexes FollowSymLinks MultiViews 
-           AllowOverride All
-           Order allow,deny
-           Allow from all
-    </Directory>    
+	<VirtualHost *:80>
+		DocumentRoot /vagrant/jilles.net/_site
+			# Alias for jilles.net
+			Alias /jilles.net "/vagrant/jilles.net/_site"
+			<Directory "/vagrant/jilles.net/_site">
+						 Options Indexes FollowSymLinks MultiViews 
+						 AllowOverride All
+						 Order allow,deny
+						 Allow from all
+			</Directory>    
+	</VirtualHost>
+
 
 In addition, I have a few drafted posts. If you want to build those, you'll need an as of yet unreleased feature of Jekyll.
 
