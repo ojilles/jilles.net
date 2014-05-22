@@ -21,7 +21,7 @@ module Jekyll
       old_read_yaml(base, name)
 
       # only alter markdown files
-      return unless converter.instance_of? MarkdownConverter
+      #return unless converter.instance_of? MarkdownConverter
 
       # read and cache content of _references.md
       if @@refs_content.nil?
