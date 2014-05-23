@@ -1,9 +1,0 @@
----
-layout: default
-title: Overview of all categories
----
-    <h2 class="category">{{ page.title }}</h2>
-
-                <ul>{% for cat in page.category_list | sort %}
-                    <li><a href="{{ site.baseurl}}/categories/{{ cat | urlencode }}">{{ cat }}</a></li>{% endfor %}
-                </ul>
