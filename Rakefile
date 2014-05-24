@@ -1,6 +1,9 @@
 require 'rake/clean'
 require 'date'
 
+### Add `sass assets/sass/i.sass > assess/css bla bla`
+# sass assets/sass/i.scss > assets/css/i.css
+
 # no trailing slashes here!
 $local_url = "http://localhost:4000/jilles.net"
 $production_url = "http://www.jilles.net"
@@ -42,10 +45,15 @@ task :post do
   File.open(file, "w") do |f|
     f << <<-EOS.gsub(/^    /, '')
     ---
-    layout: post
     title: #{title}
+    # vim: set ts=2 sw=2 tw=80 ft=markdown et si :
+    layout: post-no-feature
     published: false
+    comments: true
     image_titles: false
+    image:
+      feature: elephants.jpg
+      credits: https://www.flickr.com/photos/blieusong/7234335792/
     categories:
     #{categories}
     ---
@@ -61,7 +69,7 @@ desc 'Configure for development'
 task :dev_config do
   puts "* Configuring _config.yml for development... "
   edit_config('prod_build', 'false');
-  edit_config('baseurl', $local_url) 
+  edit_config('url', $local_url) 
   edit_config('lsi', 'false')
 end
 
@@ -69,7 +77,7 @@ desc 'Configure for production'
 task :prod_config do
   puts "* Configuring _config.yml for production... "
   edit_config('prod_build', 'true');
-  edit_config('baseurl', $production_url) 
+  edit_config('url', $production_url) 
   edit_config('lsi', 'true')
 end
 

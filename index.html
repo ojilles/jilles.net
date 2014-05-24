@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: home
 title: Welcome to Jilles' weblog
 ---
     <div id="indexposts">
-                <p>Thank you for visiting <a href="{{site.baseurl}}/about.html">my corner of the internet</a>.  Most of the writings on this blog are about 
-                <a href="{{site.baseurl}}/categories/Technology">Technology</a>,
-                <a href="{{site.baseurl}}/categories/Business">Business</a>,
-                <a href="{{site.baseurl}}/categories/Reading">Reading</a> or
-                <a href="{{site.baseurl}}/categories/Cooking">Cooking</a> (<a href="{{site.baseurl}}/categories/">see all</a>). 
+                <p>Thank you for visiting <a href="{{site.url}}/about.html">my corner of the internet</a>.  Most of the writings on this blog are about 
+                <a href="{{site.url}}/categories/Technology">Technology</a>,
+                <a href="{{site.url}}/categories/Business">Business</a>,
+                <a href="{{site.url}}/categories/Reading">Reading</a> or
+                <a href="{{site.url}}/categories/Cooking">Cooking</a> (<a href="{{site.url}}/categories/">see all</a>). 
                 Feel free to peruse the articles below:</p>
                 {% for post in site.posts %}{% unless post.next %}
                   <h3>{{ post.date | date: '%Y' }}</h3>
@@ -16,6 +16,6 @@ title: Welcome to Jilles' weblog
                   </ul>
                   <h3>{{ post.date | date: '%Y' }}</h3>
                   <ul>{% endif %}
-                     {% endunless %}<li><span class="fancy">{{ post.date | date:"%B" }}</span> <a href="{{ site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+                     {% endunless %}<li><span class="fancy">{{ post.date | date:"%B" }}</span> <a href="{{ site.url}}/{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
                   </ul>
     </div><!--/indexposts-->

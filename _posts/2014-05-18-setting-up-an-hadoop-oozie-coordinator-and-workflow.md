@@ -1,7 +1,10 @@
 ---
-layout: post
-title: Setting up an Hadoop Oozie Coordinator and Workflow
-image_titles: false
+layout: post-no-feature
+title: Setting up a Hadoop Oozie Coordinator and Workflow
+comments: true
+image:
+  feature: elephants.jpg
+  credits: https://www.flickr.com/photos/blieusong/7234335792/
 categories: 
   - Technology
 ---

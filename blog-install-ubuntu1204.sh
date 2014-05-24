@@ -11,3 +11,5 @@ sudo make install
 sudo gem install jekyll
 sudo gem install therubyracer
 sudo gem install rouge
+sudo gem install sass
+echo "set modeline" > ~/.vimrc
