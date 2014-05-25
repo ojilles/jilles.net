@@ -13,3 +13,5 @@ sudo gem install therubyracer
 sudo gem install rouge
 sudo gem install sass
 echo "set modeline" > ~/.vimrc
+sudo echo "NameVirtualHost *:4000
+Listen 4000" >> /etc/apache2/ports.conf

@@ -69,4 +69,4 @@ tag_dir:          tag
 tag_title_prefix: "Tags &raquo; "
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "Vagrantfile"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "Vagrantfile", "blog-install-ubuntu1204.sh", "tidy-config.txt"]

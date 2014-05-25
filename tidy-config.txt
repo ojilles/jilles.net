@@ -1,0 +1,14 @@
+// Configuration file for `tidy`
+// See: http://w3c.github.io/tidy-html5/
+
+indent: yes
+indent-spaces: 2
+wrap: 120
+tidy-mark: no
+show-warnings: no
+break-before-br: no
+write-back: yes
+
+new-blocklevel-tags:footer,article,nav,hgroup,header,section,lh,aside,figure,figcaption
+//new-inline-tags: cfif, cfelse, 
+//new-empty-tags: cfelse

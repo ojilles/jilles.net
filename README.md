@@ -45,7 +45,7 @@ This assumes you're running a ubuntu 12.04 image, newer most likely works as wel
 
 For development purposes, one could add something similar to the apache config (remove default site):
 
-	<VirtualHost *:80>
+	<VirtualHost *:4000>
 		DocumentRoot /vagrant/jilles.net/_site
 			# Alias for jilles.net
 			Alias /jilles.net "/vagrant/jilles.net/_site"
