@@ -52,7 +52,7 @@
 </head>
 <body class="">
   <div id="bump">
-    <header class="site-header">
+    <header class="site-header {% if page.image.uicolor == 'dark' or include.uicolor == 'dark' %}darken{% endif %}">
       <div class="wrap">
         <hgroup>
           <h1><a href="/">{{ site.title }}</a></h1>

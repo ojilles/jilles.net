@@ -46,8 +46,7 @@ task :post do
     # vim: set ts=2 sw=2 tw=80 ft=markdown et si :
     layout: post
     published: false
-    comments: true [false]
-    image_titles: false
+    disable_comments: false
     image:
       feature: elephants.jpg
       credits: https://www.flickr.com/photos/blieusong/7234335792/
