@@ -44,13 +44,14 @@ task :post do
     ---
     title: #{title}
     # vim: set ts=2 sw=2 tw=80 ft=markdown et si :
-    layout: post-no-feature
+    layout: post
     published: false
-    comments: true
+    comments: true [false]
     image_titles: false
     image:
       feature: elephants.jpg
       credits: https://www.flickr.com/photos/blieusong/7234335792/
+      uicolor: dark [light]
     categories:
     #{categories}
     ---

@@ -1,16 +1,22 @@
 {% comment %}
- vim: set ts=2 sw=2 tw=80 ft=html et si :
+ vim: set ts=2 sw=2 ft=html et si :
 {% endcomment %}
-{% include head.html %}
-
-<section class="article">
-
 {% if page.image.feature %}
-  <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
+  {% if page.image.uicolor == 'light' %}
+    {% include head.html %}
+  {% else %}
+    {% include head-dark.html %}
+  {% endif %}
+  <section class="article">
+    <div class="overlay"></div>
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})">
+    </div>
+    {% if page.image.credits %}<div class="attribution"><a href="{{ page.image.credits }}">Image attribution</a></div>{% endif %}
 {% else %}
-  <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url({{ site.url }}/images/typewriter.jpg)"></div>
+
+  {% include head-dark.html %}
+  <section class="article pad-top">
+
 {% endif %}
 
 
@@ -47,9 +53,7 @@
       </aside>
       {% endif %}
 
-
       </article>
-
     </section>
 </div>
 

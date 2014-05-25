@@ -1,10 +1,11 @@
 ---
-layout: post-no-feature
+layout: post
 title: Setting up a Hadoop Oozie Coordinator and Workflow
 comments: true
 image:
   feature: elephants.jpg
   credits: https://www.flickr.com/photos/blieusong/7234335792/
+  uicolor: light
 categories: 
   - Technology
 ---
