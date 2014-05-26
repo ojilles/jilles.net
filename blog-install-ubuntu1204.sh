@@ -43,7 +43,9 @@ rm /tmp/port /tmp/host
 sudo ln -s /etc/apache2/sites-available/jilles /etc/apache2/sites-enabled/010-jilles
 sudo apachectl restart
 
-cat <<EOFSSH > ~/.ssh/config
+mkdir -p /home/vagrant/.ssh
+chmod 700 /home/vagrant/.ssh
+cat <<EOFSSH > /home/vagrant/.ssh/config
 Host prod
         Hostname ssh.jilles.net
         User jilles.net
@@ -86,7 +88,7 @@ rake dev
 # copy it in for easy deployment
 if [ -f /vagrant/id_rsa ];
 then
-   cp /vagrant/id_rsa ~/.ssh/
+   cp /vagrant/id_rsa /home/vagrant/.ssh/
 else
    echo "No private key found for production environment. In your host system run: 'cp ~/.ssh/id_rsa .'"
 fi
