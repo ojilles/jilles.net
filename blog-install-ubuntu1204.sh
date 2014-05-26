@@ -46,6 +46,21 @@ sudo apachectl restart
 # setting time stuff correct
 sudo VBoxService --timesync-set-threshold 1000
 
+# setting motd
+cat << EOFMOTD > /tmp/motd
+   __  _ _ _                        _                  _     _             
+   \ \(_) | | ___  ___   _ __   ___| |_  __      _____| |__ | | ___   __ _ 
+    \ \ | | |/ _ \/ __| | '_ \ / _ \ __| \ \ /\ / / _ \ '_ \| |/ _ \ / _` |
+ /\_/ / | | |  __/\__ \_| | | |  __/ |_   \ V  V /  __/ |_) | | (_) | (_| |
+ \___/|_|_|_|\___||___(_)_| |_|\___|\__|   \_/\_/ \___|_.__/|_|\___/ \__, |
+                                                                     |___/ 
+    Production:   http://www.jilles.net
+    Development:  http://localhost:4000
+    Repository:   https://github.com/ojilles/jilles.net
+
+EOFMOTD
+sudo mv /tmp/motd /etc/motd                                                                           
+
 # fixing up Git
 git config --global user.name "Jilles Oldenbeuving"
 git config --global user.email ojilles@gmail.com
@@ -53,7 +68,7 @@ git config --global alias.lg 'log --pretty=format:"%C(yellow)%h\\ %C(green)%ad%C
 git config --global alias.st "status -s --branch"
 git config --global alias.ll 'log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat'
 git config --global alias.gr 'grep -Ii'
-
+git config --global alias.staged 'diff --cached'
 rake dev
 
 echo 'Open up your browser to: http://localhost:4000'
