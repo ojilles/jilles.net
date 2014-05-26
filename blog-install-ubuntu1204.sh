@@ -49,8 +49,8 @@ sudo VBoxService --timesync-set-threshold 1000
 # setting motd
 cat << EOFMOTD > /tmp/motd
    __  _ _ _                        _                  _     _             
-   \ \(_) | | ___  ___   _ __   ___| |_  __      _____| |__ | | ___   __ _ 
-    \ \ | | |/ _ \/ __| | '_ \ / _ \ __| \ \ /\ / / _ \ '_ \| |/ _ \ / _` |
+   \ \(_) | | ___  ___   _ __   ___| |_  __      _____| |__ | | ___   ____ 
+    \ \ | | |/ _ \/ __| | '_ \ / _ \ __| \ \ /\ / / _ \ '_ \| |/ _ \ / _  |
  /\_/ / | | |  __/\__ \_| | | |  __/ |_   \ V  V /  __/ |_) | | (_) | (_| |
  \___/|_|_|_|\___||___(_)_| |_|\___|\__|   \_/\_/ \___|_.__/|_|\___/ \__, |
                                                                      |___/ 
@@ -69,6 +69,6 @@ git config --global alias.st "status -s --branch"
 git config --global alias.ll 'log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat'
 git config --global alias.gr 'grep -Ii'
 git config --global alias.staged 'diff --cached'
-rake dev
+cd jilles.net && rake dev
 
 echo 'Open up your browser to: http://localhost:4000'
