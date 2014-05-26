@@ -31,7 +31,7 @@ cat << EOFAPACHE > /tmp/host
 EOFAPACHE
 
 # Ensure Apache is listening on port 4k as well
-cat << EOFPORT >> /tmp/port
+cat << EOFPORT > /tmp/port
 # here for jilles.net blog
 NameVirtualHost *:4000
 Listen 4000
@@ -42,6 +42,11 @@ sudo sh -c "cat /tmp/port >> /etc/apache2/ports.conf"
 rm /tmp/port /tmp/host
 sudo ln -s /etc/apache2/sites-available/jilles /etc/apache2/sites-enabled/010-jilles
 sudo apachectl restart
+
+# setting time stuff correct
+sudo VBoxService --timesync-set-threshold 1000
+
+# fixing up Git
 git config --global user.name "Jilles Oldenbeuving"
 git config --global user.email ojilles@gmail.com
 git config --global alias.lg 'log --pretty=format:"%C(yellow)%h\\ %C(green)%ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short --graph'
