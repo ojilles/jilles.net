@@ -24,11 +24,6 @@ task :test_broken_links do
   sh "_bin/wget-test.sh"
 end
 
-desc 'Check if NcFTP connection works (doesnt change prod)'
-task :test_ftp do
-  sh "ncftpget -f ~/.ncftp/bookmarks -c robots.txt && echo 'Tested FTP connectivity (you should see robots.txt)'"
-end
-
 desc 'Create a new draft post. Usage: rake post title=\'hello, world\''
 task :post do
   title = ENV['title']
@@ -98,8 +93,8 @@ task :send do
   # find . -type f \( -name "*.xml" -o -name "*.html" -o -name "*.css" -o -name "*.js" \) -exec sh -c "gzip < {} > {}.gz" \;
 
   # Should test if _site/ exists
-  sh "ncftpput -f ~/.ncftp/bookmarks -m -E -S tmp -R / _site/* && echo 'Blog pushed to production'"
-  # | growl -H localhost -t 'Jilles.net' || echo 'Blog push FAILED' | growl -H localhost -s -t 'Jilles.net'"
+  # sh "ncftpput -f ~/.ncftp/bookmarks -m -F -S tmp -R / _site/* && echo 'Blog pushed to production'"
+  sh "rsync -havzP --delete --exclude=deliciouslibrary _site/ jilles.net@ssh.jilles.net:/www/ && echo 'Blog pushed to production'"
 end
 
 task :check_git do
