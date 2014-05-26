@@ -42,10 +42,13 @@ sudo sh -c "cat /tmp/port >> /etc/apache2/ports.conf"
 rm /tmp/port /tmp/host
 sudo ln -s /etc/apache2/sites-available/jilles /etc/apache2/sites-enabled/010-jilles
 sudo apachectl restart
-rake dev
 git config --global user.name "Jilles Oldenbeuving"
 git config --global user.email ojilles@gmail.com
 git config --global alias.lg 'log --pretty=format:"%C(yellow)%h\\ %C(green)%ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short --graph'
 git config --global alias.st "status -s --branch"
 git config --global alias.ll 'log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat'
 git config --global alias.gr 'grep -Ii'
+
+rake dev
+
+echo 'Open up your browser to: http://localhost:4000'
