@@ -15,11 +15,10 @@ owner:
   email:          ojilles@gmail.com
   twitter:        ojilles
   github:         ojilles
-#  instagram:      ctrunsthis     
-#  dribbble:       coletownsend
   disqus:         jillesblog
   location:       "Amsterdam, The Netherlands"
-  # Plug in your disqus shortname!
+  ga-name:        jilles.net
+  ga-number:      UA-329999-1
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
