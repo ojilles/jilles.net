@@ -16,8 +16,8 @@ sudo gem install sass
 # Make modelines work for VIM
 echo "set modeline" > ~/.vimrc
 
-HERE DOC for Apache Virtual Host configuration
-sudo cat << EOFAPACHE > /etc/apache2/sites-available/jilles
+#HERE DOC for Apache Virtual Host configuration
+cat << EOFAPACHE > /tmp/host
 <VirtualHost *:4000>
   ServerAdmin ojilles@gmail.com
   DocumentRoot /vagrant/jilles.net/_site
@@ -29,14 +29,17 @@ sudo cat << EOFAPACHE > /etc/apache2/sites-available/jilles
   </Directory>    
 </VirtualHost>
 EOFAPACHE
-# and make it available to serve as well
-sudo ln -s /etc/apache2/sites-available/jilles /etc/apache2/sites-enabled/010-jilles
 
 # Ensure Apache is listening on port 4k as well
-sudo cat << EOFPORT >> /etc/apache2/ports.conf
+cat << EOFPORT >> /tmp/port
 # here for jilles.net blog
 NameVirtualHost *:4000
 Listen 4000
 EOFPORT
 
+sudo sh -c "cat /tmp/host >> /etc/apache2/sites-available/jilles"
+sudo sh -c "cat /tmp/port >> /etc/apache2/ports.conf"
+rm /tmp/port /tmp/host
+sudo ln -s /etc/apache2/sites-available/jilles /etc/apache2/sites-enabled/010-jilles
 sudo apachectl restart
+rake dev

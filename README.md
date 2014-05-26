@@ -36,45 +36,18 @@ Then also create ~/.ncftp/bookmarks with the following content:
 
 For installation purporses (development, etc) I recommend to run
 
+  $ git clone https://github.com/ojilles/jilles.net.git
+  $ cd jilles.net
   $ vagrant up
   $ vagrant ssh
   $ cd /vagrant
   $ ./blog-install-ubuntu1204.sh
 
-This assumes you're running a ubuntu 12.04 image, newer most likely works as well.
+Open your browser (on the host machine) to http://localhost:4000
 
-For development purposes, one could add something similar to the apache config (remove default site):
+Outside of the NcFTP configuration (which contains passwords) this should set you up completely.
 
-	<VirtualHost *:4000>
-		DocumentRoot /vagrant/jilles.net/_site
-			# Alias for jilles.net
-			Alias /jilles.net "/vagrant/jilles.net/_site"
-			<Directory "/vagrant/jilles.net/_site">
-						 Options Indexes FollowSymLinks MultiViews 
-						 AllowOverride All
-						 Order allow,deny
-						 Allow from all
-			</Directory>    
-	</VirtualHost>
+This assumes you're running a ubuntu 12.04 image, newer most likely works as well. The image that
+is used and tested was downloaded here: 
 
-Todo's
-------
-Mainly a list of blogposts I still need to adapt, that I skipped the first pass
-(usually images involved).
-
-* Check if iframe is ok at 2006-09-20-quick-post-on-my-ski-plans-this-season.md
-* Check if iframe is ok at 2006-09-23-recent-purchases.md
-* same for 2008-02-24-skiing.md
-* double check presentation embed at 2008-04-28-pfcongrez_marktplaats_architecture.md
-
-Decided to move over my wp-content dir verbatim, so the following ones should
-be okay after that:
-
-* Fix image at 2008-10-27-on-user-experience.md
-* fix image at 2008-11-15-panolab-iphone-application.md
-* Fix image at 2008-11-16-my-social-network-is-changing.md
-* 2006-05-19-google-tests-new-feature.md
-* 2006-05-28-moola-weekend-millionaires-for-the-rest-of-us.md
-* Copy over the map of westendorf and link properly at:
-  2006-08-27-map-of-westendorf.md
-
+  http://puppet-vagrant-boxes.puppetlabs.com/ubuntu-server-12042-x64-vbox4210-nocm.box
