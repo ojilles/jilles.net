@@ -21,10 +21,13 @@ CLEAN.include('_site/')
 
 desc 'Checks, for dev builds, if there are any internal 404\'s'
 task :test_broken_links do
-    sh "_bin/wget-test.sh"
+  sh "_bin/wget-test.sh"
 end
 
-
+desc 'Check if NcFTP connection works (doesnt change prod)'
+task :test_ftp do
+  sh "ncftpget -f ~/.ncftp/bookmarks -c robots.txt && echo 'Tested FTP connectivity (you should see robots.txt)'"
+end
 
 desc 'Create a new draft post. Usage: rake post title=\'hello, world\''
 task :post do
