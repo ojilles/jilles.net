@@ -69,6 +69,6 @@ git config --global alias.st "status -s --branch"
 git config --global alias.ll 'log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat'
 git config --global alias.gr 'grep -Ii'
 git config --global alias.staged 'diff --cached'
-cd jilles.net && rake dev
+rake dev
 
 echo 'Open up your browser to: http://localhost:4000'
