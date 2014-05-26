@@ -94,7 +94,7 @@ task :send do
 
   # Should test if _site/ exists
   # sh "ncftpput -f ~/.ncftp/bookmarks -m -F -S tmp -R / _site/* && echo 'Blog pushed to production'"
-  sh "rsync -havzP --delete --exclude=deliciouslibrary _site/ jilles.net@ssh.jilles.net:/www/ && echo 'Blog pushed to production'"
+  sh "rsync -havzP --delete --exclude=deliciouslibrary _site/ prod:/www/ && echo 'Blog pushed to production'"
 end
 
 task :check_git do

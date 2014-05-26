@@ -43,8 +43,19 @@ rm /tmp/port /tmp/host
 sudo ln -s /etc/apache2/sites-available/jilles /etc/apache2/sites-enabled/010-jilles
 sudo apachectl restart
 
+cat <<EOFSSH > ~/.ssh/config
+Host prod
+        Hostname ssh.jilles.net
+        User jilles.net
+
+Host *
+ServerAliveInterval 30
+ServerAliveCountMax 120
+EOFSSH
+
 # setting time stuff correct
 sudo VBoxService --timesync-set-threshold 1000
+
 
 # setting motd
 cat << EOFMOTD > /tmp/motd
@@ -70,5 +81,14 @@ git config --global alias.ll 'log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset
 git config --global alias.gr 'grep -Ii'
 git config --global alias.staged 'diff --cached'
 rake dev
+
+# if host system has private key for production environment, 
+# copy it in for easy deployment
+if [ -f /vagrant/id_rsa ];
+then
+   cp /vagrant/id_rsa ~/.ssh/
+else
+   echo "No private key found for production environment. In your host system run: 'cp ~/.ssh/id_rsa .'"
+fi
 
 echo 'Open up your browser to: http://localhost:4000'
