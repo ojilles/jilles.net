@@ -3,6 +3,17 @@
 Here's the source for my blog. At first this was based on Coffecomrade.com's weblog 
 but since 2014 I have switched to Balzac (see footer of the site for links)
 
+
+Features
+--------
+
+* Obviously completely based off of Jekyll (v2)
+* Rake build system around it so compile other assets (SASS, etc) in a consistent manner
+* Rake integrated with git such that nothing EVER will be pushed to PROD without that being both in git and pushed to github.com
+* Integrated link checking (will spider the whole site on DEV and PROD builds so that you can not push internal links that result in 404's)
+* Tidy integration so that all pages' source code look good and well formatted
+* Entire VM around it so that you can reproduce this setup anywhere, anytime (quite handy for an infrequent blogger such as me)
+
 Copyright and -lefts
 --------------------
 My writing, photographs, graphics, and any other original content is covered by
