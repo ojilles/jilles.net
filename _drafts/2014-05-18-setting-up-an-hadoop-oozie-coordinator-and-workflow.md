@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Setting up a Hadoop Oozie Coordinator and Workflow
-published: false
 comments: true
 image:
   feature: elephants.jpg

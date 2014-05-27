@@ -6,6 +6,8 @@ description:      Jilles' personal website
 # Comment out url when working locally to resolve base urls correctly
 # Automatically changed by Rake dev/prod/etc
 url:              http://localhost:4000
+prod_build:       false
+### end of automatic changing configs
 
 # Owner/author information
 owner:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Cooking a steak
-published: false
 image_titles: false
 categories: 
   - Cooking

@@ -31,7 +31,7 @@ task :post do
 
   file = File.join(
     File.dirname(__FILE__),
-    '_posts',
+    '_drafts',
     slug + '.md'
   )
 
@@ -43,7 +43,6 @@ task :post do
     title: #{title}
     # vim: set ts=2 sw=2 tw=80 ft=markdown et si :
     layout: post
-    published: false
     disable_comments: false
     image:
       feature: elephants.jpg
@@ -70,7 +69,7 @@ task :dev_config do
   puts "* Configuring _config.yml for development... "
   edit_config('prod_build', 'false');
   edit_config('url', $local_url) 
-  edit_config('lsi', 'false')
+  puts get_config('prod_build')
 end
 
 desc 'Configure for production'
@@ -78,13 +77,17 @@ task :prod_config do
   puts "* Configuring _config.yml for production... "
   edit_config('prod_build', 'true');
   edit_config('url', $production_url) 
-  edit_config('lsi', 'true')
 end
 
 desc 'Run Jekyll to generate the site'
 task :build do
   puts '* Generating static site with Jekyll'
-  sh "jekyll build"
+  if get_config('prod_build') == 'false'
+    puts '   +-> Including draft posts'
+    sh "jekyll build --drafts"
+  else
+    sh "jekyll build"
+  end
 end
 
 desc 'Upload the _site content'
@@ -136,5 +139,13 @@ def edit_config(option_name, value)
   regexp = Regexp.new('(^\s*' + option_name + '\s*:\s*)(\S+)(\s*)$')
   config.sub!(regexp,'\1'+value+'\3')
   File.open("_config.yml", 'w') {|f| f.write(config)}
+end
+
+def get_config(option_name)
+  config = File.read("_config.yml")
+  regexp = Regexp.new('(^\s*' + option_name + '\s*:\s*)(\S+)(\s*)$')
+  if config =~ regexp then 
+    return $2
+  end
 end
 

@@ -91,6 +91,7 @@ rake dev
 if [ -f /vagrant/id_rsa ];
 then
    cp /vagrant/id_rsa /home/vagrant/.ssh/
+   chmod 0700 /home/vagrant/.ssh/id_rsa
 else
    echo "No private key found for production environment. In your host system run: 'cp ~/.ssh/id_rsa .'"
 fi

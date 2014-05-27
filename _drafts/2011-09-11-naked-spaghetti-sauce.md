@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Naked Spaghetti Sauce
-published: false
-image_titles: false
 categories:
 - Cooking
 ---
