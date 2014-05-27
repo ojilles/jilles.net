@@ -82,6 +82,8 @@ git config --global alias.st "status -s --branch"
 git config --global alias.ll 'log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat'
 git config --global alias.gr 'grep -Ii'
 git config --global alias.staged 'diff --cached'
+# ensure ssh connectivity for pub/priv key 
+git remote set-url origin git@github.com:ojilles/jilles.net.git
 rake dev
 
 # if host system has private key for production environment, 
