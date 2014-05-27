@@ -15,7 +15,8 @@
 # Author: Jilles Oldenbeuving <ojilles@gmail.com>
 #wget --spider -nd -r --base=http://localhost/jilles.net -S --save-headers -p -D localhost -np http://localhost/jilles.net/
 TMPFILE=/tmp/jekyll-wget-test-NAqSS70N9ys4rhVuien
-DOMAIN=`grep baseurl _config.yml | grep -o "http.*"`
+rm $TMPFILE
+DOMAIN=`grep url _config.yml | grep -o "http.*" | head -n 1`
 
 echo " * Wget-test, crawling: [$DOMAIN]"
 wget --spider -nd -r --base=$DOMAIN -S --save-headers -p -D localhost -np $DOMAIN &>$TMPFILE 
@@ -39,7 +40,6 @@ then
             printf '     * %s\n' $REFERRER
         done
     done
-    rm $TMPFILE
     exit -1
 else
     echo " * All okay!"

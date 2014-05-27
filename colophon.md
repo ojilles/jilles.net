@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Colophon
 ---
 
-Colophon
---------
 This is my weblog and my little corner on the internet. [See here for more
 information about me]({{site.baseurl}}/about.html). I've build many big sites
 in my professional career, so I figured a small weblog should be possible. To

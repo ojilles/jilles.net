@@ -1,16 +1,73 @@
-lsi: false
-auto: false
-permalink: perma/:year/:month/:day/:title
-tag_dir: tag
-tag_title_prefix: "Tags &raquo; "
-baseurl:  http://localhost/jilles.net
-markdown: rdiscount
-exclude: Rakefile, README.md
+# vim: set ts=2 sw=2 tw=80 ft=yaml et si :
 
-# Used by my site (e.g. non jekyll specfic stuff)
-prod_build: false
-author_name: Jilles Oldenbeuving
-author_email: ojilles@gmail.com
-site_name: Jilles.net
-site_tagline: Jilles' small corner on the internet about technology, skiing, online businesses and general interest
-title_append: " | Jilles.net"
+title:            Jilles.net
+tagline:          Jilles' small corner on the internet about technology, skiing, online businesses and general interest
+description:      Jilles' personal website
+# Comment out url when working locally to resolve base urls correctly
+# Automatically changed by Rake dev/prod/etc
+url:              http://localhost:4000
+prod_build:       false
+### end of automatic changing configs
+
+# Owner/author information
+owner:
+  name:           Jilles Oldenbeuving
+  avatar:         avatar.png
+  bio:            "Technologist"
+  email:          ojilles@gmail.com
+  twitter:        ojilles
+  github:         ojilles
+  disqus:         jillesblog
+  location:       "Amsterdam, The Netherlands"
+  ga-name:        jilles.net
+  ga-number:      UA-329999-1
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title:  About
+    url:    /about.html
+#  - title: Github
+#    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+#    external: true
+  - title:  Categories
+    url:    /categories/
+  - title:  Colophon
+    url:    /colophon.html
+  - title:  Contact
+    url:    /contact.html
+  - title:  Feeds
+    url:    /feeds.html
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Amsterdam
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:        /:categories/:title
+permalink:        /perma/:year/:month/:day/:title
+tag_dir:          tag
+tag_title_prefix: "Tags &raquo; "
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "Vagrantfile", "blog-install-ubuntu1204.sh", "tidy-config.txt"]

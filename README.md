@@ -1,9 +1,7 @@
 # Jilles.net
 ***
-Here's the source for my blog. As I base I took Coffecomrade.com's weblog and
-went from there. For now, this has not been published at all (jilles.net is
-still running the old software). I'm merely using this as a base to experiment
-from.
+Here's the source for my blog. At first this was based on Coffecomrade.com's weblog 
+but since 2014 I have switched to Balzac (see footer of the site for links)
 
 Copyright and -lefts
 --------------------
@@ -36,57 +34,20 @@ Then also create ~/.ncftp/bookmarks with the following content:
     user USERNAME
     pass PASSWORD
 
-In addition ruby-gsl. Installation instructions here:
-http://blog.patrickcrosby.com/2010/03/06/ruby-jekyll-lsi-classifier-fixes.html.
-Actually, with the newer versions something got fixes somewhere, and the manual
-code changes are not necessary anymore.
+For installation purporses (development, etc) I recommend to run
 
-    sudo port install gsl
-    mkdir ~/tmp
-    cd ~/tmp
-    svn checkout svn://rubyforge.org/var/svn/rb-gsl/trunk
-    cd trunk/rb-gsl/
-    ruby setup.rb config
-    ruby setup.rb setup
-    sudo ruby setup.rb install
-    sudo gem install classifier
+  $ git clone https://github.com/ojilles/jilles.net.git
+  $ cd jilles.net
+  $ vagrant up
+  $ vagrant ssh
+  $ cd /vagrant
+  $ ./blog-install-ubuntu1204.sh
 
-For development purposes, one could add something similar to the apache config:
+Open your browser (on the host machine) to http://localhost:4000
 
-    # Alias for jilles.net
-    Alias /jilles.net "/Users/ojilles/jilles.net/_site"
-    <Directory "/Users/ojilles/jilles.net/_site">
-           Options Indexes FollowSymLinks MultiViews 
-           AllowOverride All
-           Order allow,deny
-           Allow from all
-    </Directory>    
+Outside of the NcFTP configuration (which contains passwords) this should set you up completely.
 
-In addition, I have a few drafted posts. If you want to build those, you'll need an as of yet unreleased feature of Jekyll.
+This assumes you're running a ubuntu 12.04 image, newer most likely works as well. The image that
+is used and tested was downloaded here: 
 
-1 - Check if my changes have been merged in (in which case an up to date version of Jekyll should do it)
-    https://github.com/mojombo/jekyll/pull/374
-2 - Otherwise download and install this gem: http://www.jilles.net/gems/jekyll-0.11.1.gem
-
-
-Todo's
-------
-Mainly a list of blogposts I still need to adapt, that I skipped the first pass
-(usually images involved).
-
-* Check if iframe is ok at 2006-09-20-quick-post-on-my-ski-plans-this-season.md
-* Check if iframe is ok at 2006-09-23-recent-purchases.md
-* same for 2008-02-24-skiing.md
-* double check presentation embed at 2008-04-28-pfcongrez_marktplaats_architecture.md
-
-Decided to move over my wp-content dir verbatim, so the following ones should
-be okay after that:
-
-* Fix image at 2008-10-27-on-user-experience.md
-* fix image at 2008-11-15-panolab-iphone-application.md
-* Fix image at 2008-11-16-my-social-network-is-changing.md
-* 2006-05-19-google-tests-new-feature.md
-* 2006-05-28-moola-weekend-millionaires-for-the-rest-of-us.md
-* Copy over the map of westendorf and link properly at:
-  2006-08-27-map-of-westendorf.md
-
+  http://puppet-vagrant-boxes.puppetlabs.com/ubuntu-server-12042-x64-vbox4210-nocm.box

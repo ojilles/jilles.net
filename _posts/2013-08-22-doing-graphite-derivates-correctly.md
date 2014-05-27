@@ -3,6 +3,9 @@ published: true
 layout: post
 title: How to do Graphite Derivatives correctly
 permalink: perma/2013/08/22/how-to-do-graphite-derivatives-correctly
+image:
+  feature: graphite-graph.png
+  uicolor: light
 categories:
 - Technology
 ---
