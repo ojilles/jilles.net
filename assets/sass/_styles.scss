@@ -45,6 +45,11 @@ small {
     font-size: $fs5;
 }
 
+.footnote {
+   vertical-align: super;
+   font-size: $fs5;
+}
+
 .hilite {
     display: inline-block;
     padding: 0 0.3em;

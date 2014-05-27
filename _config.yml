@@ -46,7 +46,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
 future:      true
-highlighter: pygments
+highlighter: pygments    # try this still: https://gist.github.com/edwardhotchkiss/2005058
 markdown:    kramdown
 
 kramdown:

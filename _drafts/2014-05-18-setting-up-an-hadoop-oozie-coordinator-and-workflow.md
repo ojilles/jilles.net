@@ -9,15 +9,17 @@ image:
 categories: 
   - Technology
 ---
-
 After many frustrating hours of tweaking I have finally setup a working [Oozie](https://oozie.apache.org/)
 [Coordinator](https://oozie.apache.org/docs/3.1.3-incubating/CoordinatorFunctionalSpec.html) plus associated
 [Workflow](https://oozie.apache.org/docs/3.1.3-incubating/WorkflowFunctionalSpec.html) on
 [Hadoop](http://hadoop.apache.org) (in my case
 [Cloudera](http://www.cloudera.com/content/cloudera/en/about/hadoop-and-big-data.html)'s distribution). This was quite
-frustrating because of many small problems that are completely non-intuative and not documented. Error messages that you
-get back from a distributed system are mostly non-descriptive from the developers perspective. So I thought I should
-write this down so that others can benefit (and for myself to have a canonical write up).
+frustrating because of many small problems that are completely non-intuative
+and not documented. Error messages that you get back from a distributed system
+are mostly non-descriptive from the developers perspective. So I thought I
+should write this down so that others can benefit (and for myself to have a
+canonical write up). I'm not the first [^1] person to do this, but I figured we
+can collectively use more shared experiences on the internet.
 
 ### The Starting Conditions
 I'm assuming you have a Hadoop cluster with Oozie running already. In my case I have data coming into
@@ -77,8 +79,10 @@ I'm using the following pig script for this:
 The following articles/links helped me stiching the above together, they may provide you with additional leads as well:
 
 - This [old documentation page](https://github.com/yahoo/oozie/wiki/Oozie-Coord-Use-Cases) from Yahoo (creators of Oozie) was unproportionally informative due to its practical content.
-- [Using Oozie to process daily logs](http://ehukai.com/2011/06/14/using-oozie-to-process-daily-logs/) is roughly an equivalent blog post to this.
 - [Using Oozie in a Kerberized Hadoop cluster](http://prodlife.wordpress.com/2013/11/22/using-oozie-in-kerberized-cluster/)
+
+
+[^1]: [Using Oozie to process daily logs](http://ehukai.com/2011/06/14/using-oozie-to-process-daily-logs/) is roughly an equivalent blog post to this.
 
 
 
