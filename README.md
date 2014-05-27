@@ -24,28 +24,16 @@ these.
 
 Requirements
 ------------
-Thanks to the braindead native FTP client on Mac OS X, you'll need to install
-NcFTP (See: http://www.ncftp.com/ncftp/doc/ncftpput.html) :
-
-    sudo port install NcFTP
-
-Then also create ~/.ncftp/bookmarks with the following content:
-    host ftp.jilles.net
-    user USERNAME
-    pass PASSWORD
 
 For installation purporses (development, etc) I recommend to run
 
   $ git clone https://github.com/ojilles/jilles.net.git
   $ cd jilles.net
-  $ vagrant up
+  $ vagrant up       # will kickoff provision, will take some time
   $ vagrant ssh
   $ cd /vagrant
-  $ ./blog-install-ubuntu1204.sh
 
 Open your browser (on the host machine) to http://localhost:4000
-
-Outside of the NcFTP configuration (which contains passwords) this should set you up completely.
 
 This assumes you're running a ubuntu 12.04 image, newer most likely works as well. The image that
 is used and tested was downloaded here: 
