@@ -34,21 +34,18 @@ obscures the real data (get's pushed to the x-axis).
 Possible causes are:
 
 * Servers were not able to push data to graphite
-
 * Internal counters got looped b/c integer space
-
 * Internal counters got reset b/c service restart (or similar)
 
-What causes these spikes? Due to the fact that we first sum the different data
-sources, the data looks like this right before reaching the
+How does this change our aggregated data? Due to the fact that we first sum the
+different data sources, the data looks like this right before reaching the
 `nonNegativeDerivative()` function:
 
 ![Summed data][pic3]
 
 And indeed a proper derivation of this data would give you these spikes. The
 solution to this is to put the `nonNegativeDerivative` closest to the data
-source. (NB: You would not necessarily see these spikes if you are only
-looking at one data source, but then... why are you using Graphite?)
+source, like so:
 
 From: `nonNegativeDerivative(sumSeries(cs-*.aggregation-cpu-average.cpu-user.value))`
 
@@ -59,6 +56,11 @@ that the data collections were interrupted) and the derivations will work
 properly.
 
 ![Proper chart][pic4]
+
+(PS: You would not necessarily run into this problem if you only use one data
+source. The problem arises from the fact that /after/ you agggregate the data,
+individual counters that get wrapped or stopped reporting are not visible
+anymore and the derivation will come the incorrect conclusions.)
 
 [pic1]: {{site.baseurl}}/photos/graphite/pic1-raw-data.png
 [pic2]: {{site.baseurl}}/photos/graphite/pic2-nnderivative.png
