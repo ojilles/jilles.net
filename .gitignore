@@ -4,3 +4,4 @@ _site/*
 jilles_net.js
 *.bak
 .DS_Store
+.sass-cache
