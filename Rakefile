@@ -41,7 +41,7 @@ task :post do
     f << <<-EOS.gsub(/^    /, '')
     ---
     title: #{title}
-    # vim: set ts=2 sw=2 tw=80 ft=markdown et si :
+    # vim: set ts=2 sw=2 tw=120 ft=markdown et si :
     layout: post
     disable_comments: false
     image:
