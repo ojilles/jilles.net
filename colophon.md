@@ -24,8 +24,6 @@ statically generated. Here is the software I use:
     * For the engine I use [Jekyll](https://github.com/mojombo/jekyll) 
     * I have since modified Jekyll quite a bit, particularly the build system, based on [Rake](http://martinfowler.com/articles/rake.html)
     * JavaScript, using [jQuery](http://jquery.com/) in combination with [Google Closure](http://code.google.com/closure/) to compile my own JavaScript's
-    * Thanks to the completely backwards native ftp client on Mac OS X, I'm using
-      NcFTP to deploy to production
 * The production environment
     * Hosted by one.com
     * [Disqus](http://disqus.com/) for the commenting system, where enabled
@@ -41,10 +39,12 @@ statically generated. Here is the software I use:
 
 ### Credits and Acknowledgments
 Like most people that get started with Jekyll, I looked at the Github
-repositories out there and build off of one that comes closest to what I 
-want. I did the same thing and want to acknowledge the work [Bryan Matthew
-Warren](http://coffeecomrade.com/) has done. You will find 
-[his work on Github](https://github.com/haircut/coffeecomrade.com).
+repositories out there and build off of one that comes closest to what I want.
+I did the same thing and want to acknowledge the work [Bryan Matthew
+Warren](http://coffeecomrade.com/) has done. You will find [his work on
+Github](https://github.com/haircut/coffeecomrade.com). In addition, in early
+2014 I switched to the Balzac Jekyll theme developed by [Cole
+Townsend](https://twitter.com/twnsndco).
 
 [Herjen Oldenbeuving](http://www.herjen.nl) did an initial review and gave me
 some valuable feedback.
