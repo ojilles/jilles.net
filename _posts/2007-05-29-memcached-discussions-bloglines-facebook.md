@@ -20,7 +20,7 @@ infrastructure component?"-question:
     We consider memcached a critical part of our infrastructure. The benefit of
     memcached in a typical setup is to reduce the amount of database hardware you
     need to support an application; if you have enough database horsepower to run
-    unimpaired with most of your memcached servers out of service, then there's‚Â¹s
+    unimpaired with most of your memcached servers out of service, then there's
     probably no point using memcached at all, since it without a doubt adds extra
     complexity to your application code. 
 [<a href="http://lists.danga.com/pipermail/memcached/2007-May/004105.html">link</a>]
