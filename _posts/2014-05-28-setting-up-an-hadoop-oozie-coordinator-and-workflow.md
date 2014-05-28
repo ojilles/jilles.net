@@ -14,7 +14,7 @@ After many frustrating hours of tweaking I have finally setup a working [Oozie](
 [Workflow](https://oozie.apache.org/docs/3.1.3-incubating/WorkflowFunctionalSpec.html) on
 [Hadoop](http://hadoop.apache.org) (in my case
 [Cloudera](http://www.cloudera.com/content/cloudera/en/about/hadoop-and-big-data.html)'s distribution). This was quite
-frustrating because of many small problems that are completely non-intuative
+frustrating because of many small problems that are completely non-intuitive
 and not documented. Error messages that you get back from a distributed system
 are mostly non-descriptive from the developers perspective. So I thought I
 should write this down so that others can benefit (and for myself to have a
@@ -134,7 +134,7 @@ above Pig action. Here is the XML for the workflow definition:
 
 The workflow is composed of one or multiple `action`s, in my example only one.
 You start your [DAG](http://en.wikipedia.org/wiki/Directed_acyclic_graph) with
-the `start` node, identifying the the first `action` Oozie should begin. Each
+the `start` node, identifying the first `action` Oozie should begin. Each
 `action` then has two possible outcomes, as defined in the `ok` and `error`
 tags. They do what you expect them to do. This way you can string together a
 whole list of actions including decision points as [described
@@ -365,7 +365,7 @@ that earlier with the events). You could for example add another input path
 here to some static data set, etc.
 
 I also set a `customJobName`, just to make sure that other users of the Hadoop
-cluster know whats going on and can find out more information should my
+cluster know what is going on and can find out more information should my
 coordinator misbehave. We are also setting `oozie.use.system.libpath` to `true`
 as otherwise I could not get the jars we depend on to be found. (No idea if
 what I do there is correct, fire away at the comments please!)
@@ -448,7 +448,7 @@ The above setup will continue to run even while during maintenance of the
 Hadoop cluster. Also I have tested with various different failure modes such as
 only partial input data availability, etc. and each time Oozie recognized the
 situation skipped outputting (incomplete) data and retrying once the input data
-appeared. It has proven to be quite resiliant over the last month or so for me.
+appeared. It has proven to be quite resilient over the last month or so for me.
 
 I have not experimented with Oozie Bundles as of yet. From my reading this
 could simplify the deployment/release process (imagine having multiple
@@ -460,7 +460,7 @@ chaining their data flows). Something to look into at a later moment.
 This poses a fantastic tool for teams that are looking to setup a comprehensive
 data pipeline. The downsides to me are:
 
- - Quite verbose XML authoring of the defintions[^4], and
+ - Quite verbose XML authoring of the definitions[^4], and
  - Completely disorienting error messages
 
 That last one might be due to the distributed nature of Hadoop itself, more so than Oozie.
