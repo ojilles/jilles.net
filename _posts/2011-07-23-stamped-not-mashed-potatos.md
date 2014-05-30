@@ -2,6 +2,9 @@
 layout: post
 title: Stamped (not mashed) potatos recipe
 image_titles: true
+image:
+  feature: stamped-potatos12.jpg
+  uicolor: light
 categories:
 - Cooking
 ---
