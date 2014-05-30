@@ -43,7 +43,8 @@ pipelines](http://www.hakkalabs.co/articles/big-small-hot-or-cold-your-data-need
 From an Oozie perspective, actually all of these are optional, letting you
 start off as small as you would like.
 
-All source material can be found in the following TODO Github repository.
+All source material can be found in [the following Github
+Gist](https://gist.github.com/ojilles/1dd2e9931e3fc02666e0).
 
 ### Pig Action
 The imagined use case is that I would like to have all the incoming data
@@ -295,7 +296,7 @@ present before kicking off the workflow.
 The dataset has a `uri-template` that parameterizes the time aspects. You can
 not use any other variables in here (or even a `*` to resolve all data centers)
 as it would then become impossible for Oozie to determine if all input data is
-present. The full list of parameters [can be found
+present[^5]. The full list of parameters [can be found
 here](https://oozie.apache.org/docs/3.1.3-incubating/CoordinatorFunctionalSpec.html#a5.1._Synchronous_Datasets).
 
 {% highlight xml %}
@@ -475,18 +476,4 @@ If you have questions or suggestions, please fire away at the comments!
 [^2]: Clear examples from the Yahoo team on [Oozie Coordinators](https://github.com/yahoo/oozie/wiki/Oozie-Coord-Use-Cases)
 [^3]: [Using Oozie in a Kerberized Hadoop cluster](http://prodlife.wordpress.com/2013/11/22/using-oozie-in-kerberized-cluster/)
 [^4]: One trick one can do on Cloudera is to author a rough outline of the Workflow you would like to have in their drag-n-drop tooling, then export to XML and perfect there. I always want to have the XML myself so that we can integrate it into Git and release procedures.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^5]: One could use [other strategies](https://oozie.apache.org/docs/3.1.3-incubating/CoordinatorFunctionalSpec.html#a5.1._Synchronous_Datasets) (see `done-flag`) to indicate completeness of input data. Also, one could redefine the input data path as `year/month/day/datacenter`, then only tell Oozie about the time-related elements. In the Workflow you would add `/*` for the datacenter part. In that case you dismiss Oozie from completeness checks, and you are responsible yourself.
