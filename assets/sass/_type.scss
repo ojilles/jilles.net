@@ -24,6 +24,22 @@ p {
     margin-bottom: $lh/3;
 }
 
+// Making Calendas work
+// Calendas_Plus_Bold.otf  Calendas_Plus_Italic.otf  Calendas_Plus.otf
+@font-face {
+font-family: 'Calendas Plus';
+src: url("/assets/fonts/Calendas_Plus.otf") format("opentype");
+}
+
+body { 
+  /*text-rendering:optimizeLegibility;*/
+  -o-font-feature-settings: 'liga' 1, 'kern';
+  -moz-font-feature-settings: 'liga=1', 'kern=1'; /* FF old */
+  -moz-font-feature-settings: 'liga' 1, 'kern';
+  -ms-font-feature-settings: 'liga' 1, 'kern';
+  -webkit-font-feature-settings: 'liga' 1, 'kern';
+  font-feature-settings: 'liga' 1, 'kern'; /* Future */
+}
 
 
 /* Headings
