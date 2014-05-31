@@ -9,7 +9,7 @@ desc 'Development: Rebuild the site'
 task :dev => [:dev_config, :sass, :js_compile, :build, :tidy_html, :test_broken_links]
 
 desc 'Production: push to github, build and upload'
-task :prod => [:push, :prod_config, :sass, :js_compile, :build, :tidy_html, :send, :dev_config, :dev]
+task :prod => [:push, :prod_config, :sass, :js_compile, :build, :tidy_html, :send, :dev]
 # finished off in dev_config to ensure prod config doesn't get checked into git
 # also, :push needs to be first, otherwise :prod_config changes config files
 # which in turn will make the build fail for not having everything checked in
