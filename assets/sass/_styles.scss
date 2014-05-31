@@ -46,8 +46,10 @@ small {
 }
 
 .footnote {
-   vertical-align: super;
-   font-size: $fs5;
+    vertical-align: baseline;
+    position: relative;
+    font-size: 70%;
+    top: -0.6em;
 }
 
 .hilite {
