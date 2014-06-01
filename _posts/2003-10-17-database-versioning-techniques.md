@@ -38,9 +38,9 @@ things at work:
 Now since both 1) and 2) are under source control, 3) is always achievable.
 (Well, in practice you need to version you build tools, which are used by the
 build script, too. But if you go down this road you'd have to version your
-entire build machine.)
+entire build machine. *EDIT 2014: Exactly, this is what folks are doing now*)
 
-Consider the case for that database. The following aspects are at work
+Consider the case for the database. The following aspects are at work
 here:
 
 1. a SQL scripts
@@ -117,4 +117,9 @@ tool, drop me a line!).
 work! But be sure to follow this blog because I will report my findings.)
 
 *Edit*: Hmm, almost within 10 minutes I detected a flaw in this setup. I'll
-write about it at some later time.
+write about it at some later time. 
+
+*Edit 2014: this entire train of thought never led to working production
+system, and instead we implemented something differently, see [here for a slide
+deck](http://www.slideshare.net/ojilles/20080410-pf-congrez-presentation-e-bay-v0-2),
+scroll to page 14.*
