@@ -49,4 +49,4 @@ This is the weblog of Jilles Oldenbeuving. I have build many big sites in my pro
 
 ![Jilles Oldenbeuving, December 2010][profile1]
 
-[profile1]: {{site.baseurl}}/photos/misc/profile_picture_jilles_oldenbeuving.jpg
+[profile1]: {{site.url}}/images/JO5_0275.jpg

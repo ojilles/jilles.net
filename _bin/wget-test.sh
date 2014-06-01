@@ -19,7 +19,7 @@ rm $TMPFILE
 DOMAIN=`grep url _config.yml | grep -o "http.*" | head -n 1`
 
 echo " * Wget-test, crawling: [$DOMAIN]"
-wget --spider -nd -r --base=$DOMAIN -S --save-headers -p -D localhost -np $DOMAIN &>$TMPFILE 
+wget --spider --no-cache -nd -r --base=$DOMAIN -S --save-headers -p -D localhost -np $DOMAIN &>$TMPFILE 
 
 NOBROKENLINKS=`grep  "^http" $TMPFILE`
 NOBROKENLINKS=$?

@@ -13,9 +13,9 @@ A good developer keeps all his source code in an SCM tool (like CVS, Perforce, A
 
 Now, to keep the software part under version control there are three different things at work:
 
-a) the plain text source code
-b) a build script (arguably a meta-program, see G.E.B.)
-c) the output of a) and b) combined, the actual program
+1) the plain text source code
+2) a build script (arguably a meta-program, see G.E.B.)
+3) the output of 1) and 2) combined, the actual program
 
 Now since both a) and b) are under source control, c) is always achievable. (Well, in practice you need to version you build tools, which are used by the build script, too. But if you go down this road you'd have to version your entire build machine.)
 
