@@ -33,12 +33,12 @@ src: url("/assets/fonts/Calendas_Plus.otf") format("opentype");
 
 body { 
   /*text-rendering:optimizeLegibility;*/
-  -moz-font-feature-settings:"frac" 1, "kern" 1, "dlig" 1, "clig" 1, "swsh" 1; 
-  -moz-font-feature-settings:"frac=1, kern=1, dlig=1, clig=1, swsh=1"; 
-  -ms-font-feature-settings:"frac" 1, "kern" 1, "dlig" 1, "clig" 1, "swsh" 1; 
-  -o-font-feature-settings:"frac" 1, "kern" 1, "dlig" 1, "clig" 1, "swsh" 1; 
-  -webkit-font-feature-settings:"frac" 1, "kern" 1, "dlig" 1, "clig" 1, "swsh" 1; 
-  font-feature-settings:"frac" 1, "kern" 1, "dlig" 1, "clig" 1, "swsh" 1;
+  -moz-font-feature-settings:"frac" 1, "kern" 1, "clig" 1, "swsh" 1; 
+  -moz-font-feature-settings:"frac=1, kern=1, clig=1, swsh=1"; 
+  -ms-font-feature-settings:"frac" 1, "kern" 1, "clig" 1, "swsh" 1; 
+  -o-font-feature-settings:"frac" 1, "kern" 1, "clig" 1, "swsh" 1; 
+  -webkit-font-feature-settings:"frac" 1, "kern" 1, "clig" 1, "swsh" 1; 
+  font-feature-settings:"frac" 1, "kern" 1, "clig" 1, "swsh" 1;
 
   /* Use this to experiment:
      http://clagnut.com/sandbox/css3/index.php?projectid=21000   */
