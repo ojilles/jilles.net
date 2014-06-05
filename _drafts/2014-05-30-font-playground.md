@@ -2,7 +2,7 @@
 title: Font Playground
 # vim: set ts=2 sw=2 tw=120 ft=markdown et si :
 layout: post
-disable_comments: false
+disable_comments: true
 image:
   feature: elephants.jpg
   credits: https://www.flickr.com/photos/blieusong/7234335792/
