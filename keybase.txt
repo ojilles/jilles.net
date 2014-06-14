@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/ojilles
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.jilles.net
+  * I am ojilles (https://keybase.io/ojilles) on keybase.
+  * I have a public key with fingerprint 9A22 F759 D4BB 0290 FFD4  B17F 243E B257 5A2B 5700
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "9a22f759d4bb0290ffd4b17f243eb2575a2b5700",
+            "host": "keybase.io",
+            "key_id": "243eb2575a2b5700",
+            "uid": "8fb7ad08da4ddf680fa946eabc0b4200",
+            "username": "ojilles"
+        },
+        "service": {
+            "hostname": "www.jilles.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402776232,
+    "expire_in": 157680000,
+    "prev": "1d995f1f4193c7804373e281e4d9159346b90f130929f8c1f81961ee6c8c0d7d",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMWoYrcpPEo7nIHx9IHPSQzBc1adq1ZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSpaJRkZp5qaWKSZJSQZGlgZpaUCWoXmakYlxapKRqblpolGSqbmBgZKO
+UkZ+MUgH0JikxOJUvcx8oBiQE5+ZAhTFor4ULGGRlmSemGJgkZJokpKSZmZhkJZo
+aWKWmpiUbJBkYgRRWJxalJeYmwpUnZ+VmZOTWqxUq6MEFCzLTE4FORlkM1RBeXm5
+HkSNXl5qCVBzQVF+SX5yfg5QLqOkpMAKpLWksgCsNjUpHmpKfFJmXgrQ40ANZalF
+xZn5eUpWhkCVySWZIGMNTQyMzM3NjIyNdJRSKwoyi1LjM0EqTM2BDgYCkDWpZUAj
+DVMsLU3TDNNMDC2Nk80tDEyMzY1TjSwMU01SLA1NLY1NzJKAYWhobGBpZJlmkWyY
+ZmFoaWaYmmqWbJFskGKeogTyV2FevpIV0KaSxHSgkcWZ6XmJJaVFqUq1XJ1MMiwM
+jFwMbKxMoLhj4OIUgMWo0Ab+/6H/nDa7Pc4w+VkrwHubPdVZSNAwPO385o3GD6ru
+TX+5lCfjcP6cE24RP9+uruVQ6PtyRKmmJ3n5R8c7fvM1zhneztnyKZ7BZ9cvqylS
+ew+EvDebF3SPodDL8+c0xfpkBvt1/ys3X74nsnp7pmXtokbFLqZDy6ZrsE8+mvX6
+d+vKv52nNzCejQ8+77xTdUHUeY4/HE8O2O1ccjlzmzJTQOaf/kmLrFOSmq9sqZu0
+wbfQ+i3vlG+77kz7yrojsK//kclWyyVf0q4VKh++vKdiucoLM+Vs9QthtwpjznOa
+/bbM8m045num9BLby0MnzWXVHdpO71v0rWRFS9hUMad5Zn/ai5Ynr5BwLxAJW7rX
+S8n8+qp/t8svxtjNeXpXRTrt26Zog+ia9PtMh3dl57Jx2X+RyDyyKet4Tzvn7VWi
+bbxVy2xL7f/m5VXltqmac2x7ZMehcvbwhnU+G98evHUmh+PPc9nnl+pDrQrZz279
+Iivmetfgf/U9649hO6ddnhGyZPXq64orYhf+Ybj6aaXCZQ197mO/e2IEmTf92rTl
+6MY3f2dNlGLrar1tN/m5+raU5Qu2Ve3g6Of22fBGcXnXVq/boUrq3gcCFlRYbblz
+IORUV6b7c83/iyLSLnLYvhQO+HLsVOnboLstHxZIcz80fFPu/Gm3ctCnwqL9n+d3
+72f7sS4gc9IJzYINU7oTjZRyQ8WCdjEdnr7BxzCTUecKAA==
+=6msJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ojilles
+
+==================================================================
+
