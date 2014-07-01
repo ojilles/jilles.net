@@ -32,6 +32,7 @@ This is the weblog of Jilles Oldenbeuving. I have build many big sites in my pro
  * [Shelfari]
  * [Vimeo]
  * [Youtube]
+ * My public GPG key and [Keybase.io profile](https://keybase.io/ojilles/)
 
 
 ### Misc. other sites

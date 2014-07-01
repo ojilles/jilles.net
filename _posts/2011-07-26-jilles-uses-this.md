@@ -57,9 +57,9 @@ combination of me always having a
 [iTerm2](http://www.iterm2.com/#/section/home) console open, even though I do
 not program for a living anymore.
 
-Personally I use Gmail for mail, but mostly try to stay away from the web client
-(not sure why, but I guess it is due to the latency difference with simple
-Mail.app client). As mentioned, I use Skype a lot for international video calls. 
+Personally I use Gmail for mail, and [my public GPG key can be found at
+keybase.io](https://keybase.io/ojilles/).  As mentioned, I use Skype a lot for
+international video calls. 
 
 My browser of choice these days is Chrome, as it is fast and syncs nicely
 across all my machines which is great. For a list of places on the web [where
@@ -92,13 +92,17 @@ The Mac mini is hooked up to a large (European standard) television, but it
 will also stream the content to the iPad or iPhone in a pinch if needed.
 
 For my weblog (that you are reading now) I had great fun geeking out with
-[Jekyll](https://github.com/mojombo/jekyll), creating a fully automated
-build system using Rake and  hooking it all up with a self created low-key
-template. These are no great feats of engineering, but good fun for a geek in
-any case. As an example, using wget and some scripting the build system will
-fail when this blog has any internal links that 404. You will find my code on my
-[Github page](https://github.com/ojilles/jilles.net/). (Also see the
-[colophon]({{site.baseurl}}/colophon.html).)
+[Jekyll](https://github.com/mojombo/jekyll), creating a fully automated build
+system using Rake and  hooking it all up with a self created low-key template.
+These are no great feats of engineering, but good fun for a geek in any case.
+As an example, using wget and some scripting the build system will fail when
+this blog has any internal links that 404. You will find my code on my [Github
+page](https://github.com/ojilles/jilles.net/). (Also see the
+[colophon]({{site.baseurl}}/colophon.html).) To ensure I can always reproduce
+the entire setup to blog, there is a [Vagrant
+file](https://github.com/ojilles/jilles.net/blob/master/Vagrantfile) including
+a [hackerish shell provisioning
+script](https://github.com/ojilles/jilles.net/blob/master/blog-install-ubuntu1204.sh).
 
 ### Storage
 
@@ -127,7 +131,7 @@ Having only scarcely recovered my CD-ROM backups from 2001 (needed to combine 6
 different disks to recombine the whole archive) I now store all this on my iMac
 and backup religiously:
 
-* Local backups go onto the TimeCapsule, easily accessible from my Mac
+* ~~Local backups go onto the TimeCapsule, easily accessible from my Mac~~
 * A subset of the data gets stored onto Dropbox, but only those files that don't
   require the highest privacy
 * Then there is [Crashplan](http://www.crashplan.com/) that is my primary off site backup
@@ -136,7 +140,16 @@ and backup religiously:
   Crashplan does the same but at these cost levels I don't care and I insulate
   myself also from Crashplan suddenly disappearing. (Arc is just software, and
   I'm betting Amazon AWS is going to be around for another 10 years). Hats off to
-  Arq for doing [a lof of testing](http://www.n8gray.org/code/backup-bouncer/).
+  Arq for doing [a lof of testing](http://www.n8gray.org/code/backup-bouncer/). 
+  As of 2014 I also do a backup from my machines to my local NAS with Arc.
+
+The NAS is a [Synology
+DS1512+](http://www.amazon.com/Synology-DiskStation-Diskless-Attached-DS1512/)
+filled with 4TB disks, giving plenty of space for all the pictures (both
+straight out of camera as well as edited), all raw material for home movies
+(think of the kids!) and the edited movies, etc. The Synology comes highly
+recommened (ease of use) and has been operating since January 2013 continuously
+without any issues.
 
 Perhaps it is a bit overdone, but I am now reasonably certain I can get to the
 binary/text files in the future. A bigger concern now becomes document
