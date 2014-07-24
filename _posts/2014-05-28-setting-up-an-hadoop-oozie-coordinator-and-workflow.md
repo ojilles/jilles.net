@@ -402,7 +402,8 @@ regexFilter=92\\.109\\.217\\.222
 We hand over the runtime configuration parameters such as which `jobTracker` and
 `nameNode` to use, as well as the location of the of the coordinator
 application. Also, note that the username is important, especially if you use
-Kerberos on your Hadoop cluster[^3].
+Kerberos on your Hadoop cluster[^3]. If you have a highly available jobTracker, use
+the logical name for it (I think that defaults to `logicaljt` for Cloudera).
 
 The warning about deleting files from HDFS is not there because of Oozie, but because
 of the driver script I wrote around this:
