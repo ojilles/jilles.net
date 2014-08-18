@@ -62,10 +62,11 @@ source. The problem arises from the fact that /after/ you agggregate the data,
 individual counters that get wrapped or stopped reporting are not visible
 anymore and the derivation will come the incorrect conclusions.)
 
-_UPDATE_ August 18th, 2014: recently another handy function became available
+_UPDATE August 18th, 2014_: Recently another handy function became available
 called `perSecond`, which as far as I can tell is a combination of
-`scaleToSeconds(nonNegativeDerivative(metric),1)`. See
-[perSecond](http://graphite.readthedocs.org/en/latest/functions.html?highlight=identity#graphite.render.functions.perSecond). 
+`scaleToSeconds(nonNegativeDerivative(metric),1)`. Ends up being super helpful
+if you have `*.count` metrics you would like to have expressed as per second.
+See [perSecond](http://graphite.readthedocs.org/en/latest/functions.html?highlight=identity#graphite.render.functions.perSecond). 
 
 [pic1]: {{site.baseurl}}/photos/graphite/pic1-raw-data.png
 [pic2]: {{site.baseurl}}/photos/graphite/pic2-nnderivative.png
