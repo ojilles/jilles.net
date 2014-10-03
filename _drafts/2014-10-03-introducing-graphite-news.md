@@ -24,11 +24,14 @@ to solve this (small) need, I wrote Graphite-News.
 
 Graphite-News keeps tabs on your Graphite server to see what new data sources
 become available. These get listed in reverse chronological order. If you click
-on one it will show the graph for your inspection. At the top of the image
-there are two buttons. The first one, `Edit`, will lead you straight to the
-Graphite Web UI so that you can play around with it. The second one named
-`Remove` can be enabled optionally (default is off) will remove the data source
-which can come in handy when you see bogus data sources.
+on one it will show the graph for your inspection. It also tries to do the
+right thing; for example it will show  a metric ending in `.count` by wrapping
+it in `perSecond()`.
+
+At the top of the image there are two buttons. The first one, `Edit`, will lead
+you straight to the Graphite Web UI so that you can play around with it. The
+second one named `Remove` can be enabled optionally (default is off) will
+remove the data source which can come in handy when you see bogus data sources.
 
 It is a simple first 0.0.1-alpha release to see if there is interest in a
 utility like this.
