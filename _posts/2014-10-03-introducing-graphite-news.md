@@ -3,10 +3,10 @@ title: Introducing Graphite-News
 # vim: set ts=2 sw=2 tw=120 ft=markdown et si :
 layout: post
 disable_comments: false
-# image:
-#   feature: Pencils_hb.jpg
-#   credits: http://en.wikipedia.org/wiki/Graphite#mediaviewer/File:Kimmirut_Graphite.jpg
-#   uicolor: light
+image:
+  feature: graphite.jpg
+  credits: http://sodere.com/profiles/blogs/apgmi-confirms-graphite-potential-in-ethiopia
+  uicolor: light
 categories:
 - Technology
 ---
