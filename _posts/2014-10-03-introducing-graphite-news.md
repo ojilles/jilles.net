@@ -15,7 +15,10 @@ Introduction
 ------------
 Once you get to a decent sized Graphite instance it starts to be harder to keep
 up with what *new* data is being added with the last application or service
-release that just went live. 
+release that just went live. With tens or hundreds of technologists working on
+dozens of services, Graphite-News hopes to fill up any communication gaps
+around new functionality that your organization launched or to keep your
+operational dashboards current.
 
 The current crop of Graphite dashboards
 ([Tessera](http://urbanairship.com/blog/2014/06/30/introducing-tessera-a-graphite-frontend),
@@ -44,7 +47,9 @@ can come in handy when you see bogus data sources or initial bogus data.
 
 It is a simple first [0.0.1-alpha
 release](https://github.com/ojilles/graphite-news/releases/tag/0.0.1-alpha) to
-see if there is interest in a utility like this.
+see if there is interest in a utility like this. Ultimately, this could very
+well just be a feature in one of the leading dashboards, in which case it was
+worth it.
 
 Installation
 ------------
