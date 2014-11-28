@@ -38,11 +38,13 @@ Requirements
 
 For installation purporses (development, etc) I recommend to run
 
+```
   $ git clone https://github.com/ojilles/jilles.net.git
   $ cd jilles.net
   $ vagrant up       # will kickoff provision, will take some time
   $ vagrant ssh
   $ cd /vagrant
+```
 
 Open your browser (on the host machine) to http://localhost:4000
 
