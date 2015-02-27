@@ -12,11 +12,12 @@ categories:
 ---
 
 Ever seeing the [Dtrace introduction
-video](https://www.youtube.com/watch?v=6chLw2aodYQ) done by Bryan Cantrill I
-loved his presentation style. Bryan is obviously a very smart technologist and
-overflowing with idea's (or at least, that is how he comes across to me).
-Watching that Dtrace video, it looks like his mind wants to say all these
-insightfull things, his ability to speak barely keeping up with the flow.
+video](https://www.youtube.com/watch?v=6chLw2aodYQ) done by [Bryan
+Cantrill](http://en.wikipedia.org/wiki/Bryan_Cantrill) I loved his presentation
+style. Bryan is obviously a very smart technologist and overflowing with idea's
+(or at least, that is how he comes across to me).  Watching that Dtrace video,
+it looks like his mind wants to say all these insightfull things, his ability
+to speak barely keeping up with the flow.
 
 So over the years I kept track of his presentations, and luckily Bryan has
 worked on some very inspirational software throughout the years as the CTO of
