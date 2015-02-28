@@ -14,9 +14,13 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # Every Vagrant virtual environment requires a box to build off of.
   config.vm.box = "ubuntu1204"
   #config.vm.box_url = "http://puppet-vagrant-boxes.puppetlabs.com/ubuntu-server-12042-x64-vbox4210-nocm.box"
+  #
+  # $ vagrant box add ubuntu1204 http://puppet-vagrant-boxes.puppetlabs.com/ubuntu-server-12042-x64-vbox4210-nocm.box
+  # $ vagrant box init ubuntu1204
+  #
 
   # Provision the VM with our little shell script
-  config.vm.provision "shell", path: "./jilles.net/blog-install-ubuntu1204.sh"
+  config.vm.provision "shell", path: "./blog-install-ubuntu1204.sh"
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
