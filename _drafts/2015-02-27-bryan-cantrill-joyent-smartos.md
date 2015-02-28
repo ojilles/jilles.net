@@ -47,16 +47,16 @@ noisy data center:
 
 {% youtube tDacjrSCeq4 %}
 
-### Scaling Organizations
+### Scaling Organisations (2013)
 
 As you will see in the other video's Bryan knows his technology stuff, but in
 this video he demonstrates acute awareness of a more organizational
 perspective. He deftly summarizes which elements are important for building a
-world class organization. 
+world class organisation. 
 
 {% youtube bGkVM1B5NuI %}
 
-### Introducing Manta
+### Introducing Manta (2014)
 
 [Manta](https://www.joyent.com/object-storage)  is an object storage technology
 from Joyent. Whereas technologies such as Hadoop are very large and complicated
@@ -75,7 +75,7 @@ SmartOS Zones/Manta:
 
 {% youtube S0mviKhVmBI %}
 
-### Running Linux Containers on illumos kernels (such as SmartOS)
+### Running Linux Containers on illumos kernels (such as SmartOS) (2014)
 
 This video includes an awesome history lesson on how we got to today (2015),
 and how wasteful some of what we are seeing today really is (such as Amazon
@@ -85,7 +85,7 @@ DTrace, Zones, etc.
 
 {% youtube TrfD3pC0VSs %}
 
-### Corporate Open Source Anti-Patterns
+### Corporate Open Source Anti-Patterns (2014)
 
 Ever contemplated open sourcing a piece of techonology from your corporation?
 This is a must watch video by Bryan that shows you which mistakes you should
