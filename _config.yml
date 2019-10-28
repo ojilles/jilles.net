@@ -46,7 +46,6 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
 future:      true
-highlighter: pygments    # try this still: https://gist.github.com/edwardhotchkiss/2005058
 markdown:    kramdown
 
 kramdown:
@@ -55,13 +54,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:        /:categories/:title
