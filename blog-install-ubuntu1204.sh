@@ -1,4 +1,18 @@
 #! /bin/bash
+
+# Here's what I did to run the site under MacOS straight up (as VirtualBox ran into permission hell)
+#brew update
+#brew install ruby
+#add the following line to .bash_profile: 'export PATH=/Users/joldenbeuving/.gem/ruby/2.6.0/bin:/usr/local/opt/ruby/bin:$PATH'
+#gem install --user-install bundler jekyll
+#echo "set modeline" > ~/.vimrc
+#sudo apachectl start
+#add virtual host info from below into httpd.conf, main document root thing. Scortched earth style.
+#brew install sass/sass/sass   #because the original SAS was depricated
+#gem install rake
+#rm Gemfile.lock
+#bundle install
+#remove last line Gemfile.lock (bundled with 2.0.2 or whatever), then run `jekyll` see if it works
 sudo apt-get -y update
 sudo apt-get -y install build-essential zlib1g-dev libssl-dev libreadline6-dev libyaml-dev git apache2 tidy
 cd /tmp
