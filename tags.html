@@ -5,7 +5,7 @@ title: Tags
 
 <h2>Tags</h2>
 <ul>
-{% for category in site.iterable.categories | sort %}
+{% assign sorted_categories = site.categories | sort %}{% for category in sorted_categories %}
   <li><a href="{{site.baseurl}}/tag/{{category}}/">{{ category }}</a></li>
 {% endfor %}
 </ul>

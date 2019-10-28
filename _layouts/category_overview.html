@@ -3,6 +3,6 @@ layout: category_any
 title: Overview of all categories
 # vim: set ts=2 sw=2 tw=80 ft=html et si :
 ---
-                <ul>{% for cat in page.category_list | sort %}
+                <ul>{% assign sorted_category_list = page.category_list | sort %}{% for cat in sorted_category_list %}
                     <li><a href="{{ site.url}}/categories/{{ cat | urlencode }}">{{ cat | camelcase }}</a></li>{% endfor %}
                 </ul>
