@@ -6,3 +6,4 @@ jilles_net.js
 .DS_Store
 .sass-cache
 assets/css/i.css
+.jekyll-cache/
