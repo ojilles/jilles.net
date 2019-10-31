@@ -10,11 +10,4 @@ order deny,allow
 deny from all
 </Limit>
 
-ErrorDocument 404 /404.html
-
-
-
-
-
-
-
+ErrorDocument 404 /404/index.html
