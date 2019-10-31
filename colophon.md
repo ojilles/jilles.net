@@ -7,7 +7,7 @@ This is my weblog and my little corner on the internet. [See here for more
 information about me]({{site.baseurl}}/about.html). I've build many big sites
 in my professional career, so I figured a small weblog should be possible. To
 be honest this is probably already incarnation number 4 ([see old
-version]({{site.baseurl}}/perma/2006/03/05/welcome-to-v3-blog/index.html)) of
+version]({{site.baseurl}}/perma/2006/03/05/welcome-to-v3-blog)) of
 the site. Hope you enjoy.
 
 ### General Setup
