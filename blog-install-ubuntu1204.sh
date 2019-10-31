@@ -13,6 +13,8 @@
 #rm Gemfile.lock
 #bundle install
 #remove last line Gemfile.lock (bundled with 2.0.2 or whatever), then run `jekyll` see if it works
+# enable rewrite rules in httpd2.conf on the mac, by uncommenting the following line, then restart httpd
+# LoadModule rewrite_module libexec/apache2/mod_rewrite.so
 sudo apt-get -y update
 sudo apt-get -y install build-essential zlib1g-dev libssl-dev libreadline6-dev libyaml-dev git apache2 tidy
 cd /tmp
