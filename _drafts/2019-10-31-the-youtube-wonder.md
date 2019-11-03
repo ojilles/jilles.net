@@ -57,7 +57,7 @@ I was star struck mashing up the Speedmaster and Alton.
 This channel is impressive because it showcases a massive mount of expertise on
 display, but those delicious finger licking production values are through the
 roof. Here is an example where a [Patek is being compared to a
-Speedmaster](https://youtu.be/ZT9rvtlk_yc); those close ups and lighting a
+Speedmaster](https://youtu.be/ZT9rvtlk_yc); those close ups and lighting are
 fantastic. Similarly here is their [deep dive into
 Chronographs](https://youtu.be/k1HhRPDmCgw).
 
