@@ -354,7 +354,22 @@ from Hallstat](https://www.youtube.com/watch?v=OAcXVIK9mjo). Or [how to
 remember your life (in pictures)](https://www.youtube.com/watch?v=GLy4VKeYxD4).
 
 ## Food
-### Binging with Babish
+### Binging with Babish (5.5M)
+Not very niche at millions subscribers, but well produced videos, mostly about
+cooking. The formula is basically a shot of the countertop with Babish in the
+frame from waist to just under his neck, recreating dishes from various
+television series and movies. Add in a sprinkling of dry humor and you have a
+winner. [Harry Potter special](https://www.youtube.com/watch?v=LXDAu8DnALw),
+[Spongebob Squarepants](https://www.youtube.com/watch?v=Rzd0mLf366I),
+[Frasier](https://www.youtube.com/watch?v=34j9_tbM7og),
+[Sopranos](https://www.youtube.com/watch?v=c_BGPTK3GQk) or [Breaking
+Bad](https://www.youtube.com/watch?v=ZY63ZSUdywY). 
+
+Next to that, he produces lots of other content such as [making a burrito with
+**every** type of meat](https://www.youtube.com/watch?v=Mf4wwXM2o_M), [making
+burgers](https://www.youtube.com/watch?v=nbCgfiqq-5c) or this special video
+about [him giving a Tesla to his
+brother](https://www.youtube.com/watch?v=N44XgSRE-gY).
 
 ### James Hoffman (112k)
 James embodies what the internet at large, and YouTube specifically, does best:
