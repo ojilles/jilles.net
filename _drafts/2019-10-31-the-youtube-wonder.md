@@ -213,7 +213,6 @@ Just like half the others on this list, just him, his passion, and someone with
 a 5 year old camera. And because it is right up my alley, this is more
 captivating that a national broadcast television series.
 
-
 ## Engineering
 ### Applied Science (584k)
 This channel is crazy. He drills thousands of holes in steel to test out the
@@ -317,7 +316,26 @@ travel by train](https://www.youtube.com/watch?v=xCu8NE9FE0c).
 
 
 ## Livestyle
-### Becky and Chris (163k) 
+### Becki and Chris (163k)
+Becki and Chris; to be honest, I had a hard time latching on to this couple's
+adventures. But somewhere down the line I got completely hooked. They are
+approachable, yet at the same time inspirational in their achievements (the
+house project, getting a helicopter license, owning a helicopter, [just
+building FPV drones](https://www.youtube.com/watch?v=yQPxocurvDs) next to what
+I assume is a busy job being a doctor). The color grading and sound design is
+on point on their channel. There are some tutorials such as [this one that
+explains how Becki produces a complete
+vlog](https://www.youtube.com/watch?v=BfSTMyFNl0s), but the best content is
+where [they interact with others](https://www.youtube.com/watch?v=i0N3wDR0n3s),
+or [travel for a bit](https://www.youtube.com/watch?v=lMeG6lN8l_A).
+
+Obviously, one should watch their bigger recently launched project about flying
+to Newfoundland ([preparation](https://www.youtube.com/watch?v=8UAe-tKLuiM),
+[Ch 2](https://www.youtube.com/watch?v=HGgMSgJ720I), [Ch
+3](https://www.youtube.com/watch?v=ZtZyzwZOSb8) and [Ch
+4](https://www.youtube.com/watch?v=hAB_-iMll_4). Check that sound design on the
+first 10 seconds of that last video!
+
 ### Iz Harris, Johnny Harris (114k, 149k)
 
 ## Food
