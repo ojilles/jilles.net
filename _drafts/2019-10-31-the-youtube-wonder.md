@@ -238,8 +238,10 @@ bicycle?](https://www.youtube.com/watch?v=MFzDaBzBlL0). [Flipping cats, landing
 on their feet](https://www.youtube.com/watch?v=RtWbpyjJqrU). [Laminar
 Flow](https://www.youtube.com/watch?v=y7Hyc3MRKno). [Popping over to NASA and
 their Moonrock collection](https://www.youtube.com/watch?v=QxZ_iPldGtI). [How
-did the Saturn V steer?](https://www.youtube.com/watch?v=dI-JW2UIAG0&t=) Just
-subscribe, already.
+did the Saturn V steer?](https://www.youtube.com/watch?v=dI-JW2UIAG0&t=) Or
+this one on the [physics of
+curling](https://www.youtube.com/watch?v=7CUojMQgDpM), which is rather
+unintuitive! Just subscribe, already.
 
 ## Space
 ### Scott Manley (979k)
