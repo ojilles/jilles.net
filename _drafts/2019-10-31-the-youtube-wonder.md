@@ -212,8 +212,15 @@ captivating that a national broadcast television series.
 
 
 ## Engineering
-### Applied Science (582k)
-[Scanning Electron Microscope](https://youtu.be/VdjYVF4a6iU)
+### Applied Science (584k)
+This channel is crazy. He drills thousands of holes in steel to test out the
+effects of [cryogenic hardening on drill
+bits](https://www.youtube.com/watch?v=hAxi5YXTjEk&t=183s) or how film cameras
+of old [managed to put the date on the film
+negative](https://www.youtube.com/watch?v=ezME4_xMMnk). But what completely
+showcased the depths this person is willing to go is his series in which he
+**constructs** a [Scanning Electron
+Microscope](https://youtu.be/VdjYVF4a6iU)... 
 
 ### SmarterEveryDay (7.4M)
 At over 7M subscribers Dustin obviously is not very niche anymore. But his
@@ -231,8 +238,6 @@ Flow](https://www.youtube.com/watch?v=y7Hyc3MRKno). [Popping over to NASA and
 their Moonrock collection](https://www.youtube.com/watch?v=QxZ_iPldGtI). [How
 did the Saturn V steer?](https://www.youtube.com/watch?v=dI-JW2UIAG0&t=) Just
 subscribe, already.
-
-### Applied Science (584k)
 
 ## Space
 ### Scott Manley (979k)
