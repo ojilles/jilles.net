@@ -95,7 +95,10 @@ Jay has done a fantastic job bringing Davinci Resolve knowledge to the
 community. Ranging from a simple [Basic callout with
 tracking](https://youtu.be/DjdYQCdmYdo) through [Glitchy
 Goodness](https://youtu.be/p_H8_iNcRsM) all the way to [building an odometer
-from the ground up](https://youtu.be/3jMkUlet4hE) in Davinci Fusion.
+from the ground up](https://youtu.be/3jMkUlet4hE) in Davinci Fusion. Or this
+example [of animating a trip across a
+map](https://www.youtube.com/watch?v=taz-Ucsj4vE): he does it from the ground
+up and the results always look fantastic and professional!
 
 ### Peter McKinnon (4M)
 Peter has build up a massive channel with over 4 million subscribers. Combines
