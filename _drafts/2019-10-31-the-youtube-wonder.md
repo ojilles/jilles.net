@@ -224,7 +224,7 @@ there, all the way to [meeting the President of the United
 states](https://www.youtube.com/watch?v=GpWQHFzrEqc) (#44 to be precise). The
 common theme across most videos is to find something non-obvious and explain
 that to the audience in simlpe and emperical ways. [What happens to your brain
-if switch the steering controls on a
+if one switches the steering controls on a
 bicycle?](https://www.youtube.com/watch?v=MFzDaBzBlL0). [Flipping cats, landing
 on their feet](https://www.youtube.com/watch?v=RtWbpyjJqrU). [Laminar
 Flow](https://www.youtube.com/watch?v=y7Hyc3MRKno). [Popping over to NASA and
