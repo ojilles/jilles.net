@@ -465,6 +465,10 @@ the complex/imaginary maths, this is just so cool! (Or [fast forward to
 5:40ish](https://youtu.be/0hiWbdc8QEk?t=349) and your mind will be blown
 **again**.)
 
+Lately, they have produced a fantastic series on [autonomous
+cars](https://www.youtube.com/watch?v=cExJbbwOfcw), that really builds up the
+understanding from the ground up.
+
 ### Marques Bownlee
 * Some Magic thing or two (Snap Casters, AJ Sacher ...)
 
