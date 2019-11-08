@@ -404,7 +404,22 @@ knife with an Edge-On-Up. The [knife review
 videos](https://youtu.be/ZNYhi6QwmzE) are well done but less interesting to me,
 personally.
 
-### Vsauce
+### Vsauce (15M)
+Micheal is another one of those people with an oversized appetite for
+curiousity. At 15M subscribers, chances are you are already familiar with this
+content. But if you are not familiar, I will start you off [with a classic How
+many things are there?](https://www.youtube.com/watch?v=C6eOcd06kdk), pass
+through [Which way is down](https://www.youtube.com/watch?v=Xc4xYacTu-E), have
+you [Count past infinity](https://www.youtube.com/watch?v=SrU9YDoXE88) and end
+up at some newer content like [Laws and
+Causes](https://www.youtube.com/watch?v=_WHRWLnVm_M). Michael ended up doing a
+thing (Brain Candy Live) with Adam Savage, which resulted in some really
+awesome geeking out videos like [this one about Micheals
+desk](https://www.youtube.com/watch?v=p-VDVI1GMZk) or on Adam's channel
+[building a Kendama](https://www.youtube.com/watch?v=i8GD33DsRw8). If we dial
+that up to eleven, [you would have to throw in wrist
+watches](https://www.youtube.com/watch?v=U5rlLL7cOtw).
+
 ### Standupmaths
 ### Captain Disillusion
 ### Tom Scott
