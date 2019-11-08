@@ -220,13 +220,77 @@ captivating that a national broadcast television series.
 
 ## Space
 ### Scott Manley (979k)
+I have a deep respect for Scott: he holds down some Silicon Valley job, but in
+the meantime he produces well researched videos twice per week on anything
+space and rocket related. The amount of knowledge he displays for a
+non-professional is truly inspiring. Simple camera setup, one man show, focus
+on the content. Scott never disappoints: [video on a space
+launch](https://www.youtube.com/watch?v=Xluxhnui5RQ), hundreds of videos about
+[Kerbal Space
+Program](https://www.youtube.com/watch?v=3_oMwlTDuiA&list=PLYu7z3I8tdEmjsTPxZMAsU8_d30ctM1Hm),
+[how gravity assists work](https://www.youtube.com/watch?v=16jr7WWGSxo) or
+[what is most confusion about
+orbits](https://www.youtube.com/watch?v=i5XPFjqPLik). Ever wondered if you can
+throw a tennis ball from the ISS Space Station back to earth? Which direction
+would you throw it? [Come and find
+out!](https://www.youtube.com/watch?v=i5XPFjqPLik)
+
 ### Everyday Astronaut (470k)
+_Bringing space down to earth for everyday people_. This is in the same space
+as Scott Manley, but slightly different. Lots of good material: [Interviewing
+Elon Musk on the Raptor engine](https://www.youtube.com/watch?v=LbH1ZDImaI8),
+[why SpaceX ditched light carbon fiber in favor of stainless
+steel](https://www.youtube.com/watch?v=LogE40_wR9k), or this video that helped
+me prep for an [actual rocket launch in
+Florida](https://www.youtube.com/watch?v=OBLeg0CvHek&).
+
 ### Sean Carrol (51k)
+Space, the universe is immensely interesting. Sean has this capability of
+explaining and reasoning about things in clear and engaging ways. He is not so
+much a YouTuber as others on the list here, even though he started a series
+called Mindscape. His best material is from conferences posted elsewhere:
+starting off with his Royal Institute [presentation on "Particle at the End of
+the Universe"](https://www.youtube.com/watch?v=RwdY7Eqyguo), the [Big Picture
+at Google Talks](https://www.youtube.com/watch?v=x26a-ztpQs8) or [The Origin of
+the Universe](https://www.youtube.com/watch?v=QFEeHC6UIdU).
 
 ## Photography
-### Nigel Danson (153k)
-### Joe Allam (192k)
 ### Sean Tucker (308k)
+Sean is just very, very impressive. Sean previously was a priest, and for
+better or worse he moved on into photography. What he does take forward with
+himself, is that he is super calm, composed, and reasons from a humanistic
+standpoint. It is a sea of calm in an ocean of screaming to get a microsecond
+of attention from The Algorithm. I think one of his best and impressive videos
+is [this documentary about three of his
+mentors](https://www.youtube.com/watch?v=F_c30pHg2Hs). However, basically 65+
+of his 72 videos are absolutely killing it: [Making it as an
+introvert](https://www.youtube.com/watch?v=x_5aoPUSudI), [The legacy of your
+Photography](https://www.youtube.com/watch?v=FBCxcCEoC7Y), [Good Light
+series](https://www.youtube.com/watch?v=KZgqnw_aWrw) or [Embrace the Darkness,
+a lesson for Light and Life](https://www.youtube.com/watch?v=lBAFTR2lScY). And
+this is what makes Sean so fantastic: you come in for the photography but stay
+for all the life lessons Sean has on offer.
+
+"**How can I be substantial if I do not cast a shadow? I must have a dark side
+also if I am to be whole.**" -- Carl Jung
+
+### Nigel Danson (153k)
+Nigel is a landscape photographer, and is sharing his best practices for free
+online in beautiful videos. Nigels comes across to me as very authentic. Some
+examples include [How to improve your Drone
+photography](https://www.youtube.com/watch?v=PntG8KEVjR8), [Printing your
+photos will improve them](https://www.youtube.com/watch?v=iEGLis6nGhA) or
+[photography passion](https://www.youtube.com/watch?v=F1JC9NlJYos).
+
+### Joe Allam (192k)
+Joe lives (or travels regularly) to Japan, is into photography and video, and
+shoots Fuji X100, checking all my boxes. This again is an example of something
+so specific that it could not exist on major television but through the
+democratization that YouTube enabled; here we are! Examples from Joe include
+[Tokyo street photography](https://www.youtube.com/watch?v=G8kMRq1kUXc), [Tokyo
+Train photography](https://www.youtube.com/watch?v=Y4BcJRivFJY) or [Cinematic
+travel by train](https://www.youtube.com/watch?v=xCu8NE9FE0c).
+
 
 ## Livestyle
 ### Becky and Chris (163k) 
