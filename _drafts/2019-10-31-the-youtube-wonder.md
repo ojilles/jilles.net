@@ -412,7 +412,11 @@ many things are there?](https://www.youtube.com/watch?v=C6eOcd06kdk), pass
 through [Which way is down](https://www.youtube.com/watch?v=Xc4xYacTu-E), have
 you [Count past infinity](https://www.youtube.com/watch?v=SrU9YDoXE88) and end
 up at some newer content like [Laws and
-Causes](https://www.youtube.com/watch?v=_WHRWLnVm_M). Michael ended up doing a
+Causes](https://www.youtube.com/watch?v=_WHRWLnVm_M). The most classic
+explanation in my opinion is [How the earth
+moves](https://www.youtube.com/watch?v=IJhgZBn-LHg) through the universe.
+
+Michael ended up doing a
 thing (Brain Candy Live) with Adam Savage, which resulted in some really
 awesome geeking out videos like [this one about Micheals
 desk](https://www.youtube.com/watch?v=p-VDVI1GMZk) or on Adam's channel
