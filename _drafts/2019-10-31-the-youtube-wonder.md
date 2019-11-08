@@ -224,12 +224,12 @@ there, all the way to [meeting the President of the United
 states](https://www.youtube.com/watch?v=GpWQHFzrEqc) (#44 to be precise). The
 common theme across most videos is to find something non-obvious and explain
 that to the audience in simlpe and emperical ways. [What happens to your brain
-if one switches the steering controls on a
+if one switchea the steering controls on a
 bicycle?](https://www.youtube.com/watch?v=MFzDaBzBlL0). [Flipping cats, landing
 on their feet](https://www.youtube.com/watch?v=RtWbpyjJqrU). [Laminar
 Flow](https://www.youtube.com/watch?v=y7Hyc3MRKno). [Popping over to NASA and
 their Moonrock collection](https://www.youtube.com/watch?v=QxZ_iPldGtI). [How
-did the Saturn V steer?](https://www.youtube.com/watch?v=dI-JW2UIAG0&t=). Just
+did the Saturn V steer?](https://www.youtube.com/watch?v=dI-JW2UIAG0&t=) Just
 subscribe, already.
 
 ### Applied Science (584k)
