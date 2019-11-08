@@ -333,10 +333,25 @@ Obviously, one should watch their bigger recently launched project about flying
 to Newfoundland ([preparation](https://www.youtube.com/watch?v=8UAe-tKLuiM),
 [Ch 2](https://www.youtube.com/watch?v=HGgMSgJ720I), [Ch
 3](https://www.youtube.com/watch?v=ZtZyzwZOSb8) and [Ch
-4](https://www.youtube.com/watch?v=hAB_-iMll_4). Check that sound design on the
+4](https://www.youtube.com/watch?v=hAB_-iMll_4)). Check that sound design on the
 first 10 seconds of that last video!
 
 ### Iz Harris, Johnny Harris (114k, 149k)
+Initially I had to cringe at Iz; we're totally different people with different
+perspectives. But then you start to enjoy their/her humor and somehow it gets a
+little addictive. Nowadays I just watch everything they plublish. Their
+repetoire spans travel videos
+([Amsterdam](https://www.youtube.com/watch?v=yNPgw5m5NdE),
+[Austria](https://www.youtube.com/watch?v=6qqNthWfkP4), [How the Dutch beat the
+Ocean](https://www.youtube.com/watch?v=XoEZvSl5Cg8)), a video I can only
+describe as a [#MeToo as video
+art](https://www.youtube.com/watch?v=yfQn-cDst-w), [being engaged after within
+3 weeks after meeting your
+partner](https://www.youtube.com/watch?v=_3SpXsvaSi8). Or just a video on [what
+actually matters in life](https://www.youtube.com/watch?v=kuC9TZv6mCs)? I love
+this well researched video from Johnny on the origins of this [one icon picture
+from Hallstat](https://www.youtube.com/watch?v=OAcXVIK9mjo). Or [how to
+remember your life (in pictures)](https://www.youtube.com/watch?v=GLy4VKeYxD4).
 
 ## Food
 ### Binging with Babish
