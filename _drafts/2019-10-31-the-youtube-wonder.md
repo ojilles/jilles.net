@@ -57,7 +57,7 @@ I was star struck mashing up the Speedmaster and Alton.
 This channel is impressive because it showcases a massive mount of expertise on
 display, but those delicious finger licking production values are through the
 roof. Here is an example where a [Patek is being compared to a
-Speedmaster](https://youtu.be/ZT9rvtlk_yc); those close ups and lighting a
+Speedmaster](https://youtu.be/ZT9rvtlk_yc); those close ups and lighting are
 fantastic. Similarly here is their [deep dive into
 Chronographs](https://youtu.be/k1HhRPDmCgw).
 
@@ -298,7 +298,21 @@ travel by train](https://www.youtube.com/watch?v=xCu8NE9FE0c).
 
 ## Food
 ### Binging with Babish
-### James Hoffman
+
+### James Hoffman (112k)
+James embodies what the internet at large, and YouTube specifically, does best:
+the overlap of decent to good production values, combined with a passion and
+expertise (coffee in this case) that leads to fantastic content that otherwise
+would not exist. Completely unrelated, James has this fantastic voice. I could
+listen to him for hours reading the classifieds section. James produces videos
+on a lot of aspects related to coffee: [coffee bars as a business](), how to's
+on [the ultimate V60 technique](https://youtu.be/AI4ynXzkSQo), the [best french
+press technique](https://youtu.be/st571DYYTR8), [do coffee
+tasting](https://youtu.be/cSEgP4VNynQ), [best blade grinder
+results](https://youtu.be/cSEgP4VNynQ), reviews on the [Niche Zero
+Grinder](https://youtu.be/FzOY2tHyZ4w), [Decent DE+ Espresso
+Machine](https://youtu.be/FzOY2tHyZ4w) or the [Sage Precision
+Brewer](https://youtu.be/HfkdkZRv6Mc).  Could keep going! 
 
 ## Misc
 ### Mumbo Jumbo
