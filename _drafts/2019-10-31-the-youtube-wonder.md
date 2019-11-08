@@ -12,7 +12,7 @@ categories:
 ---
 YouTube is just plain impressive. Launched in 2005, fourteen years later 300
 hours of video are uploaded every minute. It generates more than 4B$ of
-revenues annually. There are over 1 billion video views on mobile devices
+revenues annually[^1]. There are over 1 billion video views on mobile devices
 alone, every single day. This thing is an absolute beast. 
 
 But as everyone with a kid would know, it is also a gigantic cesspool. Leave
@@ -95,7 +95,7 @@ Jay has done a fantastic job bringing Davinci Resolve knowledge to the
 community. Ranging from a simple [Basic callout with
 tracking](https://youtu.be/DjdYQCdmYdo) through [Glitchy
 Goodness](https://youtu.be/p_H8_iNcRsM) all the way to [building an odometer
-from the ground up](https://youtu.be/3jMkUlet4hE) in Fusion.
+from the ground up](https://youtu.be/3jMkUlet4hE) in Davinci Fusion.
 
 ### Peter McKinnon (4M)
 Peter has build up a massive channel with over 4 million subscribers. Combines
@@ -133,7 +133,9 @@ else dissecting editing, and that quickly became This Guy Edits. Analyzing the
 editing in various movies, such as [The 7 Laws of Film
 Editing](https://youtu.be/i9mGSDluh9g), [Whiplash’s Brilliant
 Editing](https://youtu.be/3qYB1qLx4R8) or this one on [of a scene
-analysis](https://youtu.be/T-1VnWU-z5s).
+analysis](https://youtu.be/T-1VnWU-z5s). He's building an entire community
+around the world of editing, for example through Patreon you can watch him in
+real time edit a Hollywood feature film.
 
 ### Film Riot (1.5M)
 Film Riot is both a little more commercial and geared towards short films, but
@@ -145,7 +147,6 @@ editing](https://youtu.be/3sCIiIca6Cc), how to
 [film/shoot](https://youtu.be/GZztR8cS3kI), [tips and
 tricks](https://youtu.be/91sbBfTIHkc), interact with talent as well as [short
 movies](https://youtu.be/EHlxqe2HRRk) that they produced.
-
 
 ## Cycling
 ### DC Rainmaker (141k)
@@ -209,30 +210,27 @@ Just like half the others on this list, just him, his passion, and someone with
 a 5 year old camera. And because it is right up my alley, this is more
 captivating that a national broadcast television series.
 
-### Hedvig Wessel (5k)
-Hedvig and her friend 
-
 
 ## Engineering
-### Applied Science(582k)
+### Applied Science (582k)
 [Scanning Electron Microscope](https://youtu.be/VdjYVF4a6iU)
 
-### SmarterEveryDay
-### Applied Science
+### SmarterEveryDay (7.4M)
+### Applied Science (584k)
 
 ## Space
-### Scott Manley
-### Everyday Astronaut
-### Sean Carrol
+### Scott Manley (979k)
+### Everyday Astronaut (470k)
+### Sean Carrol (51k)
 
 ## Photography
-### Nigel Danson
-### Joe Allam
-### Sean Tucker
+### Nigel Danson (153k)
+### Joe Allam (192k)
+### Sean Tucker (308k)
 
-## Livestyle (?)
-### Becky and Chris
-### Iz Harris, Johnny Harris
+## Livestyle
+### Becky and Chris (163k) 
+### Iz Harris, Johnny Harris (114k, 149k)
 
 ## Food
 ### Binging with Babish
@@ -247,7 +245,7 @@ knife](https://youtu.be/KB87xoFm46g) are excellently done. The visual esthetic
 is very simple and the production values are great and I love some of the
 scientific approach (how he measures the sharpness of the knife with an
 Edge-On-Up. The [knife review videos](https://youtu.be/ZNYhi6QwmzE) are well
-done but less interesting to me personally.
+done but less interesting to me, personally.
 
 ### Vsauce
 ### Standupmaths
@@ -263,6 +261,8 @@ done but less interesting to me personally.
 
 
 
-https://merchdope.com/youtube-stats/
+[^1]: Some statistics are published
+[here](https://merchdope.com/youtube-stats/). No idea if these are accurate.
+The conclusion on the size of YouTube stays the same: absolutely ginormous.
 
 https://www.youtube.com/channel/UChGJGhZ9SOOHvBB0Y4DOO_w
