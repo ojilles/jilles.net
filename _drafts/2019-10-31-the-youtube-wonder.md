@@ -333,7 +333,7 @@ personally.
 ### CGP Grey
 ### Veritasium
 ### Welch Labs
-Welch Labs' Imaginary Numbers are Real video series was the first time I realized what YouTube had done. The content on display in this channel would otherwise not have been made, and even if it had, it would not be available to me. This [scene here shows the combo of using pen and paper and computer graphics](https://youtu.be/T647CGsuOVU?t=101) to such impressive ends. 
+Welch Labs' Imaginary Numbers are Real video series was the first time I realized what YouTube had done. The content on display in this channel would otherwise not have been made, and even if it had, it would not be available to me. This [scene here shows the combo of using pen and paper and computer graphics](https://youtu.be/T647CGsuOVU?t=101) to such impressive ends. But what completely blew me away is [the first 10 seconds of this video](https://www.youtube.com/watch?v=0hiWbdc8QEk) where they draw a graph on paper, record it with a camera, run it through some python code and project the resulting graph on the video **in real time**. Even if you do not understand the complex/imaginary maths, this is just so cool! (Or [fast forward to 5:40ish](https://youtu.be/0hiWbdc8QEk?t=349) and your mind will be blown **again**.)
 
 ### Marques Bownlee
 * Some Magic thing or two (Snap Casters, AJ Sacher ...)
