@@ -451,7 +451,7 @@ Internet](https://www.youtube.com/watch?v=GqfWm6z84t0&t).
 ### CGP Grey
 ### Veritasium
 
-### Welch Labs
+### Welch Labs (259k)
 Welch Labs' Imaginary Numbers are Real video series was the first time I
 realized what YouTube had done. The content on display in this channel would
 otherwise not have been made, and even if it had, it would not be available to
