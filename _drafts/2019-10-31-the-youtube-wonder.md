@@ -387,7 +387,13 @@ Machine](https://youtu.be/FzOY2tHyZ4w) or the [Sage Precision
 Brewer](https://youtu.be/HfkdkZRv6Mc).  Could keep going! 
 
 ## Misc
-### Mumbo Jumbo
+### Mumbo Jumbo (4.9M)
+Guy plays Minecraft, gets 5M subscribers. But through the multiplayer aspect,
+there is story and. I have not kept up for years now, but there was a time I
+would watch a Hermitcraft video every other day. The gateway drug for me was
+Mumbo Jumbo's channel, for me. We're now 1.950 video's later... If you want to
+dive in, go check out [episode 1 of the latest season of
+Hermitcraft](https://www.youtube.com/watch?v=MzYTf5u8yy8&list=PLFm1tTY1NA4fcZddqsijPEignAza8nF74).
 
 ### Burrfection (152k)
 Chuck full of information, the tutorials on [how to sharpen a
