@@ -7,3 +7,4 @@ jilles_net.js
 .sass-cache
 assets/css/i.css
 .jekyll-cache/
+*.swp

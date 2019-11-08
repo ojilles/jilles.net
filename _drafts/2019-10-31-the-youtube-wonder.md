@@ -216,6 +216,22 @@ captivating that a national broadcast television series.
 [Scanning Electron Microscope](https://youtu.be/VdjYVF4a6iU)
 
 ### SmarterEveryDay (7.4M)
+At over 7M subscribers Dustin obviously is not very niche anymore. But his
+story is one that is uniquely enabled by a video platform and ever growing
+audience. I think most of started off [with this video on chicken heads being
+stabilized](https://www.youtube.com/watch?v=_dPlkFPowCc) and it snowballed from
+there, all the way to [meeting the President of the United
+states](https://www.youtube.com/watch?v=GpWQHFzrEqc) (#44 to be precise). The
+common theme across most videos is to find something non-obvious and explain
+that to the audience in simlpe and emperical ways. [What happens to your brain
+if switch the steering controls on a
+bicycle?](https://www.youtube.com/watch?v=MFzDaBzBlL0). [Flipping cats, landing
+on their feet](https://www.youtube.com/watch?v=RtWbpyjJqrU). [Laminar
+Flow](https://www.youtube.com/watch?v=y7Hyc3MRKno). [Popping over to NASA and
+their Moonrock collection](https://www.youtube.com/watch?v=QxZ_iPldGtI). [How
+did the Saturn V steer?](https://www.youtube.com/watch?v=dI-JW2UIAG0&t=). Just
+subscribe, already.
+
 ### Applied Science (584k)
 
 ## Space
