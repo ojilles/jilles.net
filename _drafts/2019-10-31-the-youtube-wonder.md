@@ -321,9 +321,10 @@ Brewer](https://youtu.be/HfkdkZRv6Mc).  Could keep going!
 Chuck full of information, the tutorials on [how to sharpen a
 knife](https://youtu.be/KB87xoFm46g) are excellently done. The visual esthetic
 is very simple and the production values are great and I love some of the
-scientific approach (how he measures the sharpness of the knife with an
-Edge-On-Up. The [knife review videos](https://youtu.be/ZNYhi6QwmzE) are well
-done but less interesting to me, personally.
+scientific approach he uses. For example how he measures the sharpness of the
+knife with an Edge-On-Up. The [knife review
+videos](https://youtu.be/ZNYhi6QwmzE) are well done but less interesting to me,
+personally.
 
 ### Vsauce
 ### Standupmaths
@@ -332,6 +333,8 @@ done but less interesting to me, personally.
 ### CGP Grey
 ### Veritasium
 ### Welch Labs
+Welch Labs' Imaginary Numbers are Real video series was the first time I realized what YouTube had done. The content on display in this channel would otherwise not have been made, and even if it had, it would not be available to me. This [scene here shows the combo of using pen and paper and computer graphics](https://youtu.be/T647CGsuOVU?t=101) to such impressive ends. 
+
 ### Marques Bownlee
 * Some Magic thing or two (Snap Casters, AJ Sacher ...)
 
