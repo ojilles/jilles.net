@@ -424,13 +424,44 @@ desk](https://www.youtube.com/watch?v=p-VDVI1GMZk) or on Adam's channel
 that up to eleven, [you would have to throw in wrist
 watches](https://www.youtube.com/watch?v=U5rlLL7cOtw).
 
-### Standupmaths
-### Captain Disillusion
+### Standupmaths (493k)
+I stumbled across this weird [standup comedian act about Excel
+Spreadsheets](https://www.youtube.com/watch?v=UBX2QQHlQ_I) and instantly got
+hooked to Matt's channel, that he describes himself as: "I do mathematics and
+stand-up. Sometimes simultaneously. Occasionally while being filmed. (It's
+quite the Venn diagram.)". A quick sample of some his better videos: [Brick
+balancing challenge](https://www.youtube.com/watch?v=rXvaCy8PMdE), [New
+supermutations discovered](https://www.youtube.com/watch?v=_tpNuulTeSQ), [LA
+crime and null-island](https://www.youtube.com/watch?v=-g3iY0dMN_0) and
+[Euler's Disk](https://www.youtube.com/watch?v=8pSLffliCk0).
+
+### Captain Disillusion (1.7M)
+The Captain combines humor, memes and some science with a complete overdosis of
+computer generated graphics (mostly done with Blender). This [live
+performance](https://www.youtube.com/watch?v=1qSTcxt2t74) quite blew my mind.
+His more regular videos are fantastic as well: [Escherian
+Stairwell](https://www.youtube.com/watch?v=eLAwG7CjF_k), [Tape Measure meme
+debunked](https://www.youtube.com/watch?v=rsXQInxxzBU). Or another live
+performance titled [The unbelievable Loneliness of being Right on the
+Internet](https://www.youtube.com/watch?v=GqfWm6z84t0&t).
+
 ### Tom Scott
 ### CGP Grey
 ### Veritasium
+
 ### Welch Labs
-Welch Labs' Imaginary Numbers are Real video series was the first time I realized what YouTube had done. The content on display in this channel would otherwise not have been made, and even if it had, it would not be available to me. This [scene here shows the combo of using pen and paper and computer graphics](https://youtu.be/T647CGsuOVU?t=101) to such impressive ends. But what completely blew me away is [the first 10 seconds of this video](https://www.youtube.com/watch?v=0hiWbdc8QEk) where they draw a graph on paper, record it with a camera, run it through some python code and project the resulting graph on the video **in real time**. Even if you do not understand the complex/imaginary maths, this is just so cool! (Or [fast forward to 5:40ish](https://youtu.be/0hiWbdc8QEk?t=349) and your mind will be blown **again**.)
+Welch Labs' Imaginary Numbers are Real video series was the first time I
+realized what YouTube had done. The content on display in this channel would
+otherwise not have been made, and even if it had, it would not be available to
+me. This [scene here shows the combo of using pen and paper and computer
+graphics](https://youtu.be/T647CGsuOVU?t=101) to such impressive ends. But what
+completely blew me away is [the first 10 seconds of this
+video](https://www.youtube.com/watch?v=0hiWbdc8QEk) where they draw a graph on
+paper, record it with a camera, run it through some python code and project the
+resulting graph on the video **in real time**. Even if you do not understand
+the complex/imaginary maths, this is just so cool! (Or [fast forward to
+5:40ish](https://youtu.be/0hiWbdc8QEk?t=349) and your mind will be blown
+**again**.)
 
 ### Marques Bownlee
 * Some Magic thing or two (Snap Casters, AJ Sacher ...)
