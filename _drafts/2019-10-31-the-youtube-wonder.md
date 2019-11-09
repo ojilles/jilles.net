@@ -447,8 +447,27 @@ debunked](https://www.youtube.com/watch?v=rsXQInxxzBU). Or another live
 performance titled [The unbelievable Loneliness of being Right on the
 Internet](https://www.youtube.com/watch?v=GqfWm6z84t0&t).
 
-### Tom Scott
-### CGP Grey
+### Tom Scott (2M)
+Tom runs a channel that has a similar premise as SmarterEveryDay or Vsauce:
+find something obscure or niche, ask "why?" and go deep to uncover answers.
+[How the Netherlands stopped the
+wind](https://www.youtube.com/watch?v=jkdwK_74eEs), [How did the first telecoms
+scam work?](https://www.youtube.com/watch?v=cPeVsniB7b0), [The City of Golf
+Carts](https://www.youtube.com/watch?v=pcVGqtmd2wM) and [Britains Sound
+Barriers](https://www.youtube.com/watch?v=04F5osXK4vw) are nice starting points
+into Toms world.
+
+### CGP Grey (4M)
+Like Tom Scott, take something obscure, but now go ten times deeper and dial up
+the geekness to eleven. Then proceed to animate the whole movie. My gateway
+drug ended up being the [explanation of the difference between Holland and the
+Netherlands](https://www.youtube.com/watch?v=eE_IUPInEuc). I love the whole
+series about [London City](https://www.youtube.com/watch?v=LrObZ_HZZUc), or
+[how to become it's mayor](https://www.youtube.com/watch?v=z1ROpIKZe-c) (which
+will surprise you!).  [Las Vegas is not in Las Vegas, it's in
+Paradise!](https://www.youtube.com/watch?v=naDCCW5TSpU). Or, [The Rules for
+Rulers](https://www.youtube.com/watch?v=rStL7niR7gs).
+
 ### Veritasium
 
 ### Welch Labs (259k)
