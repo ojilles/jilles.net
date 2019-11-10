@@ -17,11 +17,12 @@ alone, every single day. This thing is an absolute beast.
 
 But as everyone with a kid would know, it is also a gigantic cesspool. Leave
 your 5 year old for 3 minutes unattended behind YouTube and she will be
-watching Ryans World or worse yet one of those candy unwrap videos, every
-single time. The amount of—and please pardon my French—crap on YouTube is
-astounding. The signal versus noise on that platform is through the floor, very
-much unlike something like Wikipedia. On both of these you can loose hours and
-hours by jumping from one to the other page or video. The difference is that on
+[watching Ryans World or worse yet one of those candy unwrap
+videos](https://www.youtube.com/channel/UChGJGhZ9SOOHvBB0Y4DOO_w), every single
+time. The amount of—and please pardon my French—crap on YouTube is astounding.
+The signal versus noise on that platform is through the floor, very much unlike
+something like Wikipedia. On both of these you can loose hours and hours by
+jumping from one to the other page or video. The difference is that on
 Wikipedia sometimes you end up on a decent article thats just not so
 interesting to you. On YouTube you end up on total garbage.
 
@@ -34,13 +35,17 @@ building a Scanning Electron Microscope from scratch? You pick the nation, the
 answer is still going to zero. But on YouTube you will [find a non-zero
 answer](https://youtu.be/VdjYVF4a6iU).
 
+Recently a well researched article was published that argues YouTube did to
+expertise what books did to knowledge. Well worth the read: [Expertise in the
+age of
+YouTube](https://behavioralscientist.org/expertise-in-the-age-of-youtube/).
+
 So the challenge then becomes one of discovery. Lots has been written about the
-(in)famous YouTube algorithm—I kid, of course more videos have been produced
-about that topic than written posts. I realized I curated a list of ±150
-channels that I admire, the jewels in that massive heap of candy-unwrap-videos.
-And I wanted to share some of those for discovery, hopefully someone finds
-these useful. (I do realize the number of people liking this exact set of
-videos is exactly one: me.)
+(in)famous YouTube algorithm—I kid, nothing was written, it's all videos of
+course. I realized I curated a list of ±150 channels that I admire, the jewels
+in that massive heap of candy-unwrap-videos.  And I wanted to share some of
+those for discovery, hopefully someone finds these useful. (I do realize the
+number of people liking this exact set of videos is exactly one: me.)
 
 The subscriber counts for each channel were taken November 2019.
 
@@ -468,7 +473,14 @@ will surprise you!).  [Las Vegas is not in Las Vegas, it's in
 Paradise!](https://www.youtube.com/watch?v=naDCCW5TSpU). Or, [The Rules for
 Rulers](https://www.youtube.com/watch?v=rStL7niR7gs).
 
-### Veritasium
+### Veritasium (6.5M)
+Turns out you can have many channels on YouTube that geek out completely over
+how and/or why things work. Perfect example from Veritasium is [the Bizarre
+Behaviour of Rotating Bodies](https://www.youtube.com/watch?v=1VPfZ_XzisU). Or
+this one on [Aerogels](https://www.youtube.com/watch?v=AeJ9q45PfD0). Or this
+one about [Black balls on a water
+reservoir](https://www.youtube.com/watch?v=uxPdPpi5W4o) that got a shoddy 39M+
+views. 
 
 ### Welch Labs (259k)
 Welch Labs' Imaginary Numbers are Real video series was the first time I
@@ -488,15 +500,6 @@ Lately, they have produced a fantastic series on [autonomous
 cars](https://www.youtube.com/watch?v=cExJbbwOfcw), that really builds up the
 understanding from the ground up.
 
-### Marques Bownlee
-* Some Magic thing or two (Snap Casters, AJ Sacher ...)
-
-
-
-
-
 [^1]: Some statistics are published
 [here](https://merchdope.com/youtube-stats/). No idea if these are accurate.
 The conclusion on the size of YouTube stays the same: absolutely ginormous.
-
-https://www.youtube.com/channel/UChGJGhZ9SOOHvBB0Y4DOO_w
