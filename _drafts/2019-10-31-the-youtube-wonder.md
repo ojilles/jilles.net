@@ -500,6 +500,4 @@ Lately, they have produced a fantastic series on [autonomous
 cars](https://www.youtube.com/watch?v=cExJbbwOfcw), that really builds up the
 understanding from the ground up.
 
-[^1]: Some statistics are published
-[here](https://merchdope.com/youtube-stats/). No idea if these are accurate.
-The conclusion on the size of YouTube stays the same: absolutely ginormous.
+[^1]: Some statistics are published [here](https://merchdope.com/youtube-stats/). No idea if these are accurate. The conclusion on the size of YouTube stays the same: absolutely ginormous.
