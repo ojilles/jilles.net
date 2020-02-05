@@ -21,7 +21,7 @@ your 5 year old for 3 minutes unattended behind YouTube and she will be
 videos](https://www.youtube.com/channel/UChGJGhZ9SOOHvBB0Y4DOO_w), every single
 time. The amount of—and please pardon my French—crap on YouTube is astounding.
 The signal versus noise on that platform is through the floor, very much unlike
-something like Wikipedia. On both of these you can loose hours and hours by
+something like Wikipedia. On both of these you can lose hours and hours by
 jumping from one to the other page or video. The difference is that on
 Wikipedia sometimes you end up on a decent article thats just not so
 interesting to you. On YouTube you end up on total garbage.
