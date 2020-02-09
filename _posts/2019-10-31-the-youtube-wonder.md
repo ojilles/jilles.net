@@ -174,30 +174,41 @@ of [success and failure](https://youtu.be/luU4pL8-Nd0), the perseverance and
 pain it takes to compete.
 
 ## Skiing
-### Deb Armstrong (8k)
-If you are wondering about how much value someone can generate  in videos by
+### Deb Armstrong (15k)
+If you are wondering about how much value someone can generate in videos by
 taking their absolute expertise (in this case a world class skier turned into
-gifted coach) and combine it with someone with a camera: look no further than
-Deb. Complete no nonsense coaching as well as no nonsense video’s: all straight
-to the point. The passion for the kids and the sport flows right off your
-screen. After a couple of these videos you are left wishing she is coaching
-**your kids**.
+gifted coach) and combine it with someone with a camera: [look no further than
+Deb](https://www.youtube.com/channel/UCGn7idUXVyGb8XZ_ADQ5cdg). Complete no
+nonsense coaching as well as no nonsense video’s: all straight to the point.
+The passion for the kids and the sport flows right off your screen. After a
+couple of these videos you are left wishing she is coaching **your kids**.
 
 ### Fantastisch Oostenrijk (2k)
-Sometimes the value is not in exceptional skill: the folks on this channel
-barely make it in front of the camera. Their skill instead is being in the
-**location** where I like to be. In my case the ski area of Westendorf, Austria.
-They shoot short videos on the weather and ski conditions, new lifts being
-build up, how it looks like in the summer. This idea does not scale well, but
-for me it is valuable.
+Sometimes the value is not in exceptional skill: [the folks on this
+channel](https://www.youtube.com/user/enmkromhout) barely make it in front of
+the camera. Their skill instead is being in the **location** where I like to
+be. In my case the ski area of Westendorf, Austria.  They shoot short videos on
+the weather and ski conditions, new lifts being build up, how it looks like in
+the summer. This idea does not scale well, but for me it is valuable. _UPDATE_:
+During my trip in december 2019, [I myself even made it on
+screen](https://youtu.be/pAFwmo_uSFo?t=104). 3 seconds of fame on the
+chairlift!
 
-### Mediocre Amateur (17k)
-This channel is so non-pretentious and self-deprecating. Basically a couple of
-middle-aged guys that are out for a little adventure: multi day trail runs in
-the summer and ski touring in the winter. The story telling is unassuming, but
-will drag you along non the less. It is just executed that well. And to be
-honest, this channel single handedly made me sign up for a day of ski touring
-in december 2019. Powerful stuff.
+### Mediocre Amateur (30k)
+[This channel is so non-pretentious and
+self-deprecating](https://www.youtube.com/channel/UC-04mJDJUYHEyE8JPIEa0-w).
+Basically a couple of middle-aged guys that are out for a little adventure:
+multi day trail runs in the summer and ski touring in the winter. The story
+telling is unassuming, but will drag you along non the less. It is just
+executed that well. And to be honest, this channel single handedly made me sign
+up for a day of ski touring in december 2019. Powerful stuff. Favorite episodes
+are the episodes about the poorly named [Terminal
+Cancer](https://www.youtube.com/watch?v=MfwjbiHkb-M) descent, [skiing the
+middle teton](https://www.youtube.com/watch?v=xo4s3D_5O78), [Mount
+Jefferson](https://www.youtube.com/watch?v=Nght_S7-LsQ). Don't forget the
+recently launched [b channel with gear
+reviews](https://www.youtube.com/channel/UCB2Wj_dIz5rtxf7oxdsrfYA/) called
+Extra Mediocre.
 
 ### Cody Townsend (20k)
 If you wondered “what if I take Mediocre Amateur and scale the ambition way the
