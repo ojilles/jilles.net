@@ -37,13 +37,13 @@
     ga('create', '{{ site.owner.ga-number }}', '{{ site.owner.ga-name }}');
     ga('send', 'pageview');
   </script>
-
+{% comment %}
   <!-- If they're out, get some from the cellar -->
   <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
   <!-- <script src="{{ site.url }}/assets/js/retina.min.js"></script> -->
 
   <script src="{{ site.url }}/assets/js/scripts.js"></script>
 
-
+{% endcomment %}
   </body>
 </html>
