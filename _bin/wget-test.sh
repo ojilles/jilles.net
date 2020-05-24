@@ -17,9 +17,12 @@
 TMPFILE=/tmp/jekyll-wget-test-NAqSS70N9ys4rhVuien
 rm $TMPFILE
 DOMAIN=`grep url _config.yml | grep -o "http.*" | head -n 1`
+[[ $DOMAIN =~ [0-9i.]+ ]]
+IP="${BASH_REMATCH[0]}"
 
 echo " * Wget-test, crawling: [$DOMAIN]"
-wget --spider --no-cache -nd -r --base=$DOMAIN -S --save-headers -p -D localhost -np $DOMAIN &>$TMPFILE 
+echo "wget --spider --no-cache -nd -r --base=$DOMAIN -S --save-headers -p -D $IP -np $DOMAIN" 
+      wget --spider --no-cache -nd -r --base=$DOMAIN -S --save-headers -p -D $IP -np $DOMAIN &>$TMPFILE 
 
 NOBROKENLINKS=`grep  "^http" $TMPFILE`
 NOBROKENLINKS=$?
