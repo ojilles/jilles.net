@@ -5,9 +5,12 @@ tagline:          Jilles' small corner on the internet about technology, skiing,
 description:      Jilles' personal website
 # Comment out url when working locally to resolve base urls correctly
 # Automatically changed by Rake dev/prod/etc
-url:              http://127.0.0.1
+url:              http://192.168.178.34
+host:             0.0.0.0
 prod_build:       false
 ### end of automatic changing configs
+
+safe: false
 
 # Owner/author information
 owner:
