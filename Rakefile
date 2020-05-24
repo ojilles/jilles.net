@@ -2,7 +2,7 @@ require 'rake/clean'
 require 'date'
 
 # no trailing slashes here!
-$local_url = "http://127.0.0.1"
+$local_url = "http://0.0.0.0"
 $production_url = "http://www.jilles.net"
 
 desc 'Development: Rebuild the site'
