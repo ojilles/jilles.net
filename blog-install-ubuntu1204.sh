@@ -123,12 +123,13 @@ echo 'Open up your browser to: http://localhost:4000'
 
 exit
 # new attempt on ubuntu (20200523)
-sudo apt install ruby-full build-essential zlib1g-dev tidy sass
+sudo apt install ruby-full build-essential zlib1g-dev tidy sass apache2
 
 gem install bundler jekyll
 bundle install
 bundle lock --update
 bundler
 #and run:
-bundle exec jekyll serve
+rake dev
+
 
