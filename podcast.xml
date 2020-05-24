@@ -30,7 +30,7 @@
     <item>
       <title>{{ post.slug | xml_escape }}: {{ post.title | xml_escape }}</title>
       <itunes:author>{{ site.owner.name }}</itunes:author>
-      <itunes:subtitle>{{ site.podcast.title | xml_escape }}: {{ post.slug | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
+      <itunes:subtitle>{{ post.summary | xml_escape }}</itunes:subtitle>
       <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
       <itunes:image href="{{ site.url }}/images/podcast.jpg" />
       <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
