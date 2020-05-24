@@ -29,6 +29,20 @@ tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
 
+podcast:
+  title:          "podcast-title"
+  subtitle:       "podcast-subtitle"
+  link:           "podcast-link"
+  description:    "podcast-description"
+  language:       "podcast-language"
+
+collections:
+  episodes:
+    output: true
+    # not all front matter is available, but slug is
+    permalink: /podcast/:slug/
+    sort_by: slug
+
 # Links to include in top navigation
 # For external links add external: true
 links:
@@ -48,6 +62,7 @@ links:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
+startyear:   2003
 future:      true
 markdown:    kramdown
 

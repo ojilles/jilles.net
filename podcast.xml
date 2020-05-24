@@ -1,0 +1,46 @@
+---
+# vim: set ts=2 sw=2 ft=xml et si :
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
+  <channel>
+    <atom:link href="{{ site.url }}/podcast.xml" rel="self" type="application/rss+xml" />
+    <title>{{ site.podcast.title }}</title>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <language>{{ site.podcast.language }}</language>
+    <copyright>&#xA9; {{ site.startyear }}-{{ site.time | date: "%Y" }} {{ site.owner.name }}</copyright>
+    <itunes:subtitle>{{ site.podcast.subtitle | xml_escape }}</itunes:subtitle>
+    <itunes:author>{{ site.owner.name }}</itunes:author>
+    <itunes:summary>{{ site.podcast.description | xml_escape }}</itunes:summary>
+    <description>{{ site.podcast.description | xml_escape }}</description>
+    <webMaster>{{ site.owner.email }} ({{ site.owner.name}})</webMaster>
+    <itunes:owner>
+      <itunes:name>{{ site.owner.name }}</itunes:name>
+      <itunes:email>{{ site.owner.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/podcast.jpg" />{% comment %}NOTE: Artwork must be a minimum size of 1400 x 1400 pixels and a maximum size of 3000 x 3000 pixels, in JPEG or PNG format, 72 dpi, with appropriate file extensions (.jpg, .png), and in the RGB colorspace. These requirements are different from the standard RSS image tag specifications. See: https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS#itunesimage {% endcomment %}
+    <itunes:category text="Technology" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Careers" />
+      </itunes:category>
+    <itunes:explicit>no</itunes:explicit>{%  assign sorted = site.episodes | sort:"slug" | reverse %}{% for post in sorted %}
+    <item>
+      <title>{{ post.slug | xml_escape }}: {{ post.title | xml_escape }}</title>
+      <itunes:author>{{ site.owner.name }}</itunes:author>
+      <itunes:subtitle>{{ site.podcast.title | xml_escape }}: {{ post.slug | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
+      <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
+      <itunes:image href="{{ site.url }}/images/podcast.jpg" />
+      <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/podcast/{{ post.slug | xml_escape }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <itunes:duration>{{ post.duration }}</itunes:duration>
+      <itunes:explicit>{{ post.explicit }}</itunes:explicit>
+      <description>Show Notes Available at {{ site.url }}{{ site.baseurl }}{{ post.url }}. {{ post.summary | xml_escape }} {{ post.description | xml_escape }}</description>
+      <itunes:keywords>{{ post.keywords }}</itunes:keywords>
+      <itunes:block>{{ post.block }}</itunes:block>
+    </item>{% endfor %}
+  </channel>
+</rss>
