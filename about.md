@@ -25,14 +25,12 @@ This is the weblog of Jilles Oldenbeuving. I have build many big sites in my pro
  * [Pinboard]
  * [Delicious]
     (old, switched to [Pinboard])
- * [Shelfari]
  * [Youtube]
  * My public GPG key and [Keybase.io profile](https://keybase.io/ojilles/)
 
 ### Misc. other sites
  * [Jilles.net]
  * [Hackernews]
- * [Getsatisfaction]
  * [Stackoverflow]
  * [Github](https://github.com/ojilles)
 
