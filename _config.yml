@@ -30,9 +30,9 @@ tools:
   software:       "git"
 
 podcast:
-  title:          "podcast-title"
+  title:          "Classifieds Technology Podcast"
   subtitle:       "podcast-subtitle"
-  link:           "podcast-link"
+  link:           "podcast"
   description:    "podcast-description"
   language:       "podcast-language"
 
