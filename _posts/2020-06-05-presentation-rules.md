@@ -15,9 +15,6 @@ differing nature. I also spend a reasonable amount of time learning, and
 relearning my own mistakes in crafting presentations. This post attempts to
 collate these together to remind myself and potentially share with others.
 
-Any and all feedback welcomed! Email me a note or send a pull request on this
-article.
-
 ### Premise
 1. 80%+ of all failures in an organization larger than 1.000 people is
 attributable to failed communication
