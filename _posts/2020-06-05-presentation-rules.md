@@ -134,8 +134,8 @@ fantastic resource for this. A couple of quick relevant ones are:
  * Treat headings as the structure of your argument, not your document
 
 Thank you for making it this far. If you did, you almost certainly thought of
-something not covered here. Please leave a comment below or send me a pull
-request!
+something not covered here. Please leave a comment below or send me a [pull
+request](https://github.com/ojilles/jilles.net/blob/master/_posts/2020-06-05-presentation-rules.md)!
 
 ### Footnotes
 [^1]: I believe the structure was first created, or popularized by McKinsey, who depending on your views, have a core business of turning slides into billion dollar revenue streams. [This link does a good introduction of the concepts](https://speakingsherpa.com/how-to-tell-a-business-story-using-the-mckinsey-situation-complication-resolution-scr-framework/), takes you step by step and references actual presentations as examples.
