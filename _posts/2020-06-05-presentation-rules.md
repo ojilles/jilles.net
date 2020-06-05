@@ -133,6 +133,10 @@ fantastic resource for this. A couple of quick relevant ones are:
  * The question marke is underused, the exclamation point overused [^3]
  * Treat headings as the structure of your argument, not your document
 
+Thank you for making it this far. If you did, you almost certainly thought of
+something not covered here. Please leave a comment below or send me a pull
+request!
+
 ### Footnotes
 [^1]: I believe the structure was first created, or popularized by McKinsey, who depending on your views, have a core business of turning slides into billion dollar revenue streams. [This link does a good introduction of the concepts](https://speakingsherpa.com/how-to-tell-a-business-story-using-the-mckinsey-situation-complication-resolution-scr-framework/), takes you step by step and references actual presentations as examples.
 [^2]: The defacto standard work in this space is [Tufte](https://www.edwardtufte.com/tufte/books_vdqi)
