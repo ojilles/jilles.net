@@ -87,7 +87,7 @@ do not?) then make sure attribute or source the data point. The more authorative
 
 10. **Graphs**
 I feel this requires it's own article. In fact entire books [^2] have been written on
-the topic. Instead, I will attempt to quickly run down the top 10 points
+the topic. Instead, I will attempt to quickly run down the top points
 * **All axis are labeled**. What do they represent, and include a unit
 * **No Pie charts**. Invariably a time series chart will lead to better comparison
   of the data and will give the audience a sense of temporal change that Pie
