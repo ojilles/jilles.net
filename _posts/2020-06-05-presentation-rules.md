@@ -105,10 +105,11 @@ disrespectful to them. So simply do not include any wall of text. Rule #2 is
 here to help you with that.
 
 12. **Homework** 
-Linked to #11: at times I see people include slides like this to make the point
-that they did a lot of homework in this area. If you are that person, ask
-yourself why the audience would assume you did not do your homework. You are
-likely operating under baseless assumptions.
+Do not try to convince your audience that you have done all your homework before
+presenting the results. This is not your main message, and it will distract.
+When I see this happen it often shows up as #11 "Wall of text".  If you are that
+person, ask yourself why the audience would assume you did not do your homework.
+You are likely operating under baseless assumptions.
 
 13. **Artifacts**
 Some people insist on sending the slides ahead of time. I think that depends on
