@@ -50,7 +50,7 @@ also crossed the chasm from author to designer, I hope you know what you are
 doing.)
 
 5. **Ensure your slide has a take-away**.
-The slide presents thoughts, data, or whatever; too often the conlcusion or the
+The slide presents thoughts, data, or whatever; too often the conclusion or the
 action point of it is left to the reader or as voice over. Do not do this; spell
 it out for your audience. They did not sign up for a Sherlock Holmes role-play.
 
