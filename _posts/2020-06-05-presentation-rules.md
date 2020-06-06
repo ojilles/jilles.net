@@ -10,10 +10,10 @@ image:
 categories:
 - Business
 ---
-Invariably my work requires to create and consume various presentations of
-differing nature. I also spend a reasonable amount of time learning, and
-relearning my own mistakes in crafting presentations. This post attempts to
-collate these together to remind myself and potentially share with others.
+I watch and write a lot of presentations at work.  I also spend a reasonable
+amount of time learning, and relearning from my own mistakes in crafting
+presentations. This post attempts to collate these together to remind myself and
+potentially share with others.
 
 ### Premise
 1. 80%+ of all failures in an organization larger than 1.000 people is
