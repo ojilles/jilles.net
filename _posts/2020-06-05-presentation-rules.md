@@ -127,7 +127,7 @@ fantastic resource for this. A couple of quick relevant ones are:
  * Do not use bold and italics together. 
  * Do not underline at all.
  * Consider font size, line spacing, line length at first
- * The question marke is underused, the exclamation point overused [^3]
+ * The question mark is underused, the exclamation point overused [^3]
  * Treat headings as the structure of your argument, not your document
 
 Thank you for making it this far. If you did, you almost certainly thought of
