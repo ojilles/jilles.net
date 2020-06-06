@@ -1,5 +1,5 @@
 ---
-title: Recent TED rundown, ideas worth spreading
+title: Recent TED rundown
 # vim: set ts=2 sw=2 tw=120 ft=markdown et si :
 layout: post
 disable_comments: false

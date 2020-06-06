@@ -1,6 +1,6 @@
 ---
 title: Bryan Cantrill Videos
-# vim: set ts=2 sw=2 tw=120 ft=markdown et si :
+# vim: set ts=2 sw=2 tw=80 ft=markdown et si :
 layout: post
 disable_comments: false
 image:
@@ -16,13 +16,13 @@ video](https://www.youtube.com/watch?v=6chLw2aodYQ) done by [Bryan
 Cantrill](http://en.wikipedia.org/wiki/Bryan_Cantrill) I loved his presentation
 style. Bryan is obviously a very smart technologist and overflowing with idea's
 (or at least, that is how he comes across to me).  Watching that DTrace video,
-it looks like his mind wants to say all these insightfull things, his ability
+it looks like his mind wants to say all these insightful things, his ability
 to speak barely keeping up with the flow.
 
 So over the years I kept track of his presentations, and luckily Bryan has
 worked on some very inspirational software throughout the years as the CTO of
 [Joyent.com](http://www.joyent.com). What astonishes me is that so few people
-have seen either the work Joyent has done (SmartOS, SDC, Mantra, etc) or Bryans
+have seen either the work Joyent has done (SmartOS, SDC, Mantra, etc) or Bryan's
 presentations. Apropos of conversations I have with others in the field, I
 usually end up sending them a link to one or two videos (whatever feels
 relevant). This happened now so often that this post subjectively aggregates
@@ -62,10 +62,10 @@ world class organisation.
 from Joyent. Whereas technologies such as Hadoop are very large and complicated
 *frameworks*, Manta adheres to the Unix philosophy (small programs that do one
 thing well, then compose them together to solve the problem at hand). Manta
-allows you to use the Unix/Linux toolset you know already. Thanks to SmartOS
+allows you to use the Unix/Linux tool set you know already. Thanks to SmartOS
 Zones, your scripts will run on the hardware where the data is located
 (bringing compute to your Big Data is much easier than vice versa). Thanks to
-ZFS you can get exactly the dat you need, and once you are done it will be
+ZFS you can get exactly the data you need, and once you are done it will be
 restored to the point before you started. Very impressive.
 
 {% youtube 79fvDDPaIoY %}
@@ -87,18 +87,18 @@ DTrace, Zones, etc.
 
 ### Corporate Open Source Anti-Patterns (2014)
 
-Ever contemplated open sourcing a piece of techonology from your corporation?
+Ever contemplated open sourcing a piece of technology from your corporation?
 This is a must watch video by Bryan that shows you which mistakes you should
-avoid making. That is to say, there is no known rule for making it succesfull
+avoid making. That is to say, there is no known rule for making it successful
 but quite a few that will make your efforts doomed.
 
 {% youtube Pm8P4oCIY3g %}
 
 ### Conclusion
 
-Thats the current list. If you have more awesome videos done by Bryan, fire
+That is the current list. If you have more awesome videos done by Bryan, fire
 away in the comments please!
 
-(I am still contemplating writing up key take aways for each video, but that
-will require quite some more time. If you have done that for one of the video's
-linked above, I will happily incorporate them into this post.)
+(I am still contemplating writing up key take home messages for each video, but
+that will require quite some more time.  If you have done that for one of the
+video's linked above, I will happily incorporate them into this post.)
