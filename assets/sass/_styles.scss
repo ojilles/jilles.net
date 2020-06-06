@@ -31,7 +31,8 @@ a, a:visited, a:active {
 }
 
 a:hover {
-    color: $accent;
+    color: $link;
+    text-decoration: underline;
     @include transit(all,.25s, ease-in-out)
 }
 
