@@ -3,10 +3,6 @@ title: Presentation Rules
 # vim: set ts=2 sw=2 tw=80 ft=markdown et si :
 layout: post
 disable_comments: false
-image:
-  feature: handshake.jpg
-  credits: https://www.flickr.com/photos/vuhung/14565350736
-  uicolor: light
 categories:
 - Business
 ---
@@ -22,7 +18,7 @@ attributable to failed communication
 2. Presentations, either as verb or noun, are a substantial part of
 communications in a business
 
-3. Ergo, improving your presentations will improve effectiveness of your
+3. Thus improving your presentations will improve effectiveness of your
 organization
 
 ### Rules
