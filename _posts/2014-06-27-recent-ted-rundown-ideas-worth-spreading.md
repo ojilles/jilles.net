@@ -20,7 +20,7 @@ Having small children does wonders to your imagination. Many times I told my
 partner: "Can you believe she figured that out?". Even babies' minds makes
 you wonder. Turns out Alison Gopnik did a presentation about that. My biggest
 take away is that young children learn by trying all possible inputs,
-irregardless of expected output. This also explains to me why, after my
+regardless of expected output. This also explains to me why, after my
 daughter has learned something she will try to accomplish the same thing in
 different ways. This leads to lots of parents exclaiming "No, don't do it like
 that, you already know how to do that!".
