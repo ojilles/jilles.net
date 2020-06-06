@@ -44,13 +44,13 @@ neither are **the actual message you want to get across**.
 
 4. **Stick with your organizations template**.
 The challenge when you deviate from the default template is that it will become
-cute, a timesink or a distraction for the reader. So stick with the default.
+cute, a time sink or a distraction for the reader. So stick with the default.
 Don't like the default? Then create a new one as a separate activity. (You now
 also crossed the chasm from author to designer, I hope you know what you are
 doing.)
 
 5. **Ensure your slide has a take-away**.
-The slide presents thoughts, data, or whatever; too often the conlcusion or the
+The slide presents thoughts, data, or whatever; too often the conclusion or the
 action point of it is left to the reader or as voice over. Do not do this; spell
 it out for your audience. They did not sign up for a Sherlock Holmes role-play.
 
@@ -82,8 +82,8 @@ costs 1 million? Is that Euro's or Dollars? Almost no costs I encounter are
 static, in other words they are likely better expressed as a rate of costs:
 "This option will cost 1 million dollars per year, starting April 1st".
 Secondly, if you have a lot riding on the data point (and why include it if you
-do not?) then make sure attribute or source the data point. The more authorative
- you can make this, the better.
+do not?) then make sure attribute or source the data point. The more
+  authoritative you can make this, the better.
 
 10. **Graphs**
 I feel this requires it's own article. In fact entire books [^2] have been written on
@@ -105,16 +105,16 @@ disrespectful to them. So simply do not include any wall of text. Rule #2 is
 here to help you with that.
 
 12. **Homework** 
-Linked to #11: at times I see people include slides like this to arm-wavey make
-the point that they did a lot of homework in this area. If you are that person,
-ask yourself why the audience would assume you did not do your homework. You
-are likely operating under baseless assumptions.
+Linked to #11: at times I see people include slides like this to make the point
+that they did a lot of homework in this area. If you are that person, ask
+yourself why the audience would assume you did not do your homework. You are
+likely operating under baseless assumptions.
 
 13. **Artifacts**
 Some people insist on sending the slides ahead of time. I think that depends on
 the situation. However, I insist on sending the slides after the fact. Do not
 waste time by forcing your audience to ask for it, take half correct notes or
-worse interrupt your presentation over Zoom with a photocamera sound as they are
+worse interrupt your presentation over Zoom with a photo camera sound as they are
 taking screenshots. Send the deck to them afterwards, thanking them for their
 time.
 
@@ -127,7 +127,7 @@ fantastic resource for this. A couple of quick relevant ones are:
  * Do not use bold and italics together. 
  * Do not underline at all.
  * Consider font size, line spacing, line length at first
- * The question marke is underused, the exclamation point overused [^3]
+ * The question mark is underused, the exclamation point overused [^3]
  * Treat headings as the structure of your argument, not your document
 
 Thank you for making it this far. If you did, you almost certainly thought of
@@ -136,5 +136,5 @@ request](https://github.com/ojilles/jilles.net/blob/master/_posts/2020-06-05-pre
 
 ### Footnotes
 [^1]: I believe the structure was first created, or popularized by McKinsey, who depending on your views, have a core business of turning slides into billion dollar revenue streams. [This link does a good introduction of the concepts](https://speakingsherpa.com/how-to-tell-a-business-story-using-the-mckinsey-situation-complication-resolution-scr-framework/), takes you step by step and references actual presentations as examples.
-[^2]: The defacto standard work in this space is [Tufte](https://www.edwardtufte.com/tufte/books_vdqi)
+[^2]: The de facto standard work in this space is [Tufte](https://www.edwardtufte.com/tufte/books_vdqi)
 [^3]: This felt as a surprising revelation once I started paying attention to it. See [here for more info](https://practicaltypography.com/question-marks-and-exclamation-points.html)
