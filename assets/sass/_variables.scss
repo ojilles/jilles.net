@@ -20,7 +20,7 @@ $grey-light:  #d9d9d9;
 $hilite: #fffbd7;
 
 /* Accent Colors */
-$link: #44f;
+$link: #1a0dab;
 $footerlink: #8AB9D1;
 $accent: #24536B;
 
@@ -28,9 +28,16 @@ $accent: #24536B;
 /* Typography
    ========================================================================== */
 
+/* header hgroup site-header */
 $sans: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+
 $sansdate: "Helvetica Neue", "Arial", sans-serif;
-$serif: "Calendas Plus", "Hoefler Text", "Georgia", serif;
+
+/* hopefully just h1..5 in text, besides the header */
+$headers: "Iowan Old Style", "Hoefler Text", "Georgia";
+
+/* h1..5 text */
+$serif: "Helvetica Neue", "Georgia", serif;
 
    
    
@@ -51,7 +58,7 @@ $fs6:12px;
 
 // Line Height
 
-$lh: 33px;
+$lh: 24px;
 $lhsmall: 24px;
 $lhh: $lh * 1/3;
 

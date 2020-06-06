@@ -24,13 +24,6 @@ p {
     margin-bottom: $lh/3;
 }
 
-// Making Calendas work
-// Calendas_Plus_Bold.otf  Calendas_Plus_Italic.otf  Calendas_Plus.otf
-@font-face {
-font-family: 'Calendas Plus';
-src: url("/assets/fonts/Calendas_Plus.otf") format("opentype");
-}
-
 body { 
   /*text-rendering:optimizeLegibility;*/
   -moz-font-feature-settings:"frac" 1, "kern" 1, "clig" 1, "swsh" 1; 

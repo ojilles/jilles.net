@@ -14,7 +14,7 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-    font-family: $serif;
+    font-family: $headers;
 }
 
 iframe {
@@ -31,7 +31,8 @@ a, a:visited, a:active {
 }
 
 a:hover {
-    color: $accent;
+    color: $link;
+    text-decoration: underline;
     @include transit(all,.25s, ease-in-out)
 }
 
@@ -474,7 +475,7 @@ header.site-header nav {
     }
     
     h1 {
-        font-style: italic;
+        font-weight: 700;
     }
     
     h1, h2, h3, h4, h5 {
@@ -512,6 +513,7 @@ header.site-header nav {
     ul {
         display: block;
         margin-bottom: $lh;
+        margin-top: $lh/2;
         list-style: disc;
         list-style-type: disc;
         lh h1, lh h2, lh h3, lh h4, lh h5 {
