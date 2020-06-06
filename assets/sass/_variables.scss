@@ -28,9 +28,16 @@ $accent: #24536B;
 /* Typography
    ========================================================================== */
 
+/* header hgroup site-header */
 $sans: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+
 $sansdate: "Helvetica Neue", "Arial", sans-serif;
-$serif: "Calendas Plus", "Hoefler Text", "Georgia", serif;
+
+/* hopefully just h1..5 in text, besides the header */
+$headers: "Iowan Old Style", "Hoefler Text", "Georgia";
+
+/* h1..5 text */
+$serif: "Helvetica Neue", "Georgia", serif;
 
    
    
