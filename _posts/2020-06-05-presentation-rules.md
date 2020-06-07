@@ -15,7 +15,7 @@ For this post I am assuming a presentation is chosen (for you). There are other
 approaches, such as memo's that may be more suited.
 
 ### Premise
-1. 80%+ of all failures in an organization larger than 1.000 people is
+1. 80%+ of all failures in an organization larger than 1.000 people are
 attributable to failed communication
 
 2. Presentations, either as verb or noun, are a substantial part of
@@ -26,33 +26,33 @@ organization
 
 ### Rules
 1. **No Builds**.
-No presentation needs builds, animations or transitions; no exceptions. In
+No presentation needs builds (exposing one bullet point of a list at a time), animations or transitions; no exceptions. In
 business this will invariably go wrong. Your audience will ask to go back a
 slide or two, you end up half way in a build, or worse, with an empty slide.
 None of this is needed. 
 
 2. **Minimum font size 24pt**.
 Yes, not all the words in your mind will fit on that one page. Yes, that
-constraint will actually help you creating a clearer narrative. If it does not
-fit, you are not done clarifying your concise messaging. 
+constraint will actually help you create a clearer narrative. If it does not
+fit, you are not done clarifying your messaging consisely.
 
 3. **Use fewer words**.
 Rule number 2 is trying to help you here. But for each iteration I set myself
-the goal of removing half the words. This is hard, as I feel you need to leave
+the goal of removing half the words. This is hard, as I feel I need to leave
 out important details and context. There is a place for details and context, but
-neither are **the actual message you want to get across**.
+the most important is **the actual message you want to get across**.
 
-4. **Stick with your organizations template**.
+4. **Stick with your organization's template**.
 The challenge when you deviate from the default template is that it will become
 cute, a time sink or a distraction for the reader. So stick with the default.
 Don't like the default? Then create a new one as a separate activity. (You now
-also crossed the chasm from author to designer, I hope you know what you are
+have crossed the chasm from author to designer, I hope you know what you are
 doing.)
 
 5. **Ensure your slide has a take-away**.
 The slide presents thoughts, data, or whatever; too often the conclusion or the
 action point of it is left to the reader or as voice over. Do not do this; spell
-it out for your audience. They did not sign up for a Sherlock Holmes role-play.
+out the take-away for your audience. They did not sign up for a Sherlock Holmes role-play.
 
 6. **Executive Summary**.
 Have one. No, have two: the slide after your title slide should be your
@@ -66,7 +66,7 @@ Stories can be told in many different ways. One way that works well in most
 situations is to divide the story arc up in Situation, Complication and
 Solution. Leaving one of these three components out will seriously hamper your
 ability to convince your audience, just like it is hard to ascend a staircase
-with stairs missing. Yes, this is advice is coming from Professional Career
+with stairs missing. Yes, this advice is coming from Professional Career
 PowerPoint Wielders: take it [^1]. That link lays out the structure, and has
 actual examples to get you going.
 
@@ -78,19 +78,19 @@ up asking questions at the end. Do not do this to your audience. Cheap to fix.
 9. **Data points**.
 Chances are you have mentioned some piece of data somewhere. That is good. Not
 all is lost. Just make sure that you make clear what the units are. Something
-costs 1 million? Is that Euro's or Dollars? Almost no costs I encounter are
+costs 1 million? Is that Euros or Dollars? Almost no costs I encounter are
 static, in other words they are likely better expressed as a rate of costs:
 "This option will cost 1 million dollars per year, starting April 1st".
 Secondly, if you have a lot riding on the data point (and why include it if you
-do not?) then make sure attribute or source the data point. The more
-  authoritative you can make this, the better. Keep in mind rule #16.
-
+do not?) then make sure to include an attribution or source the data point. The more authorative
+ you can make this, the better.
+ 
 10. **Graphs**.
-I feel this requires its own article. In fact entire books [^2] have been written on
-the topic. Instead, I will attempt to quickly run down the top points
+I feel this requires its own article. In fact entire books [^2] have been written on the topic. 
+Instead, I will attempt to quickly run down the top points
 * **All axis are labeled**. What do they represent, and include a unit
-* **No Pie charts**. Invariably a time series chart will lead to better comparison
-  of the data and will give the audience a sense of temporal change that Pie
+* **No Pie charts**. Invariably a time series chart will lead to better comparisons
+  of the data and will give the audience a sense of temporal change that pie
   charts lack
 * **Font sizes**. You are still creating a presentation, so rule #2 still
   applies
@@ -113,18 +113,18 @@ You are likely operating under baseless assumptions.
 
 13. **Artifacts**.
 Some people insist on sending the slides ahead of time. I think that depends on
-the situation. However, I insist on sending the slides after the fact. Do not
-waste time by forcing your audience to ask for it, take half correct notes or
-worse interrupt your presentation over Zoom with a photo camera sound as they are
+the situation. However, I insist on sending the slides after the presentation. Do not
+waste time by forcing your audience to ask for a copy of the slides, take half correct notes or
+worse, interrupt your presentation over Zoom with camera sound as they are
 taking screenshots. Send the deck to them afterwards, thanking them for their
 time.
 
 14. **Typography**.
 Grok the basics of typography. Think of this as a set of battle tested
-heuristics that do not require you to understand but just apply. I have found
+heuristics that do not require you to understand, but just apply. I have found
 that [Practical
 Typography](https://practicaltypography.com/summary-of-key-rules.html) is a
-fantastic resource for this. A couple of quick relevant ones are:
+fantastic resource for this. A couple of quick relevant points are:
  * Do not use bold and italics together. 
  * Do not underline at all.
  * Consider font size, line spacing, line length at first
