@@ -98,7 +98,7 @@ the topic. Instead, I will attempt to quickly run down the top points
   normal rates in the same graph for comparison
 
 11. **Wall of text**.
-Do not every present a slide while starting off with "Well, I'm not going to
+Do not ever present a slide while starting off with "Well, I'm not going to
 read all this out to you, but...". You have lost half the audience because they
 are reading your wall of text. You lost the other half because you are being
 disrespectful to them. So simply do not include any wall of text. Rule #2 is
