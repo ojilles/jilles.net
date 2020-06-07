@@ -1,6 +1,6 @@
 ---
 title: The YouTube Wonder
-# vim: set ts=2 sw=2 tw=120 ft=markdown et si :
+# vim: set ts=2 sw=2 tw=80 ft=markdown et si :
 layout: post
 disable_comments: false
 image:
@@ -22,9 +22,9 @@ videos](https://www.youtube.com/channel/UChGJGhZ9SOOHvBB0Y4DOO_w), every single
 time. The amount of—and please pardon my French—crap on YouTube is astounding.
 The signal versus noise on that platform is through the floor, very much unlike
 something like Wikipedia. On both of these you can lose hours and hours by
-jumping from one to the other page or video. The difference is that on
-Wikipedia sometimes you end up on a decent article thats just not so
-interesting to you. On YouTube you end up on total garbage.
+jumping from one to the other page or video. The difference is that on Wikipedia
+sometimes you end up on a decent article that is just not so interesting to you.
+On YouTube you end up on total garbage.
 
 But because YouTube is so gigantic, there are absolute jewels of content to be
 found in that pile. YouTube democratized the production, distribution and
@@ -52,7 +52,7 @@ The subscriber counts for each channel were taken November 2019.
 ## Watches
 ### Hodinkee (126k)
 The one and only content side for watch collectors. It is not a small setup as
-itemploys 88 people but some of the content is excellent. Here, for example, is
+it employs 88 people but some of the content is excellent. Here, for example, is
 a video that [goes through all the different references for the OMEGA
 Speedmaster](https://youtu.be/w8-DdurbLKw). Or here is their [Talking Watches
 episode with Alton Brown](https://youtu.be/PvWiUYKgb6M). First time I saw these
@@ -97,7 +97,7 @@ then I have not even spoken about his b-roll!
 
 ### JayAreTV (45k)
 Jay has done a fantastic job bringing Davinci Resolve knowledge to the
-community. Ranging from a simple [Basic callout with
+community. Ranging from a simple [Basic call out with
 tracking](https://youtu.be/DjdYQCdmYdo) through [Glitchy
 Goodness](https://youtu.be/p_H8_iNcRsM) all the way to [building an odometer
 from the ground up](https://youtu.be/3jMkUlet4hE) in Davinci Fusion. Or this
@@ -120,12 +120,12 @@ this one](https://youtu.be/O6ERELse_QY). It apparently took 10 months to edit
 this 4 hour beast. Similarly, but on just tad smaller scale, [this comparison
 on upscaling algorithms for video](https://youtu.be/MVPrFU6_SEA). Or take [this
 40 minute video documenting him building a
-treehouse](https://youtu.be/I2G6S33w7As).
+tree house](https://youtu.be/I2G6S33w7As).
 
 ### Every Frame a Painting (1.6M)
 Every Frame a Painting stopped publishing in 2016, but until that time it did a
 fantastic job in dissecting the editing in various movies. For me personally
-this almost singlehandedly triggered my interest in editing. If I had to single
+this almost single-handedly triggered my interest in editing. If I had to single
 out one upload it would be [How does an Editor Think and
 Feel](https://youtu.be/3Q3eITC01Fg), but it would be just as easy to pick out
 [Composing Movement](https://youtu.be/doaQC-S8de8), [David
@@ -190,7 +190,7 @@ the camera. Their skill instead is being in the **location** where I like to
 be. In my case the ski area of Westendorf, Austria.  They shoot short videos on
 the weather and ski conditions, new lifts being build up, how it looks like in
 the summer. This idea does not scale well, but for me it is valuable. _UPDATE_:
-During my trip in december 2019, [I myself even made it on
+During my trip in December 2019, [I myself even made it on
 screen](https://youtu.be/pAFwmo_uSFo?t=104). 3 seconds of fame on the
 chairlift!
 
@@ -201,7 +201,7 @@ Basically a couple of middle-aged guys that are out for a little adventure:
 multi day trail runs in the summer and ski touring in the winter. The story
 telling is unassuming, but will drag you along non the less. It is just
 executed that well. And to be honest, this channel single handedly made me sign
-up for a day of ski touring in december 2019. Powerful stuff. Favorite episodes
+up for a day of ski touring in December 2019. Powerful stuff. Favorite episodes
 are the episodes about the poorly named [Terminal
 Cancer](https://www.youtube.com/watch?v=MfwjbiHkb-M) descent, [skiing the
 middle teton](https://www.youtube.com/watch?v=xo4s3D_5O78), [Mount
@@ -248,8 +248,8 @@ stabilized](https://www.youtube.com/watch?v=_dPlkFPowCc) and it snowballed from
 there, all the way to [meeting the President of the United
 states](https://www.youtube.com/watch?v=GpWQHFzrEqc) (#44 to be precise). The
 common theme across most videos is to find something non-obvious and explain
-that to the audience in simlpe and emperical ways. [What happens to your brain
-if one switchea the steering controls on a
+that to the audience in simple and empirical ways. [What happens to your brain
+if one switched the steering controls on a
 bicycle?](https://www.youtube.com/watch?v=MFzDaBzBlL0). [Flipping cats, landing
 on their feet](https://www.youtube.com/watch?v=RtWbpyjJqrU). [Laminar
 Flow](https://www.youtube.com/watch?v=y7Hyc3MRKno). [Popping over to NASA and
@@ -317,7 +317,7 @@ also if I am to be whole.**" -- Carl Jung
 
 ### Nigel Danson (153k)
 Nigel is a landscape photographer, and is sharing his best practices for free
-online in beautiful videos. Nigels comes across to me as very authentic. Some
+online in beautiful videos. Nigel comes across to me as very authentic. Some
 examples include [How to improve your Drone
 photography](https://www.youtube.com/watch?v=PntG8KEVjR8), [Printing your
 photos will improve them](https://www.youtube.com/watch?v=iEGLis6nGhA) or
@@ -333,7 +333,7 @@ Train photography](https://www.youtube.com/watch?v=Y4BcJRivFJY) or [Cinematic
 travel by train](https://www.youtube.com/watch?v=xCu8NE9FE0c).
 
 
-## Livestyle
+## Lifestyle
 ### Becki and Chris (163k)
 Becki and Chris; to be honest, I had a hard time latching on to this couple's
 adventures. But somewhere down the line I got completely hooked. They are
@@ -357,8 +357,8 @@ first 10 seconds of that last video!
 ### Iz Harris, Johnny Harris (114k, 149k)
 Initially I had to cringe at Iz; we're totally different people with different
 perspectives. But then you start to enjoy their/her humor and somehow it gets a
-little addictive. Nowadays I just watch everything they plublish. Their
-repetoire spans travel videos
+little addictive. Nowadays I just watch everything they publish. Their
+repertoire spans travel videos
 ([Amsterdam](https://www.youtube.com/watch?v=yNPgw5m5NdE),
 [Austria](https://www.youtube.com/watch?v=6qqNthWfkP4), [How the Dutch beat the
 Ocean](https://www.youtube.com/watch?v=XoEZvSl5Cg8)), a video I can only
@@ -374,7 +374,7 @@ remember your life (in pictures)](https://www.youtube.com/watch?v=GLy4VKeYxD4).
 ## Food
 ### Binging with Babish (5.5M)
 Not very niche at millions subscribers, but well produced videos, mostly about
-cooking. The formula is basically a shot of the countertop with Babish in the
+cooking. The formula is basically a shot of the counter top with Babish in the
 frame from waist to just under his neck, recreating dishes from various
 television series and movies. Add in a sprinkling of dry humor and you have a
 winner. [Harry Potter special](https://www.youtube.com/watch?v=LXDAu8DnALw),
@@ -395,7 +395,7 @@ the overlap of decent to good production values, combined with a passion and
 expertise (coffee in this case) that leads to fantastic content that otherwise
 would not exist. Completely unrelated, James has this fantastic voice. I could
 listen to him for hours reading the classifieds section. James produces videos
-on a lot of aspects related to coffee: [coffee bars as a business](), how to's
+on a lot of aspects related to coffee: [coffee bars as a business](), how tos
 on [the ultimate V60 technique](https://youtu.be/AI4ynXzkSQo), the [best french
 press technique](https://youtu.be/st571DYYTR8), [do coffee
 tasting](https://youtu.be/cSEgP4VNynQ), [best blade grinder
@@ -415,7 +415,7 @@ Hermitcraft](https://www.youtube.com/watch?v=MzYTf5u8yy8&list=PLFm1tTY1NA4fcZddq
 
 ### Burrfection (152k)
 Chuck full of information, the tutorials on [how to sharpen a
-knife](https://youtu.be/KB87xoFm46g) are excellently done. The visual esthetic
+knife](https://youtu.be/KB87xoFm46g) are excellently done. The visual aesthetic
 is very simple and the production values are great and I love some of the
 scientific approach he uses. For example how he measures the sharpness of the
 knife with an Edge-On-Up. The [knife review
@@ -424,7 +424,7 @@ personally.
 
 ### Vsauce (15M)
 Micheal is another one of those people with an oversized appetite for
-curiousity. At 15M subscribers, chances are you are already familiar with this
+curiosity. At 15M subscribers, chances are you are already familiar with this
 content. But if you are not familiar, I will start you off [with a classic How
 many things are there?](https://www.youtube.com/watch?v=C6eOcd06kdk), pass
 through [Which way is down](https://www.youtube.com/watch?v=Xc4xYacTu-E), have
@@ -443,7 +443,7 @@ that up to eleven, [you would have to throw in wrist
 watches](https://www.youtube.com/watch?v=U5rlLL7cOtw).
 
 ### Standupmaths (493k)
-I stumbled across this weird [standup comedian act about Excel
+I stumbled across this weird [stand-up comedian act about Excel
 Spreadsheets](https://www.youtube.com/watch?v=UBX2QQHlQ_I) and instantly got
 hooked to Matt's channel, that he describes himself as: "I do mathematics and
 stand-up. Sometimes simultaneously. Occasionally while being filmed. (It's
@@ -454,7 +454,7 @@ crime and null-island](https://www.youtube.com/watch?v=-g3iY0dMN_0) and
 [Euler's Disk](https://www.youtube.com/watch?v=8pSLffliCk0).
 
 ### Captain Disillusion (1.7M)
-The Captain combines humor, memes and some science with a complete overdosis of
+The Captain combines humor, memes and some science with a complete overdoses of
 computer generated graphics (mostly done with Blender). This [live
 performance](https://www.youtube.com/watch?v=1qSTcxt2t74) quite blew my mind.
 His more regular videos are fantastic as well: [Escherian
@@ -475,7 +475,7 @@ into Toms world.
 
 ### CGP Grey (4M)
 Like Tom Scott, take something obscure, but now go ten times deeper and dial up
-the geekness to eleven. Then proceed to animate the whole movie. My gateway
+the geekiness to eleven. Then proceed to animate the whole movie. My gateway
 drug ended up being the [explanation of the difference between Holland and the
 Netherlands](https://www.youtube.com/watch?v=eE_IUPInEuc). I love the whole
 series about [London City](https://www.youtube.com/watch?v=LrObZ_HZZUc), or
