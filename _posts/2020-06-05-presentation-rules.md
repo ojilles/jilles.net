@@ -85,7 +85,7 @@ Secondly, if you have a lot riding on the data point (and why include it if you
 do not?) then make sure attribute or source the data point. The more
   authoritative you can make this, the better. Keep in mind rule #16.
 
-10. **Graphs**
+10. **Graphs**.
 I feel this requires its own article. In fact entire books [^2] have been written on
 the topic. Instead, I will attempt to quickly run down the top points
 * **All axis are labeled**. What do they represent, and include a unit
@@ -97,21 +97,21 @@ the topic. Instead, I will attempt to quickly run down the top points
 * **Context**. Showing a graph with error rates? Great! But do include the
   normal rates in the same graph for comparison
 
-11. **Wall of text**
+11. **Wall of text**.
 Do not every present a slide while starting off with "Well, I'm not going to
 read all this out to you, but...". You have lost half the audience because they
 are reading your wall of text. You lost the other half because you are being
 disrespectful to them. So simply do not include any wall of text. Rule #2 is
 here to help you with that.
 
-12. **Homework** 
+12. **Homework**.
 Do not try to convince your audience that you have done all your homework before
 presenting the results. This is not your main message, and it will distract.
 When I see this happen it often shows up as #11 "Wall of text".  If you are that
 person, ask yourself why the audience would assume you did not do your homework.
 You are likely operating under baseless assumptions.
 
-13. **Artifacts**
+13. **Artifacts**.
 Some people insist on sending the slides ahead of time. I think that depends on
 the situation. However, I insist on sending the slides after the fact. Do not
 waste time by forcing your audience to ask for it, take half correct notes or
@@ -119,7 +119,7 @@ worse interrupt your presentation over Zoom with a photo camera sound as they ar
 taking screenshots. Send the deck to them afterwards, thanking them for their
 time.
 
-14. **Typography**
+14. **Typography**.
 Grok the basics of typography. Think of this as a set of battle tested
 heuristics that do not require you to understand but just apply. I have found
 that [Practical
@@ -131,14 +131,14 @@ fantastic resource for this. A couple of quick relevant ones are:
  * The question mark is underused, the exclamation point overused [^3]
  * Treat headings as the structure of your argument, not your document
 
-15. **Titles**
+15. **Titles**.
 Titles for the individual slides or graphs should be the conclusion. Not only
 will this save your audience from expanding the mental energy, it allows you to
 select the conclusion you need if there is more than one available.  So instead
 of "tire wear vs miles driven" it should say "tire wear increases with miles
 driven" [^4].
 
-16. **No numbers until you are done talking**
+16. **No numbers until you are done talking**.
 As soon as you put up a set of numbers or a graph the audience will
 think, analyse and stop paying attention. That is your best case scenario. Worst
 case, someone will interrupt you with a question that potentially disrupts the
