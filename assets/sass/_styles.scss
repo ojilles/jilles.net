@@ -14,7 +14,7 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-    font-family: $serif;
+    font-family: $headers;
 }
 
 iframe {
@@ -31,7 +31,8 @@ a, a:visited, a:active {
 }
 
 a:hover {
-    color: $accent;
+    color: $link;
+    text-decoration: underline;
     @include transit(all,.25s, ease-in-out)
 }
 
@@ -457,7 +458,7 @@ header.site-header nav {
     }
     
     h1 {
-        font-style: italic;
+        font-weight: 700;
     }
     
     h1, h2, h3, h4, h5 {
@@ -495,6 +496,7 @@ header.site-header nav {
     ul {
         display: block;
         margin-bottom: $lh;
+        margin-top: $lh/2;
         list-style: disc;
         list-style-type: disc;
         lh h1, lh h2, lh h3, lh h4, lh h5 {
@@ -589,8 +591,7 @@ footer {
     
     .list-title {
         margin-bottom: $lh/2;
-        border-bottom: 2px solid $link;
-        font-style: italic;
+        border-bottom: 1px solid $grey-medium;
         font-size: $fs4;
     }
     .prev-posts {
@@ -606,8 +607,9 @@ footer {
             margin-top: $lh/2;
             .recent-title {
                 @include column(8,12);
-                font-style: italic;
+                font-size: $fs4;
                 a {
+                    color: $footerlink;
                     &:hover {
                         color: $white;
                     }
@@ -631,8 +633,8 @@ footer {
         top: 109px;
         @include column(2,12);
         right: 5vw;
-        font-style: italic;
         a {
+            color: $footerlink;
             &:hover {
                 color: $white;
             }
