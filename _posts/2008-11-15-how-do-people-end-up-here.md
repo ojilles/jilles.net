@@ -3,7 +3,7 @@ layout: post
 title: How do people end up here?
 permalink: perma/2008/11/15/how-do-people-end-up-here
 post_id: 134
-categories: 
+categories:
 - General
 ---
 
@@ -40,7 +40,7 @@ Here is a breakdown of which keywords people use to end up on my site:
 * `CVS branching strategy`: As stated above, version control systems are a
   pet peeve of mine. I wrote an article asking the question "<a
   href="{{site.baseurl}}/perma/2004/10/06/what-branching-strategy-do-you-use/">What
-  branching strategy do you use?</a>". 
+  branching strategy do you use?</a>".
 * `economic disaster`: Recently I wrote <a
   href="{{site.baseurl}}/perma/2008/11/08/economic-disaster-seriously/">a quick
   article</a> pointing to two blog entries on the <a

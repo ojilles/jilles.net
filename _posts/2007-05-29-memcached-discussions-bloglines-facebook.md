@@ -3,7 +3,7 @@ layout: post
 title: Memcached usage across large web properties
 permalink: perma/2007/05/29/memcached-discussions-bloglines-facebook
 post_id: 57
-categories: 
+categories:
 - Technology
 ---
 
@@ -15,14 +15,14 @@ like to quote some of the things that are being said and provide some links to
 the relevant discussions.
 
 About the general "would you want to bet your up time on memcached as an
-infrastructure component?"-question: 
+infrastructure component?"-question:
 
     We consider memcached a critical part of our infrastructure. The benefit of
     memcached in a typical setup is to reduce the amount of database hardware you
     need to support an application; if you have enough database horsepower to run
     unimpaired with most of your memcached servers out of service, then there's
     probably no point using memcached at all, since it without a doubt adds extra
-    complexity to your application code. 
+    complexity to your application code.
 [<a href="http://lists.danga.com/pipermail/memcached/2007-May/004105.html">link</a>]
 
 If you shard all you data, etc. etc., is memcached still worth it?
@@ -37,7 +37,7 @@ If you shard all you data, etc. etc., is memcached still worth it?
     Don't forget about latency.  At Hi5 we cache entire user profiles that are
     composed of data from up to a dozen databases.  Each page might need access to
     many profiles.  Getting these from cache is about the only way you can achieve
-    sub 500ms response times, even with the best DBs. 
+    sub 500ms response times, even with the best DBs.
 [<a href="http://lists.danga.com/pipermail/memcached/2007-May/004112.html">link</a>]
 
 Also, there is a lot of talk about a FUSE (File system in user space)
@@ -51,5 +51,3 @@ have some really great advantages for your generic PHP app:
     not random parts inside) is ok and readdir is irrelevant, which allows cutting
     a lot of corners. 
 [<a href="http://lists.danga.com/pipermail/memcached/2007-May/004197.html">link</a>]
-
-

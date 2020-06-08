@@ -46,7 +46,7 @@ After you have done the lot, sprinkle some oil on top:
 
 And add more salt on top of the potatoes, and your herbs. In the pictures you'll
 see me experimenting with red onions: you are advised to skip that as it doesn't
-work very well in the broiler. 
+work very well in the broiler.
 
 ![Plate of crunched potatoes][ph7]
 
@@ -61,7 +61,7 @@ still nicely soft like a boiled potato.
 
 ![Potato's in the oven, undergoing the last stage][ph10]
 
-Just check the oven every few minutes till you are happy with the result. Here 
+Just check the oven every few minutes till you are happy with the result. Here
 was mine:
 
 ![Crunched potato, end result, close up][ph12]
@@ -69,9 +69,6 @@ was mine:
 See all those brown bits?! Those are the best! Buon appetito! 
 
 ![Crunched potatoes served with 'dutch' meatballs][ph13]
-
-
-
 
 [ph1]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos01.jpg
 [ph2]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos02.jpg
@@ -86,4 +83,3 @@ See all those brown bits?! Those are the best! Buon appetito!
 [ph11]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos11.jpg
 [ph12]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos12.jpg
 [ph13]: {{site.baseurl}}/photos/stamped-potatos/stamped-potatos13.jpg
-

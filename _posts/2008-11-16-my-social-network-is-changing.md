@@ -3,7 +3,7 @@ layout: post
 title: My social network is changing
 permalink: perma/2008/11/16/my-social-network-is-changing
 post_id: 148
-categories: 
+categories:
 - General
 ---
 
@@ -19,7 +19,7 @@ There are 6 babies depicted, out of the 12 possible (if you do not count some
 of the adults as babies). In, as a should I add, a "_random_" screen shot. It
 kind of underlines, for me, what has happened in the last 12 months: I can
 count at least 25+ couples/individuals that have been pregnant. All of which
-luckily delivered without any (lasting) incidents! 
+luckily delivered without any (lasting) incidents!
 
 Now I should not be surprised by this of course, statistics will have it that
 there are just not many 18 year olds that become pregnant, but still: it

@@ -3,14 +3,14 @@ layout: post
 title: On User Experience
 permalink: perma/2008/10/27/on-user-experience
 post_id: 69
-categories: 
+categories:
 - Business
 ---
 
 User Experience. It took a while for me to understand the importance of User
 Experience (UEX) to product's. Personally, that is pretty weird since a) my
 brother is a professional user experience designer and b) I worked my entire
-career for product companies (vs. a services organization). 
+career for product companies (vs. a services organization).
 
 It started to dawn on me when I got to see <a href="http://www.lukew.com/">Luke
 Wroblewski</a> at work. He took both a scientific approach to his work as well

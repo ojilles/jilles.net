@@ -3,7 +3,7 @@ layout: post
 title: Denmark compared to the Netherlands
 permalink: perma/2008/12/20/denmark-compared-to-the-netherlands
 post_id: 157
-categories: 
+categories:
 - Culture
 ---
 
@@ -31,8 +31,7 @@ I knew well in advance that that this was happening and unconsciously I was
 starting to build up expectations. I figured there would be a lot of
 similarities: North-western country in Europe, socialist government, small,
 rainy. Some obvious differences I knew about as well. The Danish did not ratify
-the Euro as their currency, keeping their Danish Kroner.  
-
+the Euro as their currency, keeping their Danish Kroner.
 
 ### Taxes
 The first, and most obvious thing for Dutch (and perhaps other) expats moving

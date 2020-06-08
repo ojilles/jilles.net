@@ -3,7 +3,7 @@ layout: post
 title: PanoLab iPhone application
 permalink: perma/2008/11/15/panolab-iphone-application
 post_id: 143
-categories: 
+categories:
 - Technology
 ---
 

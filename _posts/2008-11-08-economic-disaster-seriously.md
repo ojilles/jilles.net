@@ -3,7 +3,7 @@ layout: post
 title: Economic disaster? Seriously?
 permalink: perma/2008/11/08/economic-disaster-seriously
 post_id: 89
-categories: 
+categories:
 - General
 ---
 
@@ -27,4 +27,3 @@ article</a> outlines the positive aspects of the current financial crisis:
 > economy based on the third derivative of valueless debt.
 
 Some of the other blog posts over there are interesting reads as well!
-

@@ -12,7 +12,7 @@ After having gone on a rampage for various different recipes ([small selection
 here](http://pinboard.in/u:ojilles/t:recipies/)), I found the following recipe
 on [Smitten Kitchen](http://smittenkitchen.com/2011/04/french-onion-soup/) and
 thought I'd try that and share the results. So, to be clear, the recipe is
-based on Smitten Kitchen's. 
+based on Smitten Kitchen's.
 
 The soup is absolutely awesome though. And even better, the whole kitchen will
 smell delicious while you are cooking it. To get started, grab the following:
@@ -74,7 +74,7 @@ avoid them getting moist prematurely:
 
 At the same time, cut some remaining fresh onion up in really small pieces
 (maybe one or two tea spoons). Get some cheese (being dutch, I used Gouda, but
-most cheeses will work) and combine the onion and cheese. 
+most cheeses will work) and combine the onion and cheese.
 
 ![Combined fresh onions and cheese][ph14]
 

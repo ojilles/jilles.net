@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new version of my blog
-categories: 
+categories:
   - General
 published: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Plaxo.remove()
 permalink: perma/2008/11/02/plaxoremove
 post_id: 81
-categories: 
+categories:
 - General
 ---
 

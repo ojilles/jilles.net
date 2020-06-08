@@ -17,7 +17,7 @@ Every time I am flying on a plane, which happens quite a bit, I get these crazy
 idea's for how to innovate in the airspace. Some colleagues who have had to
 listen to me during flights will happily agree these are crazy. Even though, we
 might see some of these idea's come into play at some point in the future, so I
-thought I would write them up. 
+thought I would write them up.
 
 Most of these idea's are probably not going to be successful, I will admit.
 Which is why I am very happy I am not a millionaire who could try to find out.
@@ -65,7 +65,7 @@ airline:
   convenient would that be?
 * Offer early morning "quiet sleeper flights". Combining the security talk-idea from
   above, with even more quiet time: no announcements on the PA. If you have
-  your eyes closed, no questions from the flight attended (Coffee ser?),
+  your eyes closed, no questions from the flight attended (Coffee sir?),
   instead have a little sign you can put on your tray table (Coffee please!).
   No "local time" and "destination weather" announcements. Basically if people
   want to sleep, let them!

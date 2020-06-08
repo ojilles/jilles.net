@@ -35,7 +35,7 @@ them somewhere for others' benefit or my future reference.
   [Demo](http://dashingdemo.herokuapp.com/sample) says it all really.
 
 * [Graphene](http://jondot.github.com/graphene/): Real time unmanned graphite
-  based dashboard (unlike Dashing) thats useful to continuously showcase a
+  based dashboard (unlike Dashing) that is useful to continuously showcase a
   limited set of graphs.
 
 There are more tools [listed

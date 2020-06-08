@@ -3,7 +3,7 @@ layout: post
 title: Good posts on the 'net
 permalink: perma/2007/03/24/good-post-roundup
 post_id: 50
-categories: 
+categories:
 - Business
 - Technology
 ---

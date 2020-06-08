@@ -1,25 +1,29 @@
 ---
 title: Setting up a Hadoop Oozie Coordinator and Workflow
-# vim: set ts=2 sw=2 tw=120 ft=markdown et si :
+# vim: set ts=2 sw=2 tw=80 ft=markdown et si :
 layout: post
 image:
   feature: elephants.jpg
   credits: https://www.flickr.com/photos/blieusong/7234335792/
   uicolor: light
-categories: 
+categories:
   - Technology
 ---
-After many frustrating hours of tweaking I have finally setup a working [Oozie](https://oozie.apache.org/)
-[Coordinator](https://oozie.apache.org/docs/3.1.3-incubating/CoordinatorFunctionalSpec.html) plus associated
-[Workflow](https://oozie.apache.org/docs/3.1.3-incubating/WorkflowFunctionalSpec.html) on
-[Hadoop](http://hadoop.apache.org) (in my case
-[Cloudera](http://www.cloudera.com/content/cloudera/en/about/hadoop-and-big-data.html)'s distribution). This was quite
-frustrating because of many small problems that are completely non-intuitive
-and not documented. Error messages that you get back from a distributed system
-are mostly non-descriptive from the developers perspective. So I thought I
-should write this down so that others can benefit (and for myself to have a
-canonical write up). I'm not the first [^1] person to do this, but I figured we
-can collectively use more shared experiences on the internet. At the very least Yahoo released some documentation in the past that is helpfully practical[^2].
+After many frustrating hours of tweaking I have finally setup a working
+[Oozie](https://oozie.apache.org/)
+[Coordinator](https://oozie.apache.org/docs/3.1.3-incubating/CoordinatorFunctionalSpec.html)
+plus associated
+[Workflow](https://oozie.apache.org/docs/3.1.3-incubating/WorkflowFunctionalSpec.html)
+on [Hadoop](http://hadoop.apache.org) (in my case
+[Cloudera](http://www.cloudera.com/content/cloudera/en/about/hadoop-and-big-data.html)'s
+distribution). This was quite frustrating because of many small problems that
+are completely non-intuitive and not documented. Error messages that you get
+back from a distributed system are mostly non-descriptive from the developers
+perspective. So I thought I should write this down so that others can benefit
+(and for myself to have a canonical write up). I'm not the first [^1] person to
+do this, but I figured we can collectively use more shared experiences on the
+ internet. At the very least Yahoo released some documentation in the past that
+ is helpfully practical[^2].
 
 ### The Starting Conditions
 I'm assuming you have a Hadoop cluster with Oozie running already. In my case I
@@ -150,7 +154,7 @@ have been nice to be able to use the `$applicationPath` parameter but for some
 reason I could not get that to work (leave comments if you know how to!).
 
 You now actually have something you could execute by hand, but why stop short
-of having it all run automatically? For that we need a coordinator. 
+of having it all run automatically? For that we need a coordinator.
 
 ### Coordinator
 Here is my example coordinator:
@@ -160,7 +164,7 @@ Here is my example coordinator:
   frequency="${coord:days(1)}"
   start="2014-03-20T18:56Z" end="2015-06-05T18:56Z" timezone="Europe/Amsterdam"
   xmlns="uri:oozie:coordinator:0.2">
- 
+
   <controls>
     <!-- See http://stackoverflow.com/a/21818132 -->
     <concurrency>1</concurrency>
@@ -171,7 +175,7 @@ Here is my example coordinator:
   <datasets>
     <!-- Naming convention used here:
           [e]dinfra
-            -> 'din': Data INput or OUTput 
+            -> 'din': Data INput or OUTput
             -> 'dc1': Data center 1 or 2, etc
             -> '[e]': Event (as opposed to dataset)
     -->
@@ -251,7 +255,7 @@ Going over this one block at a time:
   frequency="${coord:days(1)}"
   start="2014-03-20T18:56Z" end="2015-06-05T18:56Z" timezone="Europe/Amsterdam"
   xmlns="uri:oozie:coordinator:0.2">
- 
+
   <controls>
     <!-- See http://stackoverflow.com/a/21818132 -->
     <concurrency>1</concurrency>
@@ -325,7 +329,7 @@ a logical `AND` and wait till both have materialized.
 
 The definition for this can be [found
 here](http://oozie.apache.org/docs/3.2.0-incubating/CoordinatorFunctionalSpec.html#a6.6.1._coord:currentint_n_EL_Function_for_Synchronous_Datasets)
-and is definately worth reading through if you are going to try your hand at
+and is definitely worth reading through if you are going to try your hand at
 Oozie. It starts off slightly academic, but includes some helpful examples at
 the bottom.
 
@@ -443,7 +447,7 @@ to run the job according to the properties.
 
 If you run into trouble, especially around parameter substitution, you can run
 `oozie` with the `--dryrun` parameter which will show you how parameters get
-replaced with actual values: a indispensible debugging tool.
+replaced with actual values: a indispensable debugging tool.
 
 ### Remarks
 The above setup will continue to run even while during maintenance of the
