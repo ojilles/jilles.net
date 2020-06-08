@@ -14,7 +14,7 @@ thought I would do my own write up in similar vain.
 Over the last 8 years all of my hardware has moved into Apple land. When I was
 still programming professionally I did so exclusively on Debian/Linux systems
 and that is just what I am most comfortable with. The Mac offers that experience
-with the notable exception of 'apt-get' package management. 
+with the notable exception of 'apt-get' package management.
 
 * Main personal desktop is a 27" iMac (2008 model I believe). This is what I use
   to browse the web with, do Skype calls with family and friends back in the
@@ -23,7 +23,7 @@ with the notable exception of 'apt-get' package management.
 * A 2009 model Mac mini which is always on and provides all the media in my
   apartment. Since I live abroad I don't watch any of the local broadcasters I
   rely on this to provide some entertainment. In addition this also brings some
-  non-networked disks onto my TimeCapsule powered network.
+  non-networked disks onto my Time Capsule powered network.
 * I gave my old (1st edition) MacBook Air to my girlfriend, but will still pick
   it up if I need to write somewhere else in my apartment, away from the iMac
   (like right now). Actively looking for an excuse to buy one of the new MacBook
@@ -59,7 +59,7 @@ not program for a living anymore.
 
 Personally I use Gmail for mail, and [my public GPG key can be found at
 keybase.io](https://keybase.io/ojilles/).  As mentioned, I use Skype a lot for
-international video calls. 
+international video calls.
 
 My browser of choice these days is Chrome, as it is fast and syncs nicely
 across all my machines which is great. For a list of places on the web [where
@@ -67,7 +67,7 @@ you can find me, look here]({{site.baseurl}}/about.html). Daily (non-business)
 sites I frequent are Google Reader and
 [HackerNews](http://news.ycombinator.com/). Once in a while Google+, Facebook.
 Interestingly for me Twitter has become iPhone only: I check it daily but find
-the UEX on the iPhone just better than their main site.
+the user experience on the iPhone just better than their main site.
 
 After seeing internal statistics from some of our large websites and all the
 hacks that make the news every week I moved to use 1Password with large random
@@ -95,7 +95,7 @@ For my weblog (that you are reading now) I had great fun geeking out with
 [Jekyll](https://github.com/mojombo/jekyll), creating a fully automated build
 system using Rake and  hooking it all up with a self created low-key template.
 These are no great feats of engineering, but good fun for a geek in any case.
-As an example, using wget and some scripting the build system will fail when
+As an example, using `wget` and some scripting the build system will fail when
 this blog has any internal links that 404. You will find my code on my [Github
 page](https://github.com/ojilles/jilles.net/). (Also see the
 [colophon]({{site.baseurl}}/colophon.html).) To ensure I can always reproduce
@@ -111,13 +111,13 @@ hand in creating. This means that I have a digital photo collection that goes
 back to when my ancient Nokia phone had a 320x200 pixel camera. In addition any
 software, documentation, research papers, fun websites, assembler code for
 microprocessors, etc, I have written goes into my "Lifetime Archive". Not sure
-why, nostalgia is partly an answer but it definitely also has it's uses. 
+why, nostalgia is partly an answer but it definitely also has it's uses.
 
 I now have also started this process for my offline life. Having moved
 internationally twice now, paper (and especially "accessible" paper) is just
 hard. So I have started to scan most important documents and store those into my
 "Dead tree archive" which is a collection of PDFs that combine the graphical scan
-with OCRd text.
+with OCR'd text.
 
 As for SaaS providers like Gmail, [Github](http://github.com), Google Docs, etc.
 all get pulled down locally by a cronjob every day or week and disappear in my
@@ -131,7 +131,7 @@ Having only scarcely recovered my CD-ROM backups from 2001 (needed to combine 6
 different disks to recombine the whole archive) I now store all this on my iMac
 and backup religiously:
 
-* ~~Local backups go onto the TimeCapsule, easily accessible from my Mac~~
+* ~~Local backups go onto the Time Capsule, easily accessible from my Mac~~
 * A subset of the data gets stored onto Dropbox, but only those files that don't
   require the highest privacy
 * Then there is [Crashplan](http://www.crashplan.com/) that is my primary off site backup
@@ -140,7 +140,7 @@ and backup religiously:
   Crashplan does the same but at these cost levels I don't care and I insulate
   myself also from Crashplan suddenly disappearing. (Arc is just software, and
   I'm betting Amazon AWS is going to be around for another 10 years). Hats off to
-  Arq for doing [a lof of testing](http://www.n8gray.org/code/backup-bouncer/). 
+  Arq for doing [a of of testing](http://www.n8gray.org/code/backup-bouncer/).
   As of 2014 I also do a backup from my machines to my local NAS with Arc.
 
 The NAS is a [Synology
@@ -148,7 +148,7 @@ DS1512+](http://www.amazon.com/Synology-DiskStation-Diskless-Attached-DS1512/)
 filled with 4TB disks, giving plenty of space for all the pictures (both
 straight out of camera as well as edited), all raw material for home movies
 (think of the kids!) and the edited movies, etc. The Synology comes highly
-recommened (ease of use) and has been operating since January 2013 continuously
+recommend (ease of use) and has been operating since January 2013 continuously
 without any issues.
 
 Perhaps it is a bit overdone, but I am now reasonably certain I can get to the
@@ -162,7 +162,6 @@ wire a pre-determined amount dollars to their bank account. In return they send
 me within one week of their product launch, whatever they are launching in a set
 of predetermined categories (think: laptop, desktop, iPhone and iPad). Would
 that not be awesome?
-
 
 I am pretty happy with my setup this far. If you have any questions or would
 love to contribute, fire away in the comments below!
