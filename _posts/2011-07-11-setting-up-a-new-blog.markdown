@@ -9,7 +9,7 @@ published: true
 In various different forms my blog has survived from way back in 2003 till now.
 In the first couple of months, the blog would only run on my own computer (I
 didn't have hosting back then). Now, I've redone the blog in Jekyll so that it
-is completely statically generated (and pushed into GIT for convenience). 
+is completely statically generated (and pushed into GIT for convenience).
 
 I've only deleted two articles that basically were going absolutely nowhere.
 Besides that I believe most of the content came across in tact. Let me know
