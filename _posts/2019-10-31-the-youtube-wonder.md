@@ -133,7 +133,7 @@ Fincher](https://youtu.be/QPAloq5MCUA), [Mother](https://youtu.be/dUOdQxQkVt8)
 or [Edgar Wright](https://youtu.be/3FOzD4Sfgag). Loved seeing what he did about
 the [Marvel universe and ‘temporary music’](https://youtu.be/7vfqkvwW2fs) as
 well. I find it beautiful that YouTube has provided this platform where someone
-like this is able to go deep and share these insights. 
+like this is able to go deep and share these insights.
 
 ### This Guy Edits (268k)
 After Every Frame a Painting stopped publishing I went on looking for someone
@@ -238,7 +238,7 @@ of old [managed to put the date on the film
 negative](https://www.youtube.com/watch?v=ezME4_xMMnk). But what completely
 showcased the depths this person is willing to go is his series in which he
 **constructs** a [Scanning Electron
-Microscope](https://youtu.be/VdjYVF4a6iU)... 
+Microscope](https://youtu.be/VdjYVF4a6iU)...
 
 ### SmarterEveryDay (7.4M)
 At over 7M subscribers Dustin obviously is not very niche anymore. But his
@@ -402,7 +402,7 @@ tasting](https://youtu.be/cSEgP4VNynQ), [best blade grinder
 results](https://youtu.be/cSEgP4VNynQ), reviews on the [Niche Zero
 Grinder](https://youtu.be/FzOY2tHyZ4w), [Decent DE+ Espresso
 Machine](https://youtu.be/FzOY2tHyZ4w) or the [Sage Precision
-Brewer](https://youtu.be/HfkdkZRv6Mc).  Could keep going! 
+Brewer](https://youtu.be/HfkdkZRv6Mc). Could keep going!
 
 ## Misc
 ### Mumbo Jumbo (4.9M)
@@ -491,7 +491,7 @@ Behaviour of Rotating Bodies](https://www.youtube.com/watch?v=1VPfZ_XzisU). Or
 this one on [Aerogels](https://www.youtube.com/watch?v=AeJ9q45PfD0). Or this
 one about [Black balls on a water
 reservoir](https://www.youtube.com/watch?v=uxPdPpi5W4o) that got a shoddy 39M+
-views. 
+views.
 
 ### Welch Labs (259k)
 Welch Labs' Imaginary Numbers are Real video series was the first time I
