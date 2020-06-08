@@ -11,7 +11,7 @@ categories:
 - General
 ---
 
-Recently I rewatched some of my favorite TED talks and as often is the case
+Recently I re-watched some of my favorite TED talks and as often is the case
 discovered new ones. Here is a quick run down of the ones most interesting to
 me.
 
@@ -62,7 +62,7 @@ And after watching a decent amount of TED Talks, you end up on something
 expected. For me that was this talk by Sarah Kay from back in 2011. She is a
 "performing poet" and her performance touched me immensely, without me being
 able to articulate exactly why. Most likely some combination of the beauty of
-her words and the disarming way she beams them towards you. 
+her words and the disarming way she beams them towards you.
 
 <iframe src="http://embed.ted.com/talks/sarah_kay_if_i_should_have_a_daughter.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
