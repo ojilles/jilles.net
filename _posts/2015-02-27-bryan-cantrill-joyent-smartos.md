@@ -36,7 +36,7 @@ framework that is safe to use in a production environment. It also spans across
 both Kernel and User space in your operating system (such as Solaris, SmartOS
 or even Mac OS!). In the video Bryan comes across as a bit of a virtuoso and
 even doing ad-hoc demo's that clearly have not been prepared but work out
-fantastically.   
+fantastically.
 
 {% youtube TgmA48fILq8 %}
 
@@ -52,7 +52,7 @@ noisy data center:
 As you will see in the other video's Bryan knows his technology stuff, but in
 this video he demonstrates acute awareness of a more organizational
 perspective. He deftly summarizes which elements are important for building a
-world class organisation. 
+world class organisation.
 
 {% youtube bGkVM1B5NuI %}
 
