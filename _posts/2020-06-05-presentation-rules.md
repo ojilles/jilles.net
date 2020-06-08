@@ -158,6 +158,9 @@ feedback in the comments. Thanks to everyone for contributing, especially
 [soonho-tri](https://github.com/ojilles/jilles.net/pull/6) and
 [stephanwehner](https://github.com/ojilles/jilles.net/pull/7).
 
+Update 2020-06-08: For those of you who are looking for resources for public
+speaking, [please see here](https://github.com/vmbrasseur/Public_Speaking).
+
 ### Footnotes
 [^1]: I believe the structure was first created, or popularized by McKinsey, who depending on your views, have a core business of turning slides into billion dollar revenue streams. [This link does a good introduction of the concepts](https://speakingsherpa.com/how-to-tell-a-business-story-using-the-mckinsey-situation-complication-resolution-scr-framework/), takes you step by step and references actual presentations as examples.
 [^2]: The de facto standard work in this space is [Tufte](https://www.edwardtufte.com/tufte/books_vdqi)
