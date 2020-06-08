@@ -3,7 +3,7 @@ layout: post
 title: Weird images of Jilles
 permalink: perma/2006/04/17/weird-images-of-jilles
 post_id: 25
-categories: 
+categories:
 - General
 ---
 

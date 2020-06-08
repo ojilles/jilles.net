@@ -3,7 +3,7 @@ layout: post
 title: Jilles' books online
 permalink: perma/2006/06/07/jilles-books-online
 post_id: 36
-categories: 
+categories:
 - Reading
 ---
 

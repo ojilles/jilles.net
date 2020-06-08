@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my Blog v3
 permalink: perma/2006/03/05/welcome-to-v3-blog
 post_id: 3
-categories: 
+categories:
 - General
 ---
 

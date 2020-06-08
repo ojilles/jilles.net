@@ -3,7 +3,7 @@ layout: post
 title: Database? No database?
 permalink: perma/2006/04/28/database-and-mysql
 post_id: 27
-categories: 
+categories:
 - Technology
 ---
 

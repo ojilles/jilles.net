@@ -3,7 +3,7 @@ layout: post
 title: All those little software secrets!
 permalink: perma/2006/09/28/all-those-little-software-secrets
 post_id: 45
-categories: 
+categories:
 - General
 ---
 
@@ -21,7 +21,7 @@ But let me highlight a few excerpts of handy material:
 
 Or, how about when all the capitalization is wrong in your word document?
 
-> Fix capitalization in Word: 
+> Fix capitalization in Word:
 > Highlight the text, and press Shift+F3 until desired result. It allows you to
 > select from All Caps, No Caps, Proper Case and Title Case. Much better then
 > erasing the sentence and re-writing it.

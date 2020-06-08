@@ -3,7 +3,7 @@ layout: post
 title: Video on the web
 permalink: perma/2006/08/27/video-on-the-web
 post_id: 40
-categories: 
+categories:
 - General
 ---
 

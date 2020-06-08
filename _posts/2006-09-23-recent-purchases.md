@@ -3,7 +3,7 @@ layout: post
 title: Recent purchases...
 permalink: perma/2006/09/23/recent-purchases
 post_id: 44
-categories: 
+categories:
 - Reading
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Some good articles about product development and product management
 permalink: perma/2006/04/29/some-good-articles-about-product-development-and-product-management
 post_id: 28
-categories: 
+categories:
 - Technology
 ---
 
@@ -51,16 +51,16 @@ No really, the article is good, go read it!
 
 A second article on that blog is about the "<a
 href="http://www.randsinrepose.com/archives/2005/03/20/free_electron.html">Free
-Electron</a>" in your development team:  
+Electron</a>" in your development team:
 
     A Free Electron can do anything when it comes to code. They can write a
     complete application from scratch, learn a language in a weekend, and, most
     importantly, they can dive into a tremendous pile of spaghetti code, make sense
     of it, and actually getting it working. You can build an entire businesses
-    around a Free Electron. They're that good.  
+    around a Free Electron. They're that good.
 
 There is some gold in that article as well. Example: don't send
-your Free Electron off fixing those three memory leaks: 
+your Free Electron off fixing those three memory leaks:
 
     When he returned, the bugs were fixed and the entire database layer had been
     rewritten. A piece of code that would taken two engineers roughly six months to

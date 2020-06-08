@@ -3,7 +3,7 @@ layout: post
 title: Quick post on my ski plans this season
 permalink: perma/2006/09/20/quick-post-on-my-ski-plans-this-season
 post_id: 43
-categories: 
+categories:
 - Skiing
 ---
 
