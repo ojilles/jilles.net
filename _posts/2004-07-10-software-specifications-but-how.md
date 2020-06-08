@@ -3,11 +3,13 @@ layout: post
 title: Specifications? How?
 permalink: perma/2004/07/10/software-specifications-but-how
 post_id: 6
-categories: 
+categories:
 - Technology
 ---
 
-[This post is a re-post of a question I asked at [Joelonsoftware.com's discussion forums](http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=161422&ixReplies=0)]
+(This post is a re-post of a question I asked at [Joelonsoftware.com's
+discussion
+forums](http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=161422&ixReplies=0))
 
 Before I start of this post, I'd like to refer to certain other sources to
 prove that Specifications are important for any software development. It works

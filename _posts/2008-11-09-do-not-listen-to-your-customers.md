@@ -7,11 +7,9 @@ categories:
 - Business
 ---
 
-
-
     I felt we should just talk to as many customers as possible, and do whatever
     they say. But that is a bad idea. It confuses the tactic, which is listening,
-    with the strategy, which is learning. 
+    with the strategy, which is learning.
 
 (<a href="http://startuplessonslearned.blogspot.com/2008/10/when-not-to-listen-to-your-users-when.html">reference</a>)
 
@@ -25,10 +23,7 @@ people involved in the listening? People will fall into three categories:
 This of course, needs the quote by <a
 href="http://en.wikipedia.org/wiki/Henry_ford">Henry Ford</a> about people
 asking for a faster horse. It is while you listen to your customers you
-validate and refine your strategy. 
+validate and refine your strategy.
 
 Draw up your own plan, validate it and stick with it: don't breed a faster
 horse!
-
-
-
