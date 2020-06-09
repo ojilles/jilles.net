@@ -132,4 +132,6 @@ bundler
 #and run:
 rake dev
 
-
+# images
+#  https://pixabay.com/
+#  https://unsplash.com/
