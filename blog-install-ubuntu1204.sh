@@ -135,3 +135,13 @@ rake dev
 # images
 #  https://pixabay.com/
 #  https://unsplash.com/
+# grammar
+#  https://www.quickanddirtytips.com/grammar-girl
+#  https://www.chicagomanualofstyle.org/home.html
+#  
+
+# htaccess to rewrite to SSL
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.yourdomain.com/$1 [R,L]
+
