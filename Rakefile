@@ -3,7 +3,7 @@ require 'date'
 
 # no trailing slashes here!
 $local_url = "http://192.168.178.34"
-$production_url = "http://www.jilles.net"
+$production_url = "https://www.jilles.net"
 
 desc 'Development: Rebuild the site'
 task :dev => [:dev_config, :sass, :js_compile, :build, :tidy_html, :test_broken_links]
