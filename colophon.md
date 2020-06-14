@@ -21,7 +21,7 @@ So the current iteration of the site you are looking at is completely
 statically generated. Here is the software I use:
 
 * The Engine
-    * For the engine I use [Jekyll](https://github.com/mojombo/jekyll) 
+    * For the engine I use [Jekyll](https://github.com/mojombo/jekyll)
     * I have since modified Jekyll quite a bit, particularly the build system, based on [Rake](http://martinfowler.com/articles/rake.html)
     * JavaScript, using [jQuery](http://jquery.com/) in combination with [Google Closure](http://code.google.com/closure/) to compile my own JavaScript's
 * The production environment
