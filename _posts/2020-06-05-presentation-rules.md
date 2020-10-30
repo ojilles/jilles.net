@@ -12,7 +12,7 @@ presentations. This post attempts to collate these together to remind myself and
 potentially share with others.
 
 For this post I am assuming a presentation is chosen (for you). There are other
-approaches, such as memo's that may be more suited.
+approaches, such as memos that may be more suited.
 
 ### Premise
 1. 80%+ of all failures in an organization larger than 1.000 people are
@@ -57,7 +57,7 @@ role-play.
 
 6. **Executive Summary**.
 Have one. No, have two: the slide after your title slide should be your
-executive summary. Then run through your story line and bookend again with the
+executive summary. Then run through your story line and end again with the
 executive summary. This should be pixel for pixel the same content as the one in
 the beginning. Your executive summary is not allowed to introduce anything new;
 no new data, concepts or conclusions. [^6]
