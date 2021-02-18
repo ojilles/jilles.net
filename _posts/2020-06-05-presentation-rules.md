@@ -6,7 +6,7 @@ disable_comments: false
 categories:
 - Business
 ---
-I watch and write a lot of presentations at work.  I also spend a reasonable
+I watch and write a lot of presentations at work. I also spend a reasonable
 amount of time learning, and relearning from my own mistakes in crafting
 presentations. This post attempts to collate these together to remind myself and
 potentially share with others.
@@ -29,7 +29,7 @@ organization
 No presentation needs builds (exposing one bullet point of a list at a time),
 animations or transitions; no exceptions. In business this will invariably go
 wrong. Your audience will ask to go back a slide or two, you end up half way in
-a build, or worse, with an empty slide.  None of this is needed.
+a build, or worse, with an empty slide. None of this is needed.
 
 2. **Minimum font size 24pt**.
 Yes, not all the words in your mind will fit on that one page. Yes, that
@@ -88,7 +88,7 @@ make this, the better.
 
 10. **Graphs**.
 I feel this requires its own article. In fact entire books [^2] have been
-written on the topic.  Instead, I will attempt to quickly run down the top
+written on the topic. Instead, I will attempt to quickly run down the top
 points
 * **All axis are labeled**. What do they represent, and include a unit
 * **No Pie charts**. Invariably a time series chart will lead to better comparisons
@@ -109,7 +109,7 @@ here to help you with that.
 12. **Homework**.
 Do not try to convince your audience that you have done all your homework before
 presenting the results. This is not your main message, and it will distract.
-When I see this happen it often shows up as #11 "Wall of text".  If you are that
+When I see this happen it often shows up as #11 "Wall of text". If you are that
 person, ask yourself why the audience would assume you did not do your homework.
 You are likely operating under baseless assumptions.
 
@@ -135,8 +135,8 @@ fantastic resource for this. A couple of quick relevant points are:
 
 15. **Titles**.
 Titles for the individual slides or graphs should be the conclusion. Not only
-will this save your audience from expanding the mental energy, it allows you to
-select the conclusion you need if there is more than one available.  So instead
+will this save your audience from expending the mental energy, it allows you to
+select the conclusion you need if there is more than one available. So instead
 of "tire wear vs miles driven" it should say "tire wear increases with miles
 driven" [^4].
 
